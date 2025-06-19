@@ -41,39 +41,6 @@ This project addresses challenges in remote agricultural regions by replacing ou
 
 ---
 
-## 📁 Folder Structure
-digital-decision-support-farmers/
-│
-├── app/
-│ ├── static/
-│ │ ├── css/
-│ │ ├── js/
-│ │ └── images/
-│ ├── templates/
-│ │ ├── login.html
-│ │ ├── register.html
-│ │ ├── dashboard.html
-│ │ └── admin.html
-│ ├── init.py
-│ ├── routes.py
-│ ├── models.py
-│ ├── ml_models/
-│ │ ├── xgboost_model.pkl
-│ │ ├── resnet50_model.h5
-│ │ └── rf_model.pkl
-│ └── utils/
-│ └── database.py
-│
-├── dataset/
-│ └── crop_images/
-│
-├── requirements.txt
-├── README.md
-└── run.py
-
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
