@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Farmer Details</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Poppins', sans-serif;
+    }
+
+    body {
+      background: url('https://t4.ftcdn.net/jpg/09/59/09/25/360_F_959092536_gyAcc5rns1AV8fs4u9DU23qLFyqICw5T.jpg') no-repeat center center/cover;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      padding: 20px;
+      position: relative;
+    }
+
+    body::before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: rgba(0, 0, 0, 0.5); 
+      z-index: 0;
+    }
+
+    .form-container {
+      background-color: white;
+      width: 100%;
+      max-width: 700px;
+      padding: 30px;
+      border-radius: 8px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      position: relative;
+      z-index: 1;
+      max-height: 80vh; 
+      overflow-y: auto;
+    }
+
+    .input-box {
+      margin-bottom: 15px;
+    }
+
+    .input-box span.details {
+      display: block;
+      font-weight: 500;
+      margin-bottom: 5px;
+    }
+
+    .input-box input, .input-box select {
+      width: 100%;
+      height: 45px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      padding-left: 15px;
+      font-size: 16px;
+      outline: none;
+    }
+
+    .button input {
+      width: 100%;
+      height: 45px;
+      border: none;
+      border-radius: 5px;
+      background-color: #59b675;
+      color: white;
+      font-size: 18px;
+      font-weight: 500;
+      cursor: pointer;
+      transition: background 0.3s ease;
+    }
+
+    .button input:hover {
+      background-color: #4d9e60;
+    }
+
+    .back-btn {
+      display: inline-block;
+      padding: 10px 20px;
+      background-color: #59b675;
+      color: white;
+      text-align: center;
+      text-decoration: none;
+      border-radius: 5px;
+      margin-top: 20px;
+      cursor: pointer;
+    }
+
+    .back-btn:hover {
+      background-color: #4d9e60;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="form-container">
+    <h1>Subsidy Finder</h1>
+    <form action="/subsidyout" method="post">     
+      <div class="input-box">
+        <span class="details">Ownership of the land</span>
+        <select name="own" id="own" required>
+          <option value="">Do you own the land</option>
+          <option value="Yes">Yes</option>
+          <option value="No">No</option>
+        </select>
+      </div>
+      <div class="input-box">
+        <span class="details">Land Owned (in acers)</span>
+        <input type="number" name="landowned" id="landowned" placeholder="landowned" required step="0.5" value="1">
+      </div>
+      <div class="input-box">
+        <span class="details">Location</span>
+        <select name="region" id="region" required>
+            <option value="">Select the Region</option>
+            <option value="Andhra Pradesh">Andhra Pradesh</option>
+            <option value="Arunachal Pradesh">Arunachal Pradesh</option>
+            <option value="Assam">Assam</option>
+            <option value="Bihar">Bihar</option>
+            <option value="Chhattisgarh">Chhattisgarh</option>
+            <option value="Goa">Goa</option>
+            <option value="Gujarat">Gujarat</option>
+            <option value="Haryana">Haryana</option>
+            <option value="Himachal Pradesh">Himachal Pradesh</option>
+            <option value="Jharkhand">Jharkhand</option>
+            <option value="Karnataka">Karnataka</option>
+            <option value="Kerala">Kerala</option>
+            <option value="Madhya Pradesh">Madhya Pradesh</option>
+            <option value="Maharashtra">Maharashtra</option>
+            <option value="Manipur">Manipur</option>
+            <option value="Meghalaya">Meghalaya</option>
+            <option value="Mizoram">Mizoram</option>
+            <option value="Nagaland">Nagaland</option>
+            <option value="Odisha">Odisha</option>
+            <option value="Punjab">Punjab</option>
+            <option value="Rajasthan">Rajasthan</option>
+            <option value="Sikkim">Sikkim</option>
+            <option value="Tamil Nadu">Tamil Nadu</option>
+            <option value="Telangana">Telangana</option>
+            <option value="Tripura">Tripura</option>
+            <option value="Uttar Pradesh">Uttar Pradesh</option>
+            <option value="Uttarakhand">Uttarakhand</option>
+            <option value="West Bengal">West Bengal</option>
+            <option value="Andaman and Nicobar Islands">Andaman and Nicobar Islands</option>
+            <option value="Chandigarh">Chandigarh</option>
+            <option value="Dadra and Nagar Haveli and Daman and Diu">Dadra and Nagar Haveli and Daman and Diu</option>
+            <option value="Delhi">Delhi</option>
+            <option value="Jammu and Kashmir">Jammu and Kashmir</option>
+            <option value="Ladakh">Ladakh</option>
+            <option value="Lakshadweep">Lakshadweep</option>
+            <option value="Puducherry">Puducherry</option>
+        </select>
+      </div>
+
+      <div class="input-box">
+      <span class="details">Type of Fertilizers Used </span>
+      <select name="fertilizer" id="fertilizer" required>
+        <option value="">Selct the type of Fertilizers Used</option>
+        <option value="Organic">Organic Fertilizers</option>
+        <option value="Chemical">Chemical Fertilizers</option>
+        <option value="Bioinputs">Bioinputs Fertilizers</option>
+        </select>
+      </div>
+
+      <div class="input-box">
+        <span class="details">Farming Equipment</span>
+        <select name="equipment" id="equipment" required>
+          <option value="">Do you own any of the farming equipment</option>
+          <option value="Yes">Yes</option>
+          <option value="No">No</option>
+        </select>
+      </div> 
+
+      <div class="input-box">
+        <span class="details">Annual Income</span>
+        <input type="number" name="income" id="income" placeholder="income" required step="1000" value="75000">
+      </div>
+
+      <div class="input-box">
+        <span class="details">Loan Balance</span>
+        <input type="number" name="loan" id="loan" placeholder="loan" required step="1000" value="25000">
+      </div>
+
+      <div class="input-box">
+        <span class="details">Proper Irrigation</span>
+        <select name="pir" id="pir" required>
+          <option value="">Do you have proper Irrigation Facility</option>
+          <option value="Yes">Yes</option>
+          <option value="No">No</option>
+        </select>
+      </div> 
+
+      <div class="input-box">
+        <span class="details">Ownersip of Livestock</span>
+        <select name="livestock" id="livestock" required>
+          <option value="">Do own any Livestock</option>
+          <option value="Yes">Yes</option>
+          <option value="No">No</option>
+        </select>
+      </div> 
+
+      <div class="input-box">
+        <span class="details">Previous Subsidies</span>
+        <select name="prevsub" id="prevsub" required>
+          <option value="">Did you get any previous Subsidies</option>
+          <option value="Yes">Yes</option>
+          <option value="No">No</option>
+        </select>
+      </div>      
+      <div class="button">
+        <input type="submit" value="Know your eligible subsidy">
+    </div>   
+    
+    </form>
+
+    <a href="/main" class="back-btn" style="display: block; text-align: center;">Back to Homepage</a>
+
+  </div>
+
+</body>
+</html>

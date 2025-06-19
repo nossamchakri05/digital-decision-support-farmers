@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Subsidy Eligibility</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Poppins', sans-serif;
+    }
+
+    body {
+      background: url('https://t4.ftcdn.net/jpg/09/59/09/25/360_F_959092536_gyAcc5rns1AV8fs4u9DU23qLFyqICw5T.jpg') no-repeat center center/cover;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      padding: 20px;
+      position: relative;
+      color: #333;
+    }
+
+
+    body::before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: rgba(0, 0, 0, 0.5);
+      z-index: 0;
+    }
+
+    .subsidy-container {
+      background-color: white;
+      width: 100%;
+      max-width: 700px;
+      padding: 30px;
+      border-radius: 8px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      position: relative;
+      z-index: 1;
+      text-align: center;
+    }
+
+    h2 {
+      font-size: 24px;
+      margin-bottom: 15px;
+      color: #59b675;
+    }
+
+    .subsidy-eligibility {
+      font-size: 20px;
+      font-weight: 600;
+      color: #333;
+      margin-bottom: 20px;
+    }
+
+    .application-details {
+      text-align: left;
+      margin-bottom: 20px;
+    }
+
+    .application-details h3 {
+      font-size: 18px;
+      color: #333;
+      margin-bottom: 10px;
+    }
+
+    .application-details ul {
+      list-style-type: disc;
+      margin-left: 20px;
+    }
+
+    .application-details li {
+      margin-bottom: 10px;
+    }
+
+    /* Back Button */
+    .back-btn {
+      display: inline-block;
+      padding: 10px 20px;
+      background-color: #59b675;
+      color: white;
+      text-align: center;
+      text-decoration: none;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: background 0.3s ease;
+    }
+
+    .back-btn:hover {
+      background-color: #4d9e60;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="subsidy-container">
+    <h2>Subsidy Eligibility</h2>
+    
+    <div class="subsidy-eligibility">
+      <p>You are eligible for the <strong>{{ predicted_category }}</strong>.</p> 
+  </div>
+  <div class="application-details">
+      <h3>How to Apply and Scheme Details:</h3>
+      <ul>
+          {% for suggestion in farmer_scheme %}
+          <li>{{ suggestion }}</li>
+          {% endfor %}
+      </ul>
+  </div>
+  
+
+    <a href="/main" class="back-btn">Back to Homepage</a>
+  </div>
+
+</body>
+</html>

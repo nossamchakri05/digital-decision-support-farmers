@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Farm Management System</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Poppins', sans-serif;
+    }
+
+    body {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      padding: 20px;
+      background: url('farm-background.jpg') no-repeat center center/cover;
+      color: #ffffff;
+      text-align: center;
+      position: relative;
+    }
+
+    /* Overlay for background image */
+    body::before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: rgba(15, 94, 15, 0.479);
+      z-index: 0;
+    }
+
+    .container {
+      position: relative;
+      z-index: 1;
+      max-width: 800px;
+      width: 100%;
+      background-color: rgba(251, 0, 0, 0.167);
+      padding: 30px;
+      border-radius: 8px;
+      box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    }
+
+    .title {
+      font-size: 36px;
+      font-weight: 600;
+      margin-bottom: 20px;
+    }
+
+    .subtitle {
+      font-size: 18px;
+      font-weight: 300;
+      margin-bottom: 30px;
+    }
+
+    .button-group {
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+    }
+
+    .button-group a {
+      text-decoration: none;
+      color: #ffffff;
+      font-size: 18px;
+      font-weight: 500;
+      padding: 12px 25px;
+      border-radius: 5px;
+      background: linear-gradient(135deg, #91d0e1, #59b6759c);
+      transition: background 0.3s ease;
+    }
+
+    .button-group a:hover {
+      background: linear-gradient(-135deg, #91d0e1, #59b6759c);
+    }
+
+    footer {
+      position: absolute;
+      bottom: 10px;
+      font-size: 14px;
+      color: #ccc;
+      z-index: 1;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <h1 class="title">Welcome to AgriDB: Your farm's digital assistant for optimal yield and sustainability.</h1>
+    <p class="subtitle">A platform for farmers to manage crop information, proctect your crops, monitor pest management, and much more.</p>
+    
+    <div class="button-group">
+      <a href="/login">Let's go</a>
+    </div>
+  </div>
+
+</body>
+</html>

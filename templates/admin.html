@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Admin Portal</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap">
+  <style>
+    /* Add your styles here */
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Poppins', sans-serif;
+    }
+
+    body {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center;
+      padding: 20px;
+    }
+
+    h1 {
+      color: #59b675;
+      margin-bottom: 20px;
+      font-size: 30px;
+    }
+
+    .container {
+      width: 100%;
+      max-width: 1200px;
+      background-color: white;
+      border-radius: 8px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      overflow: hidden;
+      margin-bottom: 20px;
+    }
+
+    .nav {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      background-color: #59b675;
+      color: white;
+      padding: 10px 20px;
+      width: 100%;
+    }
+
+    .nav-left {
+      display: flex;
+      justify-content: flex-start;
+      width: auto;
+    }
+
+    .nav-left button {
+      background: none;
+      border: none;
+      color: white;
+      font-weight: bold;
+      cursor: pointer;
+      transition: background 0.3s;
+      font-size: 18px;
+      padding: 10px 20px;
+      margin-right: 10px;
+    }
+
+    .nav-left button:hover {
+      background-color: #4d9e60;
+      border-radius: 5px;
+    }
+
+    .nav-right {
+      display: flex;
+      justify-content: flex-end;
+    }
+
+    .logout-btn {
+      background-color: #e74c3c;
+      color: white;
+      font-weight: bold;
+      padding: 8px 15px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+
+    .logout-btn:hover {
+      background-color: #c0392b;
+    }
+
+    .content {
+      display: none;
+      padding: 20px;
+    }
+
+    .content.active {
+      display: block;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 20px 0;
+    }
+
+    table th, table td {
+      border: 1px solid #ddd;
+      padding: 8px;
+      text-align: left;
+    }
+
+    table th {
+      background-color: #59b675;
+      color: white;
+    }
+
+    .btn {
+      padding: 5px 10px;
+      color: white;
+      background-color: #59b675;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      text-align: center;
+    }
+
+    .btn:hover {
+      background-color: #4d9e60;
+    }
+
+    .form-container {
+      margin-top: 20px;
+    }
+
+    .form-container input,
+    .form-container select,
+    .form-container button {
+      padding: 10px;
+      margin: 10px;
+      width: 100%;
+      font-size: 16px;
+    }
+
+    .form-container button {
+      background-color: #59b675;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+
+    .form-container button:hover {
+      background-color: #4d9e60;
+    }
+  </style>
+</head>
+<body>
+  <h1>Admin Portal</h1>
+  <div class="container">
+    <div class="nav">
+      <div class="nav-left">
+        <button onclick="users()">Manage Users</button>
+        <button onclick="yield_predict()">Yield Predictions</button>
+        <button onclick="subsidy_query()">Subsidy Queries</button>
+        <button onclick="disease_predict()">Disease Predictions</button>
+      </div>
+      <div class="nav-right">
+        <button class="logout-btn" onclick="logout()">Logout</button>
+      </div>
+    </div>
+
+    <!-- Manage Users Section -->
+    <div id="users" class="content {% if section == 'users' %}active{% endif %}">
+      <h2>Manage Users</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>User ID</th>
+            <th>Full Name</th>
+            <th>Username</th>
+            <th>Email</th>
+            <th>Contact</th>
+            <th>Aadhar Number</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for user in users %}
+          <tr>
+            <td>{{ user.user_id }}</td>
+            <td>{{ user.full_name }}</td>
+            <td>{{ user.username }}</td>
+            <td>{{ user.email }}</td>
+            <td>{{ user.contact_number }}</td>
+            <td>{{ user.aadhar_number }}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+
+    <!-- Yield Predictions Section -->
+    <div id="yield" class="content {% if section == 'yield' %}active{% endif %}">
+      <h2>Yield Predictions</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Record ID</th>
+            <th>User ID</th>
+            <th>Area Ploughed</th>
+            <th>Soil Type</th>
+            <th>Average Rainfall</th>
+            <th>Season</th>
+            <th>Seed Type</th>
+            <th>Transplanting Method</th>
+            <th>Irrigation Method</th>
+            <th>Fertilizer Type</th>
+            <th>Category</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for yield in yields %}
+          <tr>
+            <td>{{ yield.record_id }}</td>
+            <td>{{ yield.user_id }}</td>
+            <td>{{ yield.area_ploughed }}</td>
+            <td>{{ yield.soil_type }}</td>
+            <td>{{ yield.average_rainfall }}</td>
+            <td>{{ yield.season }}</td>
+            <td>{{ yield.seed_type }}</td>
+            <td>{{ yield.transplanting_method }}</td>
+            <td>{{ yield.irrigation_method }}</td>
+            <td>{{ yield.fertilizer_type }}</td>
+            <td>{{ yield.category }}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+
+    <!-- Subsidy Queries Section -->
+    <div id="subsidies" class="content {% if section == 'subsidies' %}active{% endif %}">
+      <h2>Subsidy Queries</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Query ID</th>
+            <th>User ID</th>
+            <th>Land Ownership</th>
+            <th>Land Owned (Acres)</th>
+            <th>Location</th>
+            <th>Fertilizer Type</th>
+            <th>Equipment Ownership</th>
+            <th>Annual Income</th>
+            <th>Loan Balance</th>
+            <th>Irrigation Facility</th>
+            <th>Livestock Ownership</th>
+            <th>Previous Subsidies</th>
+            <th>Predicted Output</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for subsidy in subsidies %}
+          <tr>
+            <td>{{ subsidy.query_id }}</td>
+            <td>{{ subsidy.user_id }}</td>
+            <td>{{ subsidy.land_ownership }}</td>
+            <td>{{ subsidy.land_owned_acres }}</td>
+            <td>{{ subsidy.location }}</td>
+            <td>{{ subsidy.fertilizer_type }}</td>
+            <td>{{ subsidy.equipment_ownership }}</td>
+            <td>{{ subsidy.annual_income }}</td>
+            <td>{{ subsidy.loan_balance }}</td>
+            <td>{{ subsidy.irrigation_facility }}</td>
+            <td>{{ subsidy.livestock_ownership }}</td>
+            <td>{{ subsidy.previous_subsidies }}</td>
+            <td>{{ subsidy.predicted_output }}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+
+    <!-- Disease Predictions Section -->
+    <div id="diseases" class="content {% if section == 'diseases' %}active{% endif %}">
+      <h2>Disease Predictions</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Prediction ID</th>
+            <th>User ID</th>
+            <th>Image Name</th>
+            <th>Predicted Output</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for disease in diseases %}
+          <tr>
+            <td>{{ disease.prediction_id }}</td>
+            <td>{{ disease.user_id }}</td>
+            <td>{{ disease.image_name }}</td>
+            <td>{{ disease.predicted_output }}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <script>
+    function showSection(sectionId) {
+      const sections = document.querySelectorAll('.content');
+      sections.forEach(section => section.classList.remove('active'));
+
+      const selectedSection = document.getElementById(sectionId);
+      selectedSection.classList.add('active');
+    }
+
+    function users(){
+      window.location.href = '/manage_users';
+    }
+
+    function yield_predict(){
+      window.location.href = '/yield_predictions';
+    }
+
+    function subsidy_query(){
+      window.location.href = '/subsidy_queries';
+    }
+
+    function disease_predict(){
+      window.location.href = '/disease_predictions';
+    }
+
+
+    function logout() {
+      window.location.href = '/logout'; // Modify as per your route
+    }
+  </script>
+</body>
+</html>

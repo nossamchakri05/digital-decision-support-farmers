@@ -1,0 +1,1501 @@
+Type of Soil,Area Ploughed (in acres),Average Rainfall (in mm),Season,Type of Seeds,Type of Transplanting Method,Type of Irrigation Method,Type of Fertilizers Used,Yield Category
+Laterite Soil,17.35,230.3,Zaid,Foundation Seeds,Machine,Canal Irrigation,Bioinputs Fertilizers,Low
+Saline and Alkaline Soil,2.16,649.8,Kharif,Breeder Seeds,Machine,Well Irrigation,Chemical Fertilizers,Medium
+Red and Yellow Soil,7.87,764.7,Zaid,Hybrid Seeds,Machine,Canal Irrigation,Bioinputs Fertilizers,Low
+Saline and Alkaline Soil,17.85,636.2,Kharif,Hybrid Seeds,Machine,Canal Irrigation,Organic Fertilizers,High
+Saline and Alkaline Soil,2.15,819.9,Kharif,Foundation Seeds,Manual,Drip Irrigation,Chemical Fertilizers,Very High
+Black Soil,14.76,912.9,Zaid,Open-Pollinated Seeds,Manual,Tubewell Irrigation,Chemical Fertilizers,Low
+Red and Yellow Soil,8.97,64.4,Zaid,Breeder Seeds,Machine,Sprinkler Irrigation,Chemical Fertilizers,Low
+Red and Yellow Soil,15.71,722.9,Rabi,Hybrid Seeds,Manual,Drip Irrigation,Organic Fertilizers,High
+Red and Yellow Soil,1.62,1447.1,Zaid,Breeder Seeds,Manual,Tank Irrigation,Chemical Fertilizers,Medium
+Saline and Alkaline Soil,21.85,802.6,Rabi,Hybrid Seeds,Manual,Canal Irrigation,Chemical Fertilizers,Medium
+Laterite Soil,24.35,1032.4,Zaid,Open-Pollinated Seeds,Manual,Tank Irrigation,Chemical Fertilizers,Medium
+Red and Yellow Soil,24.24,502.2,Kharif,Hybrid Seeds,Machine,Drip Irrigation,Chemical Fertilizers,High
+Saline and Alkaline Soil,18.87,1172.3,Zaid,Hybrid Seeds,Manual,Tubewell Irrigation,Bioinputs Fertilizers,High
+Black Soil,3.69,1170.7,Kharif,Genetically Modified (GM) Seeds,Machine,Drip Irrigation,Chemical Fertilizers,Very High
+Laterite Soil,19.08,805.9,Kharif,Open-Pollinated Seeds,Machine,Tubewell Irrigation,Organic Fertilizers,Very High
+Black Soil,1.1,1465.2,Kharif,Foundation Seeds,Manual,Tubewell Irrigation,Chemical Fertilizers,Very High
+Laterite Soil,1.04,232.0,Rabi,Foundation Seeds,Machine,Well Irrigation,Chemical Fertilizers,Medium
+Saline and Alkaline Soil,8.43,74.6,Zaid,Open-Pollinated Seeds,Manual,Canal Irrigation,Bioinputs Fertilizers,Low
+Alluvial Soil,12.47,1166.7,Kharif,Foundation Seeds,Manual,Drip Irrigation,Chemical Fertilizers,Very High
+Laterite Soil,19.37,1220.4,Kharif,Open-Pollinated Seeds,Manual,Tubewell Irrigation,Bioinputs Fertilizers,High
+Black Soil,17.24,224.3,Rabi,Foundation Seeds,Machine,Drip Irrigation,Organic Fertilizers,High
+Saline and Alkaline Soil,11.42,435.1,Zaid,Genetically Modified (GM) Seeds,Machine,Drip Irrigation,Bioinputs Fertilizers,Medium
+Laterite Soil,7.2,75.5,Zaid,Foundation Seeds,Machine,Tubewell Irrigation,Chemical Fertilizers,Low
+Alluvial Soil,24.93,475.3,Rabi,Hybrid Seeds,Manual,Sprinkler Irrigation,Organic Fertilizers,Very High
+Alluvial Soil,10.94,1171.1,Rabi,Open-Pollinated Seeds,Manual,Tank Irrigation,Chemical Fertilizers,Medium
+Red and Yellow Soil,11.56,801.0,Zaid,Breeder Seeds,Manual,Canal Irrigation,Bioinputs Fertilizers,Low
+Red and Yellow Soil,4.51,554.7,Rabi,Breeder Seeds,Machine,Canal Irrigation,Organic Fertilizers,Medium
+Black Soil,19.97,589.0,Zaid,Open-Pollinated Seeds,Manual,Sprinkler Irrigation,Organic Fertilizers,Low
+Laterite Soil,17.5,52.0,Zaid,Genetically Modified (GM) Seeds,Manual,Well Irrigation,Bioinputs Fertilizers,Low
+Laterite Soil,5.91,484.7,Kharif,Foundation Seeds,Machine,Sprinkler Irrigation,Bioinputs Fertilizers,High
+Red and Yellow Soil,2.52,987.4,Kharif,Genetically Modified (GM) Seeds,Machine,Well Irrigation,Organic Fertilizers,Very High
+Laterite Soil,17.17,1462.6,Zaid,Breeder Seeds,Machine,Well Irrigation,Organic Fertilizers,High
+Laterite Soil,16.54,1278.2,Zaid,Open-Pollinated Seeds,Manual,Sprinkler Irrigation,Bioinputs Fertilizers,Medium
+Alluvial Soil,7.19,84.2,Zaid,Open-Pollinated Seeds,Manual,Canal Irrigation,Chemical Fertilizers,Low
+Red and Yellow Soil,23.8,1352.9,Zaid,Genetically Modified (GM) Seeds,Manual,Tank Irrigation,Organic Fertilizers,Very High
+Saline and Alkaline Soil,4.2,1185.6,Zaid,Genetically Modified (GM) Seeds,Machine,Canal Irrigation,Bioinputs Fertilizers,Medium
+Red and Yellow Soil,11.09,1181.5,Zaid,Foundation Seeds,Machine,Canal Irrigation,Chemical Fertilizers,Low
+Saline and Alkaline Soil,23.62,714.1,Rabi,Hybrid Seeds,Machine,Canal Irrigation,Organic Fertilizers,High
+Alluvial Soil,10.78,627.1,Zaid,Hybrid Seeds,Machine,Sprinkler Irrigation,Organic Fertilizers,High
+Black Soil,16.14,489.2,Rabi,Foundation Seeds,Manual,Sprinkler Irrigation,Bioinputs Fertilizers,Low
+Laterite Soil,10.24,145.3,Rabi,Hybrid Seeds,Manual,Sprinkler Irrigation,Chemical Fertilizers,Low
+Alluvial Soil,7.22,380.9,Zaid,Breeder Seeds,Manual,Canal Irrigation,Organic Fertilizers,High
+Laterite Soil,24.61,407.6,Zaid,Hybrid Seeds,Manual,Tank Irrigation,Chemical Fertilizers,Low
+Black Soil,10.53,751.9,Rabi,Foundation Seeds,Manual,Well Irrigation,Chemical Fertilizers,Low
+Black Soil,22.41,1133.8,Rabi,Hybrid Seeds,Manual,Drip Irrigation,Organic Fertilizers,Very High
+Alluvial Soil,6.13,737.0,Zaid,Open-Pollinated Seeds,Manual,Well Irrigation,Chemical Fertilizers,Low
+Black Soil,5.72,133.9,Zaid,Genetically Modified (GM) Seeds,Manual,Well Irrigation,Organic Fertilizers,Medium
+Saline and Alkaline Soil,1.26,1438.8,Rabi,Breeder Seeds,Machine,Drip Irrigation,Chemical Fertilizers,High
+Black Soil,16.47,1417.0,Rabi,Open-Pollinated Seeds,Machine,Canal Irrigation,Organic Fertilizers,High
+Laterite Soil,9.53,1188.5,Rabi,Open-Pollinated Seeds,Manual,Tank Irrigation,Bioinputs Fertilizers,Medium
+Laterite Soil,21.68,1487.4,Kharif,Foundation Seeds,Machine,Tank Irrigation,Organic Fertilizers,Very High
+Laterite Soil,12.09,839.5,Rabi,Genetically Modified (GM) Seeds,Manual,Well Irrigation,Organic Fertilizers,High
+Laterite Soil,24.22,1446.0,Kharif,Genetically Modified (GM) Seeds,Manual,Drip Irrigation,Organic Fertilizers,Very High
+Saline and Alkaline Soil,5.05,159.6,Zaid,Breeder Seeds,Machine,Tubewell Irrigation,Chemical Fertilizers,Low
+Red and Yellow Soil,21.78,580.2,Zaid,Foundation Seeds,Manual,Canal Irrigation,Bioinputs Fertilizers,Low
+Alluvial Soil,19.53,376.8,Rabi,Breeder Seeds,Manual,Well Irrigation,Chemical Fertilizers,Low
+Laterite Soil,19.39,334.0,Zaid,Hybrid Seeds,Manual,Tank Irrigation,Chemical Fertilizers,Low
+Black Soil,21.2,254.2,Zaid,Open-Pollinated Seeds,Manual,Sprinkler Irrigation,Organic Fertilizers,Medium
+Laterite Soil,19.15,952.5,Zaid,Breeder Seeds,Manual,Sprinkler Irrigation,Chemical Fertilizers,High
+Black Soil,15.84,1182.9,Zaid,Open-Pollinated Seeds,Manual,Drip Irrigation,Organic Fertilizers,Very High
+Black Soil,3.72,888.5,Kharif,Foundation Seeds,Manual,Drip Irrigation,Bioinputs Fertilizers,Very High
+Laterite Soil,1.3,263.1,Kharif,Hybrid Seeds,Machine,Well Irrigation,Chemical Fertilizers,Medium
+Saline and Alkaline Soil,23.06,1226.1,Rabi,Foundation Seeds,Machine,Tubewell Irrigation,Chemical Fertilizers,Medium
+Black Soil,15.61,972.1,Rabi,Hybrid Seeds,Manual,Tank Irrigation,Chemical Fertilizers,High
+Black Soil,20.02,612.8,Rabi,Hybrid Seeds,Machine,Well Irrigation,Organic Fertilizers,Medium
+Laterite Soil,12.3,1027.5,Zaid,Open-Pollinated Seeds,Manual,Tubewell Irrigation,Organic Fertilizers,Very High
+Black Soil,3.37,426.9,Zaid,Foundation Seeds,Manual,Drip Irrigation,Chemical Fertilizers,Medium
+Black Soil,3.57,550.5,Kharif,Foundation Seeds,Manual,Sprinkler Irrigation,Chemical Fertilizers,Medium
+Laterite Soil,17.3,1380.4,Kharif,Breeder Seeds,Manual,Canal Irrigation,Bioinputs Fertilizers,Very High
+Laterite Soil,11.04,471.2,Rabi,Foundation Seeds,Machine,Sprinkler Irrigation,Bioinputs Fertilizers,Low
+Alluvial Soil,5.41,731.5,Kharif,Breeder Seeds,Machine,Tank Irrigation,Bioinputs Fertilizers,Medium
+Saline and Alkaline Soil,12.54,1340.7,Kharif,Genetically Modified (GM) Seeds,Machine,Tank Irrigation,Bioinputs Fertilizers,High
+Saline and Alkaline Soil,2.07,1076.2,Kharif,Genetically Modified (GM) Seeds,Machine,Sprinkler Irrigation,Bioinputs Fertilizers,High
+Black Soil,14.76,140.2,Kharif,Genetically Modified (GM) Seeds,Manual,Sprinkler Irrigation,Organic Fertilizers,High
+Saline and Alkaline Soil,7.09,263.6,Kharif,Foundation Seeds,Machine,Tubewell Irrigation,Bioinputs Fertilizers,Medium
+Black Soil,20.04,61.4,Rabi,Foundation Seeds,Manual,Well Irrigation,Bioinputs Fertilizers,Low
+Alluvial Soil,8.1,964.8,Rabi,Breeder Seeds,Manual,Drip Irrigation,Chemical Fertilizers,High
+Laterite Soil,11.65,699.1,Kharif,Hybrid Seeds,Machine,Tubewell Irrigation,Organic Fertilizers,High
+Laterite Soil,0.78,244.7,Rabi,Breeder Seeds,Manual,Canal Irrigation,Bioinputs Fertilizers,Low
+Laterite Soil,2.27,1439.0,Zaid,Genetically Modified (GM) Seeds,Machine,Sprinkler Irrigation,Bioinputs Fertilizers,Medium
+Saline and Alkaline Soil,10.12,818.0,Kharif,Breeder Seeds,Machine,Canal Irrigation,Bioinputs Fertilizers,Very High
+Alluvial Soil,12.26,400.7,Zaid,Hybrid Seeds,Machine,Canal Irrigation,Chemical Fertilizers,Low
+Saline and Alkaline Soil,15.2,775.9,Rabi,Foundation Seeds,Machine,Tubewell Irrigation,Chemical Fertilizers,Low
+Saline and Alkaline Soil,7.65,1035.4,Rabi,Breeder Seeds,Machine,Drip Irrigation,Chemical Fertilizers,High
+Alluvial Soil,17.53,160.5,Zaid,Genetically Modified (GM) Seeds,Manual,Tank Irrigation,Bioinputs Fertilizers,Medium
+Alluvial Soil,21.57,448.3,Rabi,Genetically Modified (GM) Seeds,Machine,Well Irrigation,Chemical Fertilizers,Medium
+Alluvial Soil,19.61,1220.1,Kharif,Foundation Seeds,Machine,Tank Irrigation,Bioinputs Fertilizers,Very High
+Alluvial Soil,1.47,716.5,Zaid,Breeder Seeds,Manual,Drip Irrigation,Organic Fertilizers,Very High
+Laterite Soil,12.27,842.5,Kharif,Hybrid Seeds,Machine,Tank Irrigation,Bioinputs Fertilizers,Very High
+Red and Yellow Soil,3.07,677.6,Zaid,Foundation Seeds,Machine,Sprinkler Irrigation,Chemical Fertilizers,Low
+Red and Yellow Soil,6.43,113.7,Rabi,Breeder Seeds,Manual,Sprinkler Irrigation,Organic Fertilizers,Medium
+Alluvial Soil,24.67,290.3,Zaid,Open-Pollinated Seeds,Manual,Tubewell Irrigation,Bioinputs Fertilizers,Low
+Red and Yellow Soil,3.99,696.0,Zaid,Genetically Modified (GM) Seeds,Machine,Canal Irrigation,Organic Fertilizers,Medium
+Red and Yellow Soil,12.72,353.3,Kharif,Hybrid Seeds,Manual,Drip Irrigation,Organic Fertilizers,Very High
+Alluvial Soil,15.64,122.5,Rabi,Hybrid Seeds,Machine,Drip Irrigation,Organic Fertilizers,Very High
+Red and Yellow Soil,17.71,1273.3,Kharif,Hybrid Seeds,Manual,Tank Irrigation,Bioinputs Fertilizers,High
+Saline and Alkaline Soil,14.21,1472.7,Rabi,Genetically Modified (GM) Seeds,Machine,Tubewell Irrigation,Chemical Fertilizers,Low
+Black Soil,0.74,1200.1,Kharif,Breeder Seeds,Machine,Tank Irrigation,Bioinputs Fertilizers,High
+Black Soil,8.5,1288.0,Zaid,Foundation Seeds,Machine,Tank Irrigation,Chemical Fertilizers,Medium
+Alluvial Soil,13.18,400.9,Kharif,Breeder Seeds,Manual,Drip Irrigation,Bioinputs Fertilizers,High
+Laterite Soil,2.65,1442.9,Rabi,Foundation Seeds,Machine,Tank Irrigation,Bioinputs Fertilizers,Medium
+Alluvial Soil,9.09,335.5,Rabi,Hybrid Seeds,Manual,Canal Irrigation,Bioinputs Fertilizers,Low
+Laterite Soil,1.31,1429.6,Zaid,Breeder Seeds,Machine,Tank Irrigation,Chemical Fertilizers,Medium
+Black Soil,2.43,1492.5,Rabi,Hybrid Seeds,Machine,Canal Irrigation,Bioinputs Fertilizers,Low
+Alluvial Soil,10.22,1082.0,Kharif,Open-Pollinated Seeds,Machine,Drip Irrigation,Organic Fertilizers,Very High
+Saline and Alkaline Soil,3.75,1472.7,Zaid,Hybrid Seeds,Machine,Tubewell Irrigation,Bioinputs Fertilizers,High
+Red and Yellow Soil,14.4,875.8,Rabi,Hybrid Seeds,Machine,Sprinkler Irrigation,Organic Fertilizers,High
+Laterite Soil,17.39,426.3,Rabi,Foundation Seeds,Manual,Canal Irrigation,Chemical Fertilizers,Low
+Red and Yellow Soil,20.11,683.6,Kharif,Open-Pollinated Seeds,Manual,Tubewell Irrigation,Chemical Fertilizers,Medium
+Red and Yellow Soil,5.4,910.7,Kharif,Hybrid Seeds,Manual,Tubewell Irrigation,Bioinputs Fertilizers,High
+Alluvial Soil,4.6,156.0,Zaid,Hybrid Seeds,Machine,Canal Irrigation,Bioinputs Fertilizers,Medium
+Red and Yellow Soil,3.06,952.4,Rabi,Open-Pollinated Seeds,Machine,Drip Irrigation,Bioinputs Fertilizers,Low
+Saline and Alkaline Soil,16.09,1472.7,Kharif,Open-Pollinated Seeds,Manual,Well Irrigation,Organic Fertilizers,Very High
+Red and Yellow Soil,17.81,325.7,Zaid,Breeder Seeds,Machine,Tubewell Irrigation,Chemical Fertilizers,Medium
+Alluvial Soil,1.27,1199.3,Rabi,Foundation Seeds,Machine,Tubewell Irrigation,Organic Fertilizers,High
+Saline and Alkaline Soil,23.44,1366.5,Rabi,Open-Pollinated Seeds,Machine,Drip Irrigation,Organic Fertilizers,Very High
+Black Soil,1.77,1418.4,Zaid,Open-Pollinated Seeds,Manual,Drip Irrigation,Bioinputs Fertilizers,High
+Red and Yellow Soil,13.76,1442.2,Zaid,Genetically Modified (GM) Seeds,Manual,Tank Irrigation,Bioinputs Fertilizers,Medium
+Alluvial Soil,17.87,806.1,Kharif,Open-Pollinated Seeds,Manual,Drip Irrigation,Organic Fertilizers,Very High
+Black Soil,21.84,1467.1,Rabi,Foundation Seeds,Manual,Tubewell Irrigation,Organic Fertilizers,High
+Black Soil,18.0,1148.1,Rabi,Hybrid Seeds,Manual,Canal Irrigation,Bioinputs Fertilizers,Medium
+Laterite Soil,20.14,284.4,Rabi,Hybrid Seeds,Machine,Well Irrigation,Bioinputs Fertilizers,Medium
+Saline and Alkaline Soil,8.82,741.5,Zaid,Hybrid Seeds,Machine,Tank Irrigation,Organic Fertilizers,Low
+Red and Yellow Soil,20.46,1091.6,Kharif,Hybrid Seeds,Machine,Canal Irrigation,Bioinputs Fertilizers,Very High
+Alluvial Soil,2.46,408.6,Rabi,Genetically Modified (GM) Seeds,Machine,Well Irrigation,Bioinputs Fertilizers,Medium
+Laterite Soil,22.42,978.9,Zaid,Open-Pollinated Seeds,Manual,Well Irrigation,Organic Fertilizers,High
+Saline and Alkaline Soil,13.92,1016.6,Rabi,Hybrid Seeds,Manual,Well Irrigation,Organic Fertilizers,High
+Laterite Soil,20.52,285.9,Kharif,Breeder Seeds,Machine,Sprinkler Irrigation,Chemical Fertilizers,Medium
+Saline and Alkaline Soil,11.58,869.4,Rabi,Hybrid Seeds,Manual,Canal Irrigation,Organic Fertilizers,High
+Saline and Alkaline Soil,16.27,1168.9,Kharif,Open-Pollinated Seeds,Machine,Tank Irrigation,Bioinputs Fertilizers,Very High
+Red and Yellow Soil,13.4,773.4,Kharif,Hybrid Seeds,Machine,Tank Irrigation,Organic Fertilizers,High
+Saline and Alkaline Soil,18.42,67.5,Rabi,Genetically Modified (GM) Seeds,Machine,Well Irrigation,Organic Fertilizers,Medium
+Laterite Soil,2.5,63.1,Rabi,Foundation Seeds,Machine,Canal Irrigation,Organic Fertilizers,Medium
+Saline and Alkaline Soil,1.98,567.7,Kharif,Foundation Seeds,Manual,Sprinkler Irrigation,Chemical Fertilizers,Medium
+Red and Yellow Soil,6.55,1393.0,Zaid,Open-Pollinated Seeds,Machine,Well Irrigation,Chemical Fertilizers,Low
+Red and Yellow Soil,4.41,381.6,Kharif,Foundation Seeds,Manual,Drip Irrigation,Bioinputs Fertilizers,Medium
+Laterite Soil,21.86,969.8,Rabi,Foundation Seeds,Machine,Tank Irrigation,Chemical Fertilizers,Very High
+Black Soil,5.87,372.0,Rabi,Breeder Seeds,Machine,Tubewell Irrigation,Organic Fertilizers,Medium
+Black Soil,24.41,516.4,Zaid,Open-Pollinated Seeds,Machine,Well Irrigation,Chemical Fertilizers,Medium
+Saline and Alkaline Soil,8.75,1279.7,Kharif,Open-Pollinated Seeds,Machine,Drip Irrigation,Organic Fertilizers,Very High
+Alluvial Soil,4.96,1106.8,Kharif,Foundation Seeds,Manual,Tank Irrigation,Chemical Fertilizers,Very High
+Saline and Alkaline Soil,19.85,188.3,Kharif,Foundation Seeds,Machine,Sprinkler Irrigation,Chemical Fertilizers,Medium
+Laterite Soil,16.64,671.6,Rabi,Foundation Seeds,Manual,Canal Irrigation,Chemical Fertilizers,Low
+Laterite Soil,12.71,92.3,Kharif,Genetically Modified (GM) Seeds,Machine,Tank Irrigation,Organic Fertilizers,Medium
+Laterite Soil,14.11,747.3,Zaid,Hybrid Seeds,Machine,Canal Irrigation,Chemical Fertilizers,Low
+Laterite Soil,18.12,1010.5,Rabi,Genetically Modified (GM) Seeds,Machine,Canal Irrigation,Organic Fertilizers,Very High
+Laterite Soil,6.1,221.8,Rabi,Open-Pollinated Seeds,Manual,Sprinkler Irrigation,Organic Fertilizers,Low
+Red and Yellow Soil,24.91,468.9,Kharif,Breeder Seeds,Machine,Sprinkler Irrigation,Bioinputs Fertilizers,Medium
+Black Soil,24.38,626.9,Zaid,Hybrid Seeds,Machine,Well Irrigation,Chemical Fertilizers,Low
+Laterite Soil,16.43,1383.3,Rabi,Breeder Seeds,Machine,Well Irrigation,Bioinputs Fertilizers,Medium
+Alluvial Soil,5.39,1490.2,Rabi,Open-Pollinated Seeds,Machine,Tank Irrigation,Bioinputs Fertilizers,High
+Alluvial Soil,17.17,115.1,Kharif,Open-Pollinated Seeds,Machine,Sprinkler Irrigation,Organic Fertilizers,High
+Alluvial Soil,2.27,1153.5,Kharif,Breeder Seeds,Manual,Drip Irrigation,Chemical Fertilizers,Very High
+Alluvial Soil,1.25,589.0,Zaid,Breeder Seeds,Manual,Tank Irrigation,Organic Fertilizers,Medium
+Red and Yellow Soil,6.81,619.1,Kharif,Breeder Seeds,Machine,Tubewell Irrigation,Organic Fertilizers,Medium
+Alluvial Soil,11.83,1143.7,Zaid,Open-Pollinated Seeds,Machine,Canal Irrigation,Chemical Fertilizers,Very High
+Laterite Soil,21.77,1381.7,Rabi,Foundation Seeds,Manual,Canal Irrigation,Organic Fertilizers,High
+Saline and Alkaline Soil,18.32,1428.8,Zaid,Breeder Seeds,Machine,Well Irrigation,Chemical Fertilizers,High
+Alluvial Soil,18.7,886.8,Zaid,Hybrid Seeds,Manual,Drip Irrigation,Chemical Fertilizers,Very High
+Red and Yellow Soil,10.92,567.8,Zaid,Open-Pollinated Seeds,Machine,Sprinkler Irrigation,Organic Fertilizers,Medium
+Red and Yellow Soil,8.98,1191.9,Rabi,Genetically Modified (GM) Seeds,Machine,Sprinkler Irrigation,Organic Fertilizers,Very High
+Alluvial Soil,9.59,414.0,Kharif,Genetically Modified (GM) Seeds,Manual,Well Irrigation,Bioinputs Fertilizers,High
+Saline and Alkaline Soil,24.7,867.9,Rabi,Hybrid Seeds,Machine,Tubewell Irrigation,Organic Fertilizers,Very High
+Alluvial Soil,1.48,569.9,Kharif,Foundation Seeds,Manual,Tank Irrigation,Chemical Fertilizers,Medium
+Red and Yellow Soil,21.74,1002.1,Zaid,Breeder Seeds,Manual,Tank Irrigation,Bioinputs Fertilizers,Medium
+Black Soil,14.68,398.6,Zaid,Open-Pollinated Seeds,Manual,Drip Irrigation,Chemical Fertilizers,Medium
+Laterite Soil,11.25,327.8,Zaid,Breeder Seeds,Machine,Well Irrigation,Bioinputs Fertilizers,Low
+Red and Yellow Soil,18.27,1381.4,Zaid,Open-Pollinated Seeds,Manual,Well Irrigation,Organic Fertilizers,Very High
+Alluvial Soil,12.42,197.6,Zaid,Genetically Modified (GM) Seeds,Manual,Tubewell Irrigation,Organic Fertilizers,High
+Laterite Soil,21.9,783.6,Kharif,Breeder Seeds,Machine,Tank Irrigation,Organic Fertilizers,High
+Alluvial Soil,22.57,370.2,Kharif,Hybrid Seeds,Machine,Well Irrigation,Chemical Fertilizers,Very High
+Alluvial Soil,10.83,106.4,Zaid,Foundation Seeds,Machine,Sprinkler Irrigation,Bioinputs Fertilizers,Medium
+Black Soil,7.28,102.2,Rabi,Hybrid Seeds,Machine,Drip Irrigation,Chemical Fertilizers,Medium
+Laterite Soil,15.01,304.1,Rabi,Foundation Seeds,Machine,Tank Irrigation,Bioinputs Fertilizers,Low
+Laterite Soil,22.85,1306.8,Zaid,Breeder Seeds,Machine,Tubewell Irrigation,Organic Fertilizers,High
+Black Soil,5.66,459.6,Kharif,Breeder Seeds,Manual,Drip Irrigation,Chemical Fertilizers,Medium
+Red and Yellow Soil,15.76,1428.2,Rabi,Foundation Seeds,Machine,Canal Irrigation,Organic Fertilizers,Very High
+Alluvial Soil,15.97,893.4,Rabi,Genetically Modified (GM) Seeds,Manual,Sprinkler Irrigation,Chemical Fertilizers,Very High
+Saline and Alkaline Soil,18.46,683.1,Rabi,Open-Pollinated Seeds,Machine,Tubewell Irrigation,Organic Fertilizers,Medium
+Alluvial Soil,3.72,891.1,Zaid,Hybrid Seeds,Manual,Drip Irrigation,Chemical Fertilizers,High
+Alluvial Soil,18.04,799.2,Rabi,Hybrid Seeds,Manual,Well Irrigation,Chemical Fertilizers,Medium
+Red and Yellow Soil,22.77,1150.2,Rabi,Hybrid Seeds,Machine,Canal Irrigation,Bioinputs Fertilizers,High
+Alluvial Soil,4.9,459.6,Rabi,Breeder Seeds,Machine,Tubewell Irrigation,Organic Fertilizers,High
+Black Soil,6.32,561.9,Rabi,Hybrid Seeds,Manual,Well Irrigation,Bioinputs Fertilizers,Low
+Black Soil,24.3,1346.4,Kharif,Open-Pollinated Seeds,Machine,Sprinkler Irrigation,Bioinputs Fertilizers,Very High
+Laterite Soil,4.93,1422.4,Zaid,Open-Pollinated Seeds,Machine,Canal Irrigation,Organic Fertilizers,High
+Saline and Alkaline Soil,21.43,1344.2,Zaid,Foundation Seeds,Manual,Tank Irrigation,Chemical Fertilizers,High
+Alluvial Soil,12.56,658.2,Kharif,Breeder Seeds,Manual,Well Irrigation,Bioinputs Fertilizers,High
+Alluvial Soil,6.56,1181.5,Kharif,Open-Pollinated Seeds,Manual,Drip Irrigation,Organic Fertilizers,Very High
+Red and Yellow Soil,21.83,740.7,Zaid,Genetically Modified (GM) Seeds,Machine,Tubewell Irrigation,Chemical Fertilizers,Low
+Black Soil,11.41,771.4,Rabi,Breeder Seeds,Machine,Canal Irrigation,Bioinputs Fertilizers,Low
+Saline and Alkaline Soil,13.11,346.8,Rabi,Breeder Seeds,Machine,Well Irrigation,Bioinputs Fertilizers,Low
+Laterite Soil,9.3,907.1,Zaid,Open-Pollinated Seeds,Machine,Tank Irrigation,Bioinputs Fertilizers,Medium
+Black Soil,15.03,319.9,Rabi,Genetically Modified (GM) Seeds,Manual,Tubewell Irrigation,Chemical Fertilizers,Low
+Laterite Soil,4.51,530.8,Kharif,Foundation Seeds,Machine,Tubewell Irrigation,Bioinputs Fertilizers,Medium
+Red and Yellow Soil,10.08,1289.8,Rabi,Open-Pollinated Seeds,Manual,Well Irrigation,Chemical Fertilizers,Medium
+Red and Yellow Soil,24.25,350.3,Rabi,Genetically Modified (GM) Seeds,Machine,Tank Irrigation,Bioinputs Fertilizers,Medium
+Alluvial Soil,6.82,153.2,Rabi,Breeder Seeds,Machine,Sprinkler Irrigation,Organic Fertilizers,High
+Saline and Alkaline Soil,16.59,150.1,Zaid,Genetically Modified (GM) Seeds,Manual,Sprinkler Irrigation,Bioinputs Fertilizers,Low
+Laterite Soil,8.47,1414.1,Kharif,Breeder Seeds,Machine,Canal Irrigation,Organic Fertilizers,Very High
+Black Soil,19.45,785.0,Rabi,Open-Pollinated Seeds,Machine,Well Irrigation,Organic Fertilizers,Medium
+Red and Yellow Soil,3.71,643.6,Zaid,Open-Pollinated Seeds,Manual,Canal Irrigation,Organic Fertilizers,Low
+Alluvial Soil,24.26,1225.8,Rabi,Hybrid Seeds,Machine,Sprinkler Irrigation,Chemical Fertilizers,Very High
+Alluvial Soil,11.62,1261.9,Kharif,Hybrid Seeds,Manual,Tubewell Irrigation,Organic Fertilizers,Very High
+Laterite Soil,6.28,531.7,Rabi,Hybrid Seeds,Manual,Canal Irrigation,Bioinputs Fertilizers,Low
+Red and Yellow Soil,2.3,1055.7,Kharif,Open-Pollinated Seeds,Manual,Tank Irrigation,Chemical Fertilizers,Very High
+Saline and Alkaline Soil,4.66,1168.1,Rabi,Foundation Seeds,Manual,Drip Irrigation,Organic Fertilizers,Very High
+Red and Yellow Soil,13.23,999.2,Kharif,Open-Pollinated Seeds,Machine,Sprinkler Irrigation,Chemical Fertilizers,High
+Laterite Soil,8.76,269.8,Rabi,Genetically Modified (GM) Seeds,Machine,Sprinkler Irrigation,Chemical Fertilizers,Low
+Laterite Soil,20.81,1320.0,Kharif,Open-Pollinated Seeds,Machine,Tank Irrigation,Chemical Fertilizers,High
+Red and Yellow Soil,11.06,831.7,Rabi,Open-Pollinated Seeds,Manual,Canal Irrigation,Bioinputs Fertilizers,Medium
+Laterite Soil,6.59,459.6,Rabi,Breeder Seeds,Machine,Well Irrigation,Organic Fertilizers,Medium
+Red and Yellow Soil,15.62,666.6,Zaid,Breeder Seeds,Machine,Tubewell Irrigation,Chemical Fertilizers,Low
+Black Soil,17.82,104.5,Zaid,Breeder Seeds,Machine,Drip Irrigation,Chemical Fertilizers,Medium
+Red and Yellow Soil,4.59,235.4,Kharif,Open-Pollinated Seeds,Machine,Well Irrigation,Chemical Fertilizers,Low
+Red and Yellow Soil,4.61,1160.0,Rabi,Foundation Seeds,Manual,Well Irrigation,Organic Fertilizers,Very High
+Laterite Soil,1.4,50.0,Kharif,Genetically Modified (GM) Seeds,Manual,Tank Irrigation,Chemical Fertilizers,Medium
+Laterite Soil,18.54,654.0,Zaid,Genetically Modified (GM) Seeds,Machine,Canal Irrigation,Chemical Fertilizers,Low
+Alluvial Soil,16.76,807.6,Kharif,Foundation Seeds,Manual,Sprinkler Irrigation,Bioinputs Fertilizers,Very High
+Alluvial Soil,12.13,129.2,Kharif,Foundation Seeds,Machine,Sprinkler Irrigation,Organic Fertilizers,Very High
+Black Soil,21.18,1461.0,Zaid,Genetically Modified (GM) Seeds,Machine,Tank Irrigation,Bioinputs Fertilizers,Very High
+Alluvial Soil,20.24,377.9,Rabi,Hybrid Seeds,Machine,Canal Irrigation,Organic Fertilizers,Medium
+Red and Yellow Soil,14.84,491.1,Kharif,Breeder Seeds,Manual,Tank Irrigation,Organic Fertilizers,High
+Laterite Soil,21.77,490.7,Zaid,Breeder Seeds,Machine,Sprinkler Irrigation,Organic Fertilizers,Medium
+Alluvial Soil,5.54,384.1,Rabi,Genetically Modified (GM) Seeds,Manual,Well Irrigation,Bioinputs Fertilizers,Low
+Alluvial Soil,3.24,52.1,Zaid,Foundation Seeds,Manual,Tubewell Irrigation,Bioinputs Fertilizers,Low
+Black Soil,7.11,1107.5,Kharif,Hybrid Seeds,Machine,Canal Irrigation,Bioinputs Fertilizers,High
+Black Soil,1.9,1451.9,Rabi,Genetically Modified (GM) Seeds,Manual,Drip Irrigation,Bioinputs Fertilizers,High
+Red and Yellow Soil,13.51,375.2,Rabi,Breeder Seeds,Manual,Drip Irrigation,Chemical Fertilizers,Low
+Laterite Soil,23.45,1011.4,Zaid,Open-Pollinated Seeds,Machine,Well Irrigation,Chemical Fertilizers,High
+Black Soil,1.46,1125.7,Zaid,Foundation Seeds,Manual,Tank Irrigation,Chemical Fertilizers,Low
+Alluvial Soil,3.49,1280.2,Zaid,Open-Pollinated Seeds,Manual,Tank Irrigation,Organic Fertilizers,Very High
+Laterite Soil,11.58,662.8,Rabi,Genetically Modified (GM) Seeds,Machine,Sprinkler Irrigation,Chemical Fertilizers,Low
+Laterite Soil,23.38,489.2,Rabi,Breeder Seeds,Machine,Well Irrigation,Organic Fertilizers,Low
+Alluvial Soil,8.25,521.7,Kharif,Hybrid Seeds,Manual,Sprinkler Irrigation,Bioinputs Fertilizers,High
+Black Soil,12.93,1083.3,Rabi,Open-Pollinated Seeds,Machine,Sprinkler Irrigation,Organic Fertilizers,Medium
+Alluvial Soil,1.52,1234.3,Kharif,Hybrid Seeds,Machine,Drip Irrigation,Organic Fertilizers,Very High
+Laterite Soil,4.13,313.3,Zaid,Breeder Seeds,Manual,Sprinkler Irrigation,Chemical Fertilizers,Low
+Saline and Alkaline Soil,24.67,587.9,Zaid,Open-Pollinated Seeds,Manual,Sprinkler Irrigation,Bioinputs Fertilizers,Low
+Saline and Alkaline Soil,24.15,1357.8,Rabi,Hybrid Seeds,Machine,Drip Irrigation,Bioinputs Fertilizers,High
+Red and Yellow Soil,0.62,1219.7,Zaid,Hybrid Seeds,Manual,Tank Irrigation,Chemical Fertilizers,Medium
+Alluvial Soil,23.82,1478.0,Zaid,Open-Pollinated Seeds,Machine,Canal Irrigation,Bioinputs Fertilizers,Very High
+Alluvial Soil,16.16,1143.7,Rabi,Breeder Seeds,Machine,Tubewell Irrigation,Bioinputs Fertilizers,High
+Red and Yellow Soil,21.76,620.1,Kharif,Hybrid Seeds,Manual,Sprinkler Irrigation,Bioinputs Fertilizers,Medium
+Red and Yellow Soil,11.64,906.4,Rabi,Genetically Modified (GM) Seeds,Manual,Canal Irrigation,Chemical Fertilizers,Low
+Red and Yellow Soil,13.13,1008.5,Kharif,Open-Pollinated Seeds,Machine,Drip Irrigation,Bioinputs Fertilizers,Very High
+Laterite Soil,12.48,163.8,Rabi,Foundation Seeds,Machine,Canal Irrigation,Organic Fertilizers,Medium
+Alluvial Soil,16.84,839.5,Rabi,Foundation Seeds,Machine,Tubewell Irrigation,Organic Fertilizers,Very High
+Laterite Soil,3.92,1078.5,Zaid,Breeder Seeds,Machine,Canal Irrigation,Bioinputs Fertilizers,Medium
+Red and Yellow Soil,1.23,292.6,Rabi,Genetically Modified (GM) Seeds,Manual,Canal Irrigation,Chemical Fertilizers,Low
+Alluvial Soil,8.04,1181.9,Rabi,Hybrid Seeds,Machine,Canal Irrigation,Chemical Fertilizers,Medium
+Laterite Soil,17.76,896.5,Kharif,Foundation Seeds,Manual,Canal Irrigation,Chemical Fertilizers,Very High
+Laterite Soil,5.45,1430.7,Zaid,Breeder Seeds,Manual,Well Irrigation,Bioinputs Fertilizers,Medium
+Red and Yellow Soil,17.0,111.5,Kharif,Genetically Modified (GM) Seeds,Machine,Sprinkler Irrigation,Bioinputs Fertilizers,Medium
+Alluvial Soil,24.26,434.7,Kharif,Genetically Modified (GM) Seeds,Manual,Drip Irrigation,Organic Fertilizers,Very High
+Red and Yellow Soil,2.8,922.3,Zaid,Breeder Seeds,Manual,Tubewell Irrigation,Chemical Fertilizers,Medium
+Alluvial Soil,16.98,480.0,Zaid,Breeder Seeds,Machine,Drip Irrigation,Organic Fertilizers,Very High
+Saline and Alkaline Soil,11.37,1085.9,Zaid,Hybrid Seeds,Manual,Well Irrigation,Organic Fertilizers,High
+Black Soil,21.77,1150.6,Rabi,Breeder Seeds,Manual,Well Irrigation,Chemical Fertilizers,Medium
+Black Soil,4.84,198.6,Zaid,Hybrid Seeds,Machine,Well Irrigation,Bioinputs Fertilizers,Low
+Black Soil,17.47,795.1,Zaid,Hybrid Seeds,Machine,Sprinkler Irrigation,Bioinputs Fertilizers,Low
+Red and Yellow Soil,21.03,787.9,Zaid,Open-Pollinated Seeds,Machine,Well Irrigation,Organic Fertilizers,Low
+Saline and Alkaline Soil,23.64,585.5,Kharif,Genetically Modified (GM) Seeds,Machine,Canal Irrigation,Organic Fertilizers,High
+Alluvial Soil,17.24,1402.7,Kharif,Genetically Modified (GM) Seeds,Machine,Drip Irrigation,Organic Fertilizers,Very High
+Laterite Soil,12.68,1249.9,Rabi,Genetically Modified (GM) Seeds,Machine,Tank Irrigation,Organic Fertilizers,High
+Alluvial Soil,15.64,1061.0,Kharif,Open-Pollinated Seeds,Machine,Tubewell Irrigation,Chemical Fertilizers,Very High
+Laterite Soil,21.79,1085.8,Rabi,Hybrid Seeds,Manual,Well Irrigation,Organic Fertilizers,High
+Alluvial Soil,14.48,719.5,Kharif,Hybrid Seeds,Manual,Drip Irrigation,Organic Fertilizers,Very High
+Saline and Alkaline Soil,1.24,1385.4,Zaid,Breeder Seeds,Machine,Well Irrigation,Bioinputs Fertilizers,Low
+Laterite Soil,23.31,1057.2,Kharif,Open-Pollinated Seeds,Manual,Sprinkler Irrigation,Bioinputs Fertilizers,High
+Red and Yellow Soil,17.39,1107.0,Rabi,Breeder Seeds,Manual,Well Irrigation,Bioinputs Fertilizers,Very High
+Alluvial Soil,17.07,1299.5,Kharif,Open-Pollinated Seeds,Machine,Well Irrigation,Chemical Fertilizers,Very High
+Alluvial Soil,5.78,447.4,Zaid,Breeder Seeds,Manual,Well Irrigation,Chemical Fertilizers,Low
+Laterite Soil,16.64,1220.3,Rabi,Foundation Seeds,Machine,Well Irrigation,Bioinputs Fertilizers,Medium
+Red and Yellow Soil,10.15,333.1,Zaid,Genetically Modified (GM) Seeds,Manual,Tubewell Irrigation,Bioinputs Fertilizers,Low
+Red and Yellow Soil,16.46,550.7,Zaid,Genetically Modified (GM) Seeds,Machine,Drip Irrigation,Organic Fertilizers,High
+Saline and Alkaline Soil,3.11,536.6,Rabi,Hybrid Seeds,Manual,Sprinkler Irrigation,Organic Fertilizers,Medium
+Red and Yellow Soil,16.62,1468.9,Zaid,Foundation Seeds,Manual,Well Irrigation,Chemical Fertilizers,Medium
+Red and Yellow Soil,24.99,1292.0,Zaid,Genetically Modified (GM) Seeds,Manual,Well Irrigation,Chemical Fertilizers,Medium
+Red and Yellow Soil,1.68,1066.7,Kharif,Hybrid Seeds,Machine,Well Irrigation,Organic Fertilizers,Very High
+Black Soil,24.44,1104.2,Zaid,Foundation Seeds,Manual,Well Irrigation,Bioinputs Fertilizers,Medium
+Saline and Alkaline Soil,10.47,865.0,Zaid,Genetically Modified (GM) Seeds,Manual,Canal Irrigation,Organic Fertilizers,Very High
+Alluvial Soil,21.83,1423.3,Zaid,Breeder Seeds,Machine,Canal Irrigation,Chemical Fertilizers,Medium
+Laterite Soil,19.67,769.6,Zaid,Open-Pollinated Seeds,Machine,Tank Irrigation,Chemical Fertilizers,Low
+Alluvial Soil,14.39,601.8,Rabi,Foundation Seeds,Manual,Well Irrigation,Organic Fertilizers,High
+Saline and Alkaline Soil,18.59,286.4,Kharif,Hybrid Seeds,Manual,Tank Irrigation,Organic Fertilizers,High
+Laterite Soil,22.02,1190.0,Zaid,Foundation Seeds,Manual,Tubewell Irrigation,Organic Fertilizers,High
+Saline and Alkaline Soil,10.4,1114.9,Zaid,Hybrid Seeds,Manual,Tank Irrigation,Chemical Fertilizers,Medium
+Red and Yellow Soil,8.51,607.3,Rabi,Foundation Seeds,Machine,Drip Irrigation,Bioinputs Fertilizers,Low
+Laterite Soil,16.86,86.5,Zaid,Hybrid Seeds,Manual,Canal Irrigation,Organic Fertilizers,Medium
+Red and Yellow Soil,20.29,1266.5,Rabi,Genetically Modified (GM) Seeds,Manual,Canal Irrigation,Chemical Fertilizers,Medium
+Alluvial Soil,19.18,66.6,Kharif,Breeder Seeds,Machine,Well Irrigation,Chemical Fertilizers,High
+Alluvial Soil,20.05,1070.4,Kharif,Genetically Modified (GM) Seeds,Manual,Well Irrigation,Chemical Fertilizers,Very High
+Laterite Soil,11.17,1456.9,Zaid,Breeder Seeds,Manual,Tubewell Irrigation,Organic Fertilizers,High
+Laterite Soil,20.54,684.6,Zaid,Genetically Modified (GM) Seeds,Manual,Sprinkler Irrigation,Organic Fertilizers,Medium
+Saline and Alkaline Soil,3.45,390.7,Zaid,Genetically Modified (GM) Seeds,Machine,Tubewell Irrigation,Bioinputs Fertilizers,Low
+Saline and Alkaline Soil,13.84,1072.1,Rabi,Foundation Seeds,Machine,Drip Irrigation,Chemical Fertilizers,High
+Red and Yellow Soil,0.64,1234.8,Zaid,Open-Pollinated Seeds,Manual,Well Irrigation,Organic Fertilizers,High
+Laterite Soil,8.45,842.3,Zaid,Hybrid Seeds,Manual,Well Irrigation,Chemical Fertilizers,Medium
+Alluvial Soil,9.48,1452.2,Kharif,Hybrid Seeds,Machine,Tubewell Irrigation,Chemical Fertilizers,Very High
+Saline and Alkaline Soil,10.21,124.9,Zaid,Hybrid Seeds,Manual,Tubewell Irrigation,Bioinputs Fertilizers,Low
+Saline and Alkaline Soil,17.54,782.0,Kharif,Breeder Seeds,Manual,Tubewell Irrigation,Organic Fertilizers,High
+Alluvial Soil,10.02,1091.8,Zaid,Hybrid Seeds,Machine,Canal Irrigation,Organic Fertilizers,Very High
+Saline and Alkaline Soil,11.49,1300.8,Kharif,Hybrid Seeds,Machine,Tank Irrigation,Chemical Fertilizers,Very High
+Red and Yellow Soil,6.32,309.9,Zaid,Foundation Seeds,Machine,Tank Irrigation,Chemical Fertilizers,Low
+Laterite Soil,9.64,1210.0,Kharif,Genetically Modified (GM) Seeds,Manual,Well Irrigation,Bioinputs Fertilizers,High
+Alluvial Soil,6.07,851.4,Rabi,Hybrid Seeds,Manual,Canal Irrigation,Bioinputs Fertilizers,Very High
+Laterite Soil,2.29,625.0,Kharif,Open-Pollinated Seeds,Manual,Tubewell Irrigation,Bioinputs Fertilizers,Medium
+Saline and Alkaline Soil,15.28,241.0,Kharif,Hybrid Seeds,Manual,Well Irrigation,Bioinputs Fertilizers,Medium
+Saline and Alkaline Soil,16.87,1304.7,Kharif,Breeder Seeds,Machine,Canal Irrigation,Bioinputs Fertilizers,Very High
+Alluvial Soil,15.68,278.0,Zaid,Breeder Seeds,Manual,Drip Irrigation,Bioinputs Fertilizers,High
+Red and Yellow Soil,11.86,499.2,Zaid,Breeder Seeds,Manual,Sprinkler Irrigation,Chemical Fertilizers,Low
+Black Soil,9.8,470.6,Zaid,Hybrid Seeds,Machine,Canal Irrigation,Bioinputs Fertilizers,Low
+Alluvial Soil,21.65,1313.6,Rabi,Foundation Seeds,Machine,Well Irrigation,Chemical Fertilizers,High
+Black Soil,13.22,1025.4,Rabi,Open-Pollinated Seeds,Manual,Tank Irrigation,Chemical Fertilizers,Medium
+Black Soil,12.24,1205.2,Kharif,Hybrid Seeds,Machine,Tubewell Irrigation,Organic Fertilizers,Very High
+Red and Yellow Soil,1.13,413.2,Rabi,Foundation Seeds,Machine,Sprinkler Irrigation,Chemical Fertilizers,Low
+Black Soil,8.86,956.1,Kharif,Foundation Seeds,Manual,Drip Irrigation,Chemical Fertilizers,Very High
+Black Soil,9.81,879.0,Kharif,Hybrid Seeds,Manual,Sprinkler Irrigation,Bioinputs Fertilizers,High
+Red and Yellow Soil,10.27,1257.6,Kharif,Hybrid Seeds,Manual,Sprinkler Irrigation,Chemical Fertilizers,High
+Black Soil,14.71,1363.8,Rabi,Foundation Seeds,Manual,Canal Irrigation,Bioinputs Fertilizers,Low
+Black Soil,13.57,67.6,Zaid,Foundation Seeds,Machine,Well Irrigation,Bioinputs Fertilizers,Low
+Black Soil,15.39,1027.3,Rabi,Foundation Seeds,Machine,Well Irrigation,Bioinputs Fertilizers,High
+Alluvial Soil,19.24,125.2,Kharif,Hybrid Seeds,Manual,Sprinkler Irrigation,Organic Fertilizers,Very High
+Alluvial Soil,20.42,845.8,Kharif,Foundation Seeds,Manual,Tubewell Irrigation,Bioinputs Fertilizers,High
+Alluvial Soil,18.09,467.1,Rabi,Breeder Seeds,Machine,Well Irrigation,Chemical Fertilizers,Medium
+Red and Yellow Soil,23.91,494.8,Kharif,Hybrid Seeds,Manual,Sprinkler Irrigation,Bioinputs Fertilizers,Medium
+Saline and Alkaline Soil,0.95,561.8,Kharif,Breeder Seeds,Manual,Well Irrigation,Bioinputs Fertilizers,Low
+Black Soil,5.3,950.9,Rabi,Genetically Modified (GM) Seeds,Manual,Tubewell Irrigation,Bioinputs Fertilizers,Medium
+Black Soil,0.69,534.4,Rabi,Hybrid Seeds,Manual,Drip Irrigation,Organic Fertilizers,High
+Red and Yellow Soil,16.36,1112.4,Rabi,Genetically Modified (GM) Seeds,Machine,Sprinkler Irrigation,Chemical Fertilizers,Medium
+Black Soil,22.5,636.6,Kharif,Foundation Seeds,Manual,Tank Irrigation,Organic Fertilizers,High
+Alluvial Soil,6.47,149.1,Kharif,Foundation Seeds,Machine,Tank Irrigation,Chemical Fertilizers,High
+Saline and Alkaline Soil,23.21,1186.5,Zaid,Open-Pollinated Seeds,Manual,Sprinkler Irrigation,Organic Fertilizers,High
+Laterite Soil,1.98,464.3,Zaid,Foundation Seeds,Manual,Canal Irrigation,Chemical Fertilizers,Low
+Black Soil,23.39,677.5,Rabi,Genetically Modified (GM) Seeds,Machine,Drip Irrigation,Organic Fertilizers,Medium
+Alluvial Soil,9.11,1043.9,Zaid,Foundation Seeds,Manual,Canal Irrigation,Bioinputs Fertilizers,Very High
+Laterite Soil,2.98,532.1,Kharif,Hybrid Seeds,Machine,Tank Irrigation,Organic Fertilizers,High
+Saline and Alkaline Soil,12.4,132.0,Zaid,Foundation Seeds,Manual,Tubewell Irrigation,Organic Fertilizers,Medium
+Laterite Soil,6.79,592.2,Kharif,Open-Pollinated Seeds,Manual,Sprinkler Irrigation,Bioinputs Fertilizers,Low
+Alluvial Soil,7.48,1419.5,Rabi,Foundation Seeds,Manual,Well Irrigation,Bioinputs Fertilizers,High
+Laterite Soil,8.03,980.5,Rabi,Genetically Modified (GM) Seeds,Manual,Tank Irrigation,Chemical Fertilizers,Low
+Red and Yellow Soil,20.17,1023.6,Kharif,Genetically Modified (GM) Seeds,Manual,Drip Irrigation,Chemical Fertilizers,Very High
+Laterite Soil,13.71,966.8,Zaid,Foundation Seeds,Machine,Tank Irrigation,Chemical Fertilizers,Low
+Black Soil,8.13,338.5,Rabi,Genetically Modified (GM) Seeds,Machine,Drip Irrigation,Organic Fertilizers,Medium
+Black Soil,15.45,656.6,Rabi,Genetically Modified (GM) Seeds,Manual,Drip Irrigation,Chemical Fertilizers,Medium
+Red and Yellow Soil,18.05,1138.9,Zaid,Open-Pollinated Seeds,Manual,Sprinkler Irrigation,Organic Fertilizers,Very High
+Alluvial Soil,7.18,197.0,Zaid,Hybrid Seeds,Machine,Drip Irrigation,Organic Fertilizers,High
+Black Soil,10.63,452.9,Kharif,Open-Pollinated Seeds,Machine,Canal Irrigation,Chemical Fertilizers,Medium
+Saline and Alkaline Soil,3.49,450.7,Zaid,Breeder Seeds,Manual,Tubewell Irrigation,Chemical Fertilizers,Low
+Black Soil,4.94,676.4,Zaid,Open-Pollinated Seeds,Manual,Tank Irrigation,Organic Fertilizers,Medium
+Black Soil,17.19,1471.5,Zaid,Foundation Seeds,Machine,Tubewell Irrigation,Bioinputs Fertilizers,High
+Alluvial Soil,4.95,147.9,Kharif,Hybrid Seeds,Manual,Well Irrigation,Bioinputs Fertilizers,High
+Laterite Soil,13.37,802.1,Kharif,Foundation Seeds,Machine,Tank Irrigation,Organic Fertilizers,Very High
+Black Soil,17.87,310.1,Rabi,Breeder Seeds,Manual,Tubewell Irrigation,Chemical Fertilizers,Low
+Red and Yellow Soil,3.12,1457.5,Kharif,Hybrid Seeds,Machine,Tubewell Irrigation,Organic Fertilizers,Very High
+Laterite Soil,14.4,214.3,Rabi,Genetically Modified (GM) Seeds,Machine,Sprinkler Irrigation,Organic Fertilizers,Medium
+Saline and Alkaline Soil,6.79,635.2,Zaid,Open-Pollinated Seeds,Manual,Sprinkler Irrigation,Chemical Fertilizers,Low
+Alluvial Soil,24.09,1119.9,Rabi,Foundation Seeds,Machine,Well Irrigation,Bioinputs Fertilizers,High
+Saline and Alkaline Soil,12.35,1071.6,Rabi,Breeder Seeds,Manual,Drip Irrigation,Organic Fertilizers,High
+Laterite Soil,20.25,663.0,Zaid,Genetically Modified (GM) Seeds,Manual,Tank Irrigation,Bioinputs Fertilizers,Low
+Laterite Soil,13.98,552.5,Rabi,Open-Pollinated Seeds,Manual,Sprinkler Irrigation,Bioinputs Fertilizers,Low
+Laterite Soil,1.56,626.5,Kharif,Genetically Modified (GM) Seeds,Manual,Tank Irrigation,Chemical Fertilizers,Medium
+Saline and Alkaline Soil,16.01,433.2,Kharif,Open-Pollinated Seeds,Machine,Well Irrigation,Organic Fertilizers,High
+Laterite Soil,23.81,347.7,Kharif,Hybrid Seeds,Manual,Sprinkler Irrigation,Organic Fertilizers,High
+Saline and Alkaline Soil,15.24,750.4,Kharif,Genetically Modified (GM) Seeds,Manual,Sprinkler Irrigation,Bioinputs Fertilizers,Medium
+Laterite Soil,20.57,439.4,Rabi,Genetically Modified (GM) Seeds,Manual,Drip Irrigation,Bioinputs Fertilizers,Low
+Red and Yellow Soil,22.16,466.8,Rabi,Genetically Modified (GM) Seeds,Manual,Tank Irrigation,Chemical Fertilizers,Low
+Laterite Soil,6.09,1002.3,Zaid,Hybrid Seeds,Machine,Tank Irrigation,Bioinputs Fertilizers,Medium
+Saline and Alkaline Soil,5.7,1454.4,Rabi,Breeder Seeds,Manual,Tank Irrigation,Chemical Fertilizers,Medium
+Black Soil,15.47,925.3,Rabi,Open-Pollinated Seeds,Machine,Drip Irrigation,Organic Fertilizers,Very High
+Laterite Soil,10.57,161.6,Rabi,Genetically Modified (GM) Seeds,Machine,Sprinkler Irrigation,Chemical Fertilizers,Low
+Black Soil,21.08,159.6,Zaid,Hybrid Seeds,Machine,Well Irrigation,Bioinputs Fertilizers,Low
+Red and Yellow Soil,22.55,1429.6,Kharif,Breeder Seeds,Manual,Tank Irrigation,Organic Fertilizers,Very High
+Alluvial Soil,9.16,481.1,Rabi,Open-Pollinated Seeds,Manual,Tubewell Irrigation,Chemical Fertilizers,Medium
+Red and Yellow Soil,6.3,183.5,Zaid,Hybrid Seeds,Manual,Drip Irrigation,Organic Fertilizers,Medium
+Laterite Soil,19.62,918.6,Zaid,Open-Pollinated Seeds,Manual,Canal Irrigation,Chemical Fertilizers,Medium
+Black Soil,7.23,954.3,Zaid,Genetically Modified (GM) Seeds,Machine,Well Irrigation,Bioinputs Fertilizers,Medium
+Black Soil,20.65,990.3,Kharif,Breeder Seeds,Machine,Tubewell Irrigation,Bioinputs Fertilizers,High
+Saline and Alkaline Soil,10.88,437.7,Rabi,Hybrid Seeds,Manual,Tank Irrigation,Organic Fertilizers,Medium
+Black Soil,16.85,71.9,Zaid,Breeder Seeds,Manual,Canal Irrigation,Organic Fertilizers,Medium
+Saline and Alkaline Soil,2.84,1449.3,Kharif,Genetically Modified (GM) Seeds,Manual,Well Irrigation,Organic Fertilizers,High
+Alluvial Soil,15.78,413.8,Zaid,Breeder Seeds,Manual,Drip Irrigation,Chemical Fertilizers,Medium
+Laterite Soil,11.57,1030.2,Zaid,Breeder Seeds,Manual,Canal Irrigation,Bioinputs Fertilizers,Medium
+Saline and Alkaline Soil,14.87,1074.6,Zaid,Foundation Seeds,Manual,Sprinkler Irrigation,Organic Fertilizers,High
+Alluvial Soil,4.62,934.5,Zaid,Breeder Seeds,Manual,Canal Irrigation,Organic Fertilizers,High
+Black Soil,18.55,503.7,Zaid,Open-Pollinated Seeds,Machine,Tubewell Irrigation,Organic Fertilizers,High
+Black Soil,21.64,443.1,Kharif,Hybrid Seeds,Machine,Well Irrigation,Chemical Fertilizers,Medium
+Alluvial Soil,5.81,916.6,Rabi,Foundation Seeds,Machine,Tubewell Irrigation,Organic Fertilizers,Very High
+Black Soil,2.85,1305.8,Rabi,Hybrid Seeds,Machine,Tubewell Irrigation,Organic Fertilizers,Very High
+Alluvial Soil,1.08,1422.8,Rabi,Hybrid Seeds,Manual,Tank Irrigation,Chemical Fertilizers,High
+Saline and Alkaline Soil,16.23,203.6,Rabi,Genetically Modified (GM) Seeds,Manual,Drip Irrigation,Chemical Fertilizers,Medium
+Saline and Alkaline Soil,15.37,274.5,Kharif,Genetically Modified (GM) Seeds,Manual,Canal Irrigation,Organic Fertilizers,Medium
+Alluvial Soil,13.89,1419.9,Kharif,Foundation Seeds,Manual,Well Irrigation,Organic Fertilizers,Very High
+Saline and Alkaline Soil,6.18,1118.0,Kharif,Genetically Modified (GM) Seeds,Manual,Sprinkler Irrigation,Chemical Fertilizers,High
+Saline and Alkaline Soil,10.08,1330.3,Zaid,Genetically Modified (GM) Seeds,Machine,Drip Irrigation,Bioinputs Fertilizers,High
+Saline and Alkaline Soil,15.06,343.8,Zaid,Genetically Modified (GM) Seeds,Manual,Drip Irrigation,Chemical Fertilizers,Medium
+Red and Yellow Soil,12.67,902.0,Zaid,Hybrid Seeds,Machine,Well Irrigation,Bioinputs Fertilizers,Medium
+Laterite Soil,24.7,1066.7,Rabi,Foundation Seeds,Manual,Drip Irrigation,Organic Fertilizers,Very High
+Black Soil,3.84,1036.2,Zaid,Hybrid Seeds,Machine,Tank Irrigation,Organic Fertilizers,High
+Red and Yellow Soil,17.53,641.8,Rabi,Open-Pollinated Seeds,Manual,Drip Irrigation,Bioinputs Fertilizers,High
+Saline and Alkaline Soil,10.41,72.3,Zaid,Hybrid Seeds,Machine,Tank Irrigation,Chemical Fertilizers,Low
+Alluvial Soil,10.99,895.2,Rabi,Open-Pollinated Seeds,Manual,Canal Irrigation,Organic Fertilizers,High
+Saline and Alkaline Soil,18.08,417.0,Zaid,Breeder Seeds,Manual,Canal Irrigation,Bioinputs Fertilizers,Low
+Laterite Soil,17.46,702.9,Zaid,Breeder Seeds,Manual,Tubewell Irrigation,Chemical Fertilizers,Low
+Saline and Alkaline Soil,24.79,1438.5,Kharif,Open-Pollinated Seeds,Manual,Tank Irrigation,Bioinputs Fertilizers,Very High
+Alluvial Soil,3.65,628.6,Zaid,Open-Pollinated Seeds,Machine,Sprinkler Irrigation,Chemical Fertilizers,Low
+Laterite Soil,3.05,1267.7,Zaid,Hybrid Seeds,Manual,Canal Irrigation,Chemical Fertilizers,Medium
+Saline and Alkaline Soil,18.25,323.4,Kharif,Open-Pollinated Seeds,Machine,Drip Irrigation,Chemical Fertilizers,High
+Laterite Soil,14.67,1025.1,Rabi,Foundation Seeds,Manual,Well Irrigation,Chemical Fertilizers,Medium
+Black Soil,7.22,1466.7,Kharif,Breeder Seeds,Machine,Well Irrigation,Bioinputs Fertilizers,High
+Black Soil,2.45,197.7,Kharif,Breeder Seeds,Manual,Tank Irrigation,Bioinputs Fertilizers,Low
+Saline and Alkaline Soil,2.6,62.1,Rabi,Open-Pollinated Seeds,Manual,Sprinkler Irrigation,Bioinputs Fertilizers,Low
+Laterite Soil,22.41,678.7,Zaid,Genetically Modified (GM) Seeds,Machine,Tubewell Irrigation,Bioinputs Fertilizers,Low
+Alluvial Soil,5.2,184.3,Rabi,Genetically Modified (GM) Seeds,Manual,Drip Irrigation,Bioinputs Fertilizers,Medium
+Saline and Alkaline Soil,8.42,1135.2,Zaid,Open-Pollinated Seeds,Manual,Tank Irrigation,Chemical Fertilizers,Medium
+Black Soil,6.05,1376.1,Zaid,Foundation Seeds,Machine,Well Irrigation,Organic Fertilizers,High
+Black Soil,9.2,679.3,Rabi,Genetically Modified (GM) Seeds,Manual,Tank Irrigation,Organic Fertilizers,Low
+Saline and Alkaline Soil,2.2,425.1,Kharif,Open-Pollinated Seeds,Machine,Drip Irrigation,Bioinputs Fertilizers,Medium
+Laterite Soil,13.22,679.9,Rabi,Foundation Seeds,Manual,Sprinkler Irrigation,Bioinputs Fertilizers,Low
+Black Soil,2.16,1099.0,Zaid,Foundation Seeds,Machine,Sprinkler Irrigation,Organic Fertilizers,Very High
+Laterite Soil,20.11,63.1,Rabi,Hybrid Seeds,Machine,Canal Irrigation,Chemical Fertilizers,Low
+Black Soil,6.23,904.7,Rabi,Foundation Seeds,Machine,Drip Irrigation,Bioinputs Fertilizers,High
+Black Soil,13.73,939.3,Zaid,Genetically Modified (GM) Seeds,Machine,Canal Irrigation,Chemical Fertilizers,High
+Red and Yellow Soil,22.06,974.6,Kharif,Genetically Modified (GM) Seeds,Manual,Canal Irrigation,Organic Fertilizers,Very High
+Black Soil,16.45,400.9,Rabi,Open-Pollinated Seeds,Manual,Canal Irrigation,Organic Fertilizers,Medium
+Alluvial Soil,13.56,1085.4,Zaid,Open-Pollinated Seeds,Machine,Tank Irrigation,Bioinputs Fertilizers,High
+Saline and Alkaline Soil,8.45,182.5,Zaid,Foundation Seeds,Manual,Well Irrigation,Chemical Fertilizers,Low
+Saline and Alkaline Soil,8.66,338.9,Rabi,Breeder Seeds,Manual,Sprinkler Irrigation,Bioinputs Fertilizers,Low
+Laterite Soil,16.9,1322.3,Kharif,Hybrid Seeds,Manual,Tank Irrigation,Organic Fertilizers,Very High
+Black Soil,24.86,1121.1,Rabi,Breeder Seeds,Machine,Well Irrigation,Chemical Fertilizers,Very High
+Alluvial Soil,16.72,69.9,Kharif,Foundation Seeds,Manual,Sprinkler Irrigation,Bioinputs Fertilizers,High
+Laterite Soil,14.17,410.1,Kharif,Foundation Seeds,Manual,Drip Irrigation,Bioinputs Fertilizers,High
+Red and Yellow Soil,18.4,360.9,Kharif,Breeder Seeds,Machine,Sprinkler Irrigation,Bioinputs Fertilizers,Medium
+Laterite Soil,11.9,442.7,Kharif,Hybrid Seeds,Manual,Sprinkler Irrigation,Organic Fertilizers,Medium
+Laterite Soil,1.97,409.0,Rabi,Breeder Seeds,Machine,Sprinkler Irrigation,Bioinputs Fertilizers,Low
+Black Soil,14.28,140.7,Zaid,Open-Pollinated Seeds,Machine,Tubewell Irrigation,Chemical Fertilizers,Low
+Red and Yellow Soil,23.96,715.5,Zaid,Genetically Modified (GM) Seeds,Machine,Drip Irrigation,Bioinputs Fertilizers,Medium
+Laterite Soil,4.79,1112.5,Zaid,Open-Pollinated Seeds,Manual,Tank Irrigation,Organic Fertilizers,High
+Alluvial Soil,17.41,929.8,Zaid,Genetically Modified (GM) Seeds,Manual,Tank Irrigation,Bioinputs Fertilizers,Very High
+Alluvial Soil,5.42,1025.7,Zaid,Foundation Seeds,Machine,Well Irrigation,Organic Fertilizers,Very High
+Saline and Alkaline Soil,13.63,167.7,Zaid,Hybrid Seeds,Machine,Tank Irrigation,Organic Fertilizers,Low
+Red and Yellow Soil,2.87,1429.7,Rabi,Breeder Seeds,Machine,Canal Irrigation,Chemical Fertilizers,Low
+Red and Yellow Soil,11.53,1265.8,Kharif,Hybrid Seeds,Machine,Sprinkler Irrigation,Chemical Fertilizers,High
+Saline and Alkaline Soil,19.03,1217.4,Zaid,Breeder Seeds,Machine,Tank Irrigation,Bioinputs Fertilizers,High
+Laterite Soil,9.02,1243.3,Rabi,Open-Pollinated Seeds,Machine,Well Irrigation,Organic Fertilizers,Medium
+Red and Yellow Soil,16.79,1402.4,Zaid,Open-Pollinated Seeds,Manual,Well Irrigation,Organic Fertilizers,Medium
+Alluvial Soil,19.99,839.2,Zaid,Breeder Seeds,Machine,Canal Irrigation,Chemical Fertilizers,Very High
+Alluvial Soil,23.22,340.4,Kharif,Hybrid Seeds,Machine,Well Irrigation,Chemical Fertilizers,High
+Black Soil,6.25,944.3,Kharif,Breeder Seeds,Machine,Tubewell Irrigation,Bioinputs Fertilizers,High
+Red and Yellow Soil,10.28,1127.2,Kharif,Foundation Seeds,Manual,Sprinkler Irrigation,Organic Fertilizers,Very High
+Laterite Soil,4.23,1120.0,Zaid,Open-Pollinated Seeds,Manual,Sprinkler Irrigation,Chemical Fertilizers,Medium
+Saline and Alkaline Soil,24.82,806.1,Zaid,Foundation Seeds,Manual,Sprinkler Irrigation,Bioinputs Fertilizers,Medium
+Saline and Alkaline Soil,23.21,149.3,Zaid,Open-Pollinated Seeds,Manual,Drip Irrigation,Organic Fertilizers,Very High
+Laterite Soil,13.73,588.1,Kharif,Open-Pollinated Seeds,Machine,Tank Irrigation,Organic Fertilizers,Medium
+Black Soil,21.13,1385.1,Rabi,Genetically Modified (GM) Seeds,Manual,Tubewell Irrigation,Chemical Fertilizers,Medium
+Saline and Alkaline Soil,13.26,897.5,Zaid,Foundation Seeds,Machine,Tank Irrigation,Bioinputs Fertilizers,High
+Red and Yellow Soil,15.78,830.6,Zaid,Foundation Seeds,Machine,Tubewell Irrigation,Chemical Fertilizers,Medium
+Black Soil,2.68,439.8,Zaid,Genetically Modified (GM) Seeds,Machine,Tank Irrigation,Bioinputs Fertilizers,Low
+Red and Yellow Soil,19.0,584.3,Rabi,Hybrid Seeds,Machine,Canal Irrigation,Organic Fertilizers,Medium
+Alluvial Soil,3.63,1348.3,Zaid,Foundation Seeds,Machine,Well Irrigation,Bioinputs Fertilizers,Very High
+Black Soil,20.74,1016.4,Rabi,Breeder Seeds,Machine,Well Irrigation,Bioinputs Fertilizers,Medium
+Saline and Alkaline Soil,19.66,1191.7,Zaid,Genetically Modified (GM) Seeds,Manual,Canal Irrigation,Bioinputs Fertilizers,High
+Black Soil,17.86,708.8,Rabi,Foundation Seeds,Manual,Tubewell Irrigation,Bioinputs Fertilizers,Low
+Black Soil,1.39,963.9,Zaid,Hybrid Seeds,Manual,Drip Irrigation,Bioinputs Fertilizers,High
+Black Soil,7.93,410.2,Kharif,Foundation Seeds,Manual,Tubewell Irrigation,Chemical Fertilizers,Low
+Black Soil,6.95,1072.9,Kharif,Open-Pollinated Seeds,Manual,Well Irrigation,Bioinputs Fertilizers,Very High
+Red and Yellow Soil,9.32,670.0,Kharif,Breeder Seeds,Machine,Drip Irrigation,Bioinputs Fertilizers,High
+Alluvial Soil,2.65,691.7,Kharif,Genetically Modified (GM) Seeds,Manual,Tank Irrigation,Organic Fertilizers,High
+Laterite Soil,23.46,991.5,Zaid,Open-Pollinated Seeds,Manual,Drip Irrigation,Bioinputs Fertilizers,Very High
+Black Soil,14.07,1407.6,Kharif,Hybrid Seeds,Manual,Tubewell Irrigation,Organic Fertilizers,Very High
+Saline and Alkaline Soil,7.99,142.8,Rabi,Open-Pollinated Seeds,Machine,Canal Irrigation,Chemical Fertilizers,Low
+Black Soil,10.23,1245.9,Kharif,Open-Pollinated Seeds,Machine,Tank Irrigation,Chemical Fertilizers,Medium
+Saline and Alkaline Soil,11.46,474.0,Kharif,Hybrid Seeds,Machine,Tubewell Irrigation,Bioinputs Fertilizers,Low
+Red and Yellow Soil,15.21,693.7,Kharif,Open-Pollinated Seeds,Manual,Tank Irrigation,Chemical Fertilizers,Medium
+Saline and Alkaline Soil,13.13,81.8,Zaid,Genetically Modified (GM) Seeds,Manual,Drip Irrigation,Bioinputs Fertilizers,Low
+Laterite Soil,23.03,486.5,Kharif,Foundation Seeds,Manual,Well Irrigation,Chemical Fertilizers,Medium
+Alluvial Soil,12.68,778.8,Rabi,Open-Pollinated Seeds,Manual,Tubewell Irrigation,Bioinputs Fertilizers,Low
+Saline and Alkaline Soil,24.81,131.5,Kharif,Genetically Modified (GM) Seeds,Manual,Canal Irrigation,Bioinputs Fertilizers,Medium
+Saline and Alkaline Soil,21.36,762.1,Kharif,Foundation Seeds,Machine,Drip Irrigation,Organic Fertilizers,Very High
+Alluvial Soil,5.61,1394.3,Kharif,Foundation Seeds,Manual,Tubewell Irrigation,Organic Fertilizers,Very High
+Laterite Soil,23.3,202.8,Rabi,Open-Pollinated Seeds,Machine,Canal Irrigation,Organic Fertilizers,Medium
+Black Soil,3.35,1158.4,Kharif,Genetically Modified (GM) Seeds,Manual,Tubewell Irrigation,Organic Fertilizers,Very High
+Saline and Alkaline Soil,20.53,644.0,Rabi,Open-Pollinated Seeds,Machine,Drip Irrigation,Bioinputs Fertilizers,Low
+Alluvial Soil,9.83,1000.0,Rabi,Hybrid Seeds,Machine,Tubewell Irrigation,Chemical Fertilizers,High
+Red and Yellow Soil,22.01,427.3,Kharif,Foundation Seeds,Machine,Tank Irrigation,Bioinputs Fertilizers,Medium
+Alluvial Soil,21.77,281.3,Rabi,Open-Pollinated Seeds,Machine,Drip Irrigation,Organic Fertilizers,Very High
+Red and Yellow Soil,20.25,282.7,Zaid,Foundation Seeds,Manual,Tubewell Irrigation,Organic Fertilizers,Medium
+Laterite Soil,19.86,152.2,Kharif,Genetically Modified (GM) Seeds,Manual,Well Irrigation,Chemical Fertilizers,Medium
+Black Soil,7.96,319.2,Kharif,Breeder Seeds,Manual,Tubewell Irrigation,Organic Fertilizers,High
+Alluvial Soil,2.48,1013.1,Rabi,Open-Pollinated Seeds,Machine,Tank Irrigation,Bioinputs Fertilizers,High
+Saline and Alkaline Soil,10.37,1328.5,Rabi,Open-Pollinated Seeds,Manual,Canal Irrigation,Bioinputs Fertilizers,Medium
+Laterite Soil,4.75,1230.5,Kharif,Foundation Seeds,Manual,Canal Irrigation,Bioinputs Fertilizers,High
+Alluvial Soil,17.53,1043.4,Zaid,Genetically Modified (GM) Seeds,Manual,Canal Irrigation,Bioinputs Fertilizers,Very High
+Saline and Alkaline Soil,8.98,210.1,Rabi,Hybrid Seeds,Manual,Well Irrigation,Bioinputs Fertilizers,Low
+Alluvial Soil,24.4,469.3,Rabi,Genetically Modified (GM) Seeds,Machine,Tank Irrigation,Chemical Fertilizers,Medium
+Red and Yellow Soil,16.2,499.2,Zaid,Open-Pollinated Seeds,Machine,Drip Irrigation,Bioinputs Fertilizers,Medium
+Alluvial Soil,20.65,412.4,Zaid,Hybrid Seeds,Manual,Canal Irrigation,Organic Fertilizers,High
+Alluvial Soil,3.75,796.8,Kharif,Genetically Modified (GM) Seeds,Manual,Tank Irrigation,Organic Fertilizers,Very High
+Alluvial Soil,21.62,826.6,Zaid,Breeder Seeds,Manual,Tubewell Irrigation,Organic Fertilizers,Very High
+Laterite Soil,23.11,567.5,Kharif,Foundation Seeds,Machine,Well Irrigation,Organic Fertilizers,High
+Alluvial Soil,12.43,563.0,Zaid,Genetically Modified (GM) Seeds,Machine,Tank Irrigation,Chemical Fertilizers,Medium
+Saline and Alkaline Soil,15.35,1251.4,Rabi,Genetically Modified (GM) Seeds,Machine,Tank Irrigation,Organic Fertilizers,Very High
+Red and Yellow Soil,19.24,1194.5,Kharif,Breeder Seeds,Manual,Drip Irrigation,Chemical Fertilizers,Very High
+Red and Yellow Soil,4.78,496.3,Kharif,Open-Pollinated Seeds,Machine,Tank Irrigation,Organic Fertilizers,High
+Alluvial Soil,12.81,1375.0,Kharif,Foundation Seeds,Machine,Drip Irrigation,Chemical Fertilizers,Very High
+Laterite Soil,10.27,1431.6,Zaid,Genetically Modified (GM) Seeds,Machine,Well Irrigation,Chemical Fertilizers,Medium
+Laterite Soil,4.09,523.8,Rabi,Hybrid Seeds,Machine,Well Irrigation,Chemical Fertilizers,Low
+Saline and Alkaline Soil,9.5,563.9,Kharif,Genetically Modified (GM) Seeds,Machine,Tubewell Irrigation,Organic Fertilizers,Medium
+Alluvial Soil,2.17,783.2,Kharif,Foundation Seeds,Manual,Drip Irrigation,Chemical Fertilizers,Very High
+Red and Yellow Soil,1.13,1414.6,Kharif,Genetically Modified (GM) Seeds,Manual,Drip Irrigation,Bioinputs Fertilizers,Very High
+Laterite Soil,3.81,1320.7,Kharif,Breeder Seeds,Manual,Canal Irrigation,Bioinputs Fertilizers,High
+Alluvial Soil,24.1,198.7,Rabi,Genetically Modified (GM) Seeds,Manual,Canal Irrigation,Organic Fertilizers,Very High
+Laterite Soil,13.96,619.5,Zaid,Genetically Modified (GM) Seeds,Machine,Tubewell Irrigation,Bioinputs Fertilizers,Low
+Laterite Soil,24.16,852.4,Rabi,Hybrid Seeds,Manual,Well Irrigation,Bioinputs Fertilizers,Medium
+Red and Yellow Soil,11.1,779.5,Kharif,Breeder Seeds,Manual,Sprinkler Irrigation,Bioinputs Fertilizers,Low
+Black Soil,8.14,331.1,Rabi,Breeder Seeds,Manual,Canal Irrigation,Organic Fertilizers,Medium
+Saline and Alkaline Soil,12.9,1295.3,Kharif,Genetically Modified (GM) Seeds,Machine,Tank Irrigation,Organic Fertilizers,High
+Saline and Alkaline Soil,11.27,1031.6,Zaid,Hybrid Seeds,Manual,Well Irrigation,Bioinputs Fertilizers,Medium
+Red and Yellow Soil,3.09,1265.0,Zaid,Genetically Modified (GM) Seeds,Machine,Sprinkler Irrigation,Organic Fertilizers,High
+Laterite Soil,16.2,1295.2,Zaid,Genetically Modified (GM) Seeds,Machine,Tank Irrigation,Chemical Fertilizers,High
+Alluvial Soil,5.79,1135.1,Kharif,Foundation Seeds,Machine,Drip Irrigation,Bioinputs Fertilizers,Very High
+Laterite Soil,15.68,686.9,Rabi,Foundation Seeds,Manual,Well Irrigation,Organic Fertilizers,Medium
+Red and Yellow Soil,16.43,935.3,Zaid,Hybrid Seeds,Machine,Tubewell Irrigation,Organic Fertilizers,Very High
+Saline and Alkaline Soil,4.22,282.5,Kharif,Open-Pollinated Seeds,Manual,Drip Irrigation,Bioinputs Fertilizers,Medium
+Laterite Soil,2.0,1026.8,Kharif,Foundation Seeds,Manual,Drip Irrigation,Organic Fertilizers,Very High
+Saline and Alkaline Soil,19.63,309.9,Rabi,Open-Pollinated Seeds,Manual,Tank Irrigation,Bioinputs Fertilizers,Low
+Alluvial Soil,11.77,1056.2,Zaid,Breeder Seeds,Machine,Drip Irrigation,Organic Fertilizers,Very High
+Saline and Alkaline Soil,1.93,382.9,Kharif,Foundation Seeds,Machine,Canal Irrigation,Chemical Fertilizers,Medium
+Saline and Alkaline Soil,24.87,220.4,Rabi,Foundation Seeds,Manual,Well Irrigation,Bioinputs Fertilizers,Low
+Black Soil,1.92,289.7,Zaid,Hybrid Seeds,Machine,Canal Irrigation,Chemical Fertilizers,Low
+Black Soil,17.53,52.9,Rabi,Open-Pollinated Seeds,Machine,Tank Irrigation,Bioinputs Fertilizers,Low
+Black Soil,24.6,1092.2,Rabi,Foundation Seeds,Machine,Sprinkler Irrigation,Organic Fertilizers,High
+Saline and Alkaline Soil,6.36,1112.0,Kharif,Foundation Seeds,Manual,Tank Irrigation,Chemical Fertilizers,Medium
+Red and Yellow Soil,3.99,796.7,Kharif,Hybrid Seeds,Machine,Well Irrigation,Organic Fertilizers,High
+Saline and Alkaline Soil,3.47,284.0,Kharif,Hybrid Seeds,Machine,Drip Irrigation,Bioinputs Fertilizers,High
+Red and Yellow Soil,7.93,171.2,Rabi,Open-Pollinated Seeds,Manual,Tubewell Irrigation,Bioinputs Fertilizers,Low
+Red and Yellow Soil,2.98,77.7,Kharif,Breeder Seeds,Machine,Tank Irrigation,Bioinputs Fertilizers,Medium
+Black Soil,17.46,290.3,Rabi,Breeder Seeds,Manual,Well Irrigation,Bioinputs Fertilizers,Low
+Laterite Soil,2.03,1341.7,Rabi,Genetically Modified (GM) Seeds,Machine,Tubewell Irrigation,Bioinputs Fertilizers,Medium
+Alluvial Soil,12.98,400.2,Kharif,Foundation Seeds,Machine,Drip Irrigation,Chemical Fertilizers,Very High
+Black Soil,24.92,563.7,Zaid,Open-Pollinated Seeds,Machine,Sprinkler Irrigation,Bioinputs Fertilizers,Low
+Black Soil,20.44,202.8,Zaid,Foundation Seeds,Machine,Tank Irrigation,Organic Fertilizers,High
+Laterite Soil,15.57,372.4,Zaid,Open-Pollinated Seeds,Machine,Sprinkler Irrigation,Chemical Fertilizers,Low
+Alluvial Soil,8.0,802.9,Rabi,Open-Pollinated Seeds,Machine,Well Irrigation,Organic Fertilizers,Very High
+Saline and Alkaline Soil,15.79,931.2,Rabi,Open-Pollinated Seeds,Manual,Sprinkler Irrigation,Bioinputs Fertilizers,High
+Saline and Alkaline Soil,13.41,405.8,Rabi,Foundation Seeds,Machine,Sprinkler Irrigation,Organic Fertilizers,Medium
+Black Soil,10.94,133.7,Kharif,Hybrid Seeds,Machine,Well Irrigation,Chemical Fertilizers,Low
+Alluvial Soil,3.7,617.0,Rabi,Foundation Seeds,Machine,Well Irrigation,Chemical Fertilizers,Low
+Black Soil,22.22,389.6,Kharif,Open-Pollinated Seeds,Manual,Tank Irrigation,Chemical Fertilizers,Medium
+Red and Yellow Soil,11.52,368.4,Kharif,Genetically Modified (GM) Seeds,Manual,Sprinkler Irrigation,Organic Fertilizers,High
+Black Soil,5.27,1441.8,Zaid,Breeder Seeds,Manual,Tubewell Irrigation,Chemical Fertilizers,Medium
+Black Soil,9.51,943.6,Zaid,Open-Pollinated Seeds,Machine,Well Irrigation,Organic Fertilizers,Very High
+Saline and Alkaline Soil,10.65,857.5,Zaid,Genetically Modified (GM) Seeds,Machine,Drip Irrigation,Bioinputs Fertilizers,High
+Saline and Alkaline Soil,20.77,652.9,Kharif,Hybrid Seeds,Manual,Sprinkler Irrigation,Bioinputs Fertilizers,Medium
+Saline and Alkaline Soil,18.47,672.0,Kharif,Open-Pollinated Seeds,Manual,Well Irrigation,Organic Fertilizers,Very High
+Red and Yellow Soil,19.35,834.3,Kharif,Genetically Modified (GM) Seeds,Manual,Tubewell Irrigation,Chemical Fertilizers,Very High
+Saline and Alkaline Soil,0.77,1059.8,Rabi,Open-Pollinated Seeds,Machine,Tank Irrigation,Organic Fertilizers,High
+Alluvial Soil,10.7,1068.1,Kharif,Foundation Seeds,Manual,Sprinkler Irrigation,Organic Fertilizers,Very High
+Laterite Soil,12.29,299.0,Zaid,Genetically Modified (GM) Seeds,Machine,Well Irrigation,Organic Fertilizers,Low
+Alluvial Soil,0.97,775.2,Zaid,Foundation Seeds,Machine,Well Irrigation,Bioinputs Fertilizers,Medium
+Alluvial Soil,6.87,647.3,Kharif,Foundation Seeds,Machine,Drip Irrigation,Organic Fertilizers,Very High
+Saline and Alkaline Soil,19.13,1312.3,Kharif,Genetically Modified (GM) Seeds,Manual,Drip Irrigation,Bioinputs Fertilizers,Very High
+Laterite Soil,3.86,965.6,Zaid,Breeder Seeds,Machine,Sprinkler Irrigation,Organic Fertilizers,Very High
+Laterite Soil,13.62,822.1,Kharif,Genetically Modified (GM) Seeds,Manual,Well Irrigation,Bioinputs Fertilizers,Medium
+Laterite Soil,5.77,217.3,Zaid,Breeder Seeds,Manual,Sprinkler Irrigation,Organic Fertilizers,Low
+Red and Yellow Soil,0.8,928.2,Rabi,Open-Pollinated Seeds,Manual,Well Irrigation,Organic Fertilizers,Very High
+Saline and Alkaline Soil,6.41,219.9,Zaid,Open-Pollinated Seeds,Manual,Drip Irrigation,Chemical Fertilizers,Medium
+Laterite Soil,24.41,538.9,Rabi,Genetically Modified (GM) Seeds,Machine,Tubewell Irrigation,Chemical Fertilizers,Low
+Red and Yellow Soil,20.14,257.1,Kharif,Open-Pollinated Seeds,Machine,Canal Irrigation,Organic Fertilizers,High
+Black Soil,24.01,1053.5,Kharif,Hybrid Seeds,Machine,Canal Irrigation,Organic Fertilizers,Very High
+Black Soil,12.45,349.1,Rabi,Foundation Seeds,Machine,Well Irrigation,Organic Fertilizers,Low
+Red and Yellow Soil,3.19,618.2,Kharif,Foundation Seeds,Manual,Drip Irrigation,Organic Fertilizers,Very High
+Red and Yellow Soil,13.93,1348.7,Rabi,Breeder Seeds,Manual,Tank Irrigation,Chemical Fertilizers,Low
+Saline and Alkaline Soil,11.63,346.3,Kharif,Open-Pollinated Seeds,Manual,Tank Irrigation,Bioinputs Fertilizers,Medium
+Saline and Alkaline Soil,21.19,786.3,Zaid,Breeder Seeds,Manual,Canal Irrigation,Organic Fertilizers,High
+Black Soil,2.9,657.9,Kharif,Foundation Seeds,Machine,Tubewell Irrigation,Chemical Fertilizers,Medium
+Laterite Soil,12.46,76.3,Zaid,Foundation Seeds,Manual,Canal Irrigation,Organic Fertilizers,Low
+Black Soil,4.18,1199.5,Zaid,Open-Pollinated Seeds,Machine,Well Irrigation,Organic Fertilizers,High
+Laterite Soil,8.45,150.1,Rabi,Hybrid Seeds,Manual,Tubewell Irrigation,Bioinputs Fertilizers,Low
+Laterite Soil,18.57,737.7,Kharif,Hybrid Seeds,Manual,Tank Irrigation,Organic Fertilizers,High
+Saline and Alkaline Soil,12.16,863.0,Rabi,Open-Pollinated Seeds,Manual,Drip Irrigation,Organic Fertilizers,Very High
+Alluvial Soil,9.71,961.2,Kharif,Open-Pollinated Seeds,Manual,Drip Irrigation,Bioinputs Fertilizers,Very High
+Alluvial Soil,10.16,1048.5,Zaid,Breeder Seeds,Machine,Well Irrigation,Bioinputs Fertilizers,Medium
+Red and Yellow Soil,11.76,417.2,Zaid,Open-Pollinated Seeds,Machine,Canal Irrigation,Bioinputs Fertilizers,Low
+Saline and Alkaline Soil,19.73,64.5,Kharif,Hybrid Seeds,Machine,Well Irrigation,Bioinputs Fertilizers,Medium
+Laterite Soil,22.36,1099.0,Kharif,Open-Pollinated Seeds,Machine,Drip Irrigation,Chemical Fertilizers,Very High
+Alluvial Soil,23.91,826.7,Rabi,Breeder Seeds,Manual,Tank Irrigation,Chemical Fertilizers,Very High
+Laterite Soil,19.78,1262.4,Kharif,Breeder Seeds,Manual,Drip Irrigation,Chemical Fertilizers,Very High
+Alluvial Soil,8.23,1241.0,Kharif,Breeder Seeds,Machine,Tubewell Irrigation,Organic Fertilizers,Very High
+Alluvial Soil,17.36,1272.8,Kharif,Breeder Seeds,Machine,Sprinkler Irrigation,Bioinputs Fertilizers,Very High
+Alluvial Soil,11.22,753.4,Rabi,Genetically Modified (GM) Seeds,Manual,Drip Irrigation,Bioinputs Fertilizers,High
+Saline and Alkaline Soil,6.74,533.8,Kharif,Open-Pollinated Seeds,Manual,Drip Irrigation,Chemical Fertilizers,High
+Black Soil,21.1,1197.8,Zaid,Foundation Seeds,Machine,Sprinkler Irrigation,Organic Fertilizers,High
+Laterite Soil,1.44,704.4,Rabi,Open-Pollinated Seeds,Machine,Tubewell Irrigation,Organic Fertilizers,Low
+Saline and Alkaline Soil,22.59,316.0,Rabi,Genetically Modified (GM) Seeds,Machine,Canal Irrigation,Organic Fertilizers,High
+Saline and Alkaline Soil,11.81,1289.7,Zaid,Breeder Seeds,Manual,Drip Irrigation,Chemical Fertilizers,High
+Saline and Alkaline Soil,16.11,1329.7,Zaid,Genetically Modified (GM) Seeds,Machine,Well Irrigation,Organic Fertilizers,High
+Saline and Alkaline Soil,16.65,726.1,Zaid,Hybrid Seeds,Machine,Drip Irrigation,Organic Fertilizers,High
+Saline and Alkaline Soil,22.43,159.8,Kharif,Hybrid Seeds,Machine,Well Irrigation,Organic Fertilizers,High
+Red and Yellow Soil,16.1,612.3,Zaid,Open-Pollinated Seeds,Machine,Tubewell Irrigation,Bioinputs Fertilizers,Low
+Laterite Soil,15.54,1215.1,Kharif,Open-Pollinated Seeds,Machine,Drip Irrigation,Chemical Fertilizers,Very High
+Saline and Alkaline Soil,2.13,1357.6,Rabi,Foundation Seeds,Manual,Tubewell Irrigation,Bioinputs Fertilizers,Low
+Laterite Soil,13.2,345.0,Rabi,Foundation Seeds,Machine,Tubewell Irrigation,Bioinputs Fertilizers,Low
+Red and Yellow Soil,4.18,147.1,Zaid,Hybrid Seeds,Manual,Canal Irrigation,Chemical Fertilizers,Low
+Red and Yellow Soil,18.57,1322.2,Kharif,Breeder Seeds,Machine,Drip Irrigation,Bioinputs Fertilizers,Very High
+Laterite Soil,13.05,614.6,Zaid,Genetically Modified (GM) Seeds,Machine,Well Irrigation,Organic Fertilizers,Low
+Alluvial Soil,17.17,835.6,Zaid,Foundation Seeds,Machine,Well Irrigation,Organic Fertilizers,Very High
+Black Soil,1.52,1453.7,Kharif,Foundation Seeds,Manual,Drip Irrigation,Organic Fertilizers,Very High
+Alluvial Soil,2.58,146.5,Zaid,Breeder Seeds,Manual,Sprinkler Irrigation,Organic Fertilizers,High
+Alluvial Soil,18.05,990.1,Rabi,Breeder Seeds,Manual,Canal Irrigation,Chemical Fertilizers,High
+Alluvial Soil,2.27,157.5,Zaid,Open-Pollinated Seeds,Machine,Canal Irrigation,Bioinputs Fertilizers,Low
+Saline and Alkaline Soil,2.25,594.4,Kharif,Genetically Modified (GM) Seeds,Machine,Canal Irrigation,Bioinputs Fertilizers,Medium
+Red and Yellow Soil,0.8,1215.5,Kharif,Breeder Seeds,Manual,Well Irrigation,Organic Fertilizers,Very High
+Alluvial Soil,23.93,678.5,Rabi,Foundation Seeds,Manual,Tubewell Irrigation,Organic Fertilizers,Very High
+Red and Yellow Soil,18.57,1495.9,Kharif,Foundation Seeds,Machine,Sprinkler Irrigation,Bioinputs Fertilizers,High
+Laterite Soil,9.15,860.6,Kharif,Hybrid Seeds,Manual,Canal Irrigation,Chemical Fertilizers,High
+Black Soil,7.77,515.7,Rabi,Breeder Seeds,Machine,Well Irrigation,Bioinputs Fertilizers,Low
+Laterite Soil,9.07,369.2,Zaid,Open-Pollinated Seeds,Manual,Well Irrigation,Organic Fertilizers,Medium
+Laterite Soil,19.48,558.3,Rabi,Genetically Modified (GM) Seeds,Manual,Tubewell Irrigation,Organic Fertilizers,Medium
+Saline and Alkaline Soil,16.7,590.2,Zaid,Open-Pollinated Seeds,Manual,Drip Irrigation,Chemical Fertilizers,Medium
+Black Soil,5.04,149.6,Rabi,Foundation Seeds,Machine,Drip Irrigation,Bioinputs Fertilizers,Medium
+Laterite Soil,4.77,585.9,Zaid,Open-Pollinated Seeds,Machine,Canal Irrigation,Chemical Fertilizers,Low
+Laterite Soil,2.91,723.1,Rabi,Foundation Seeds,Manual,Canal Irrigation,Chemical Fertilizers,Low
+Black Soil,16.68,1098.0,Zaid,Foundation Seeds,Machine,Sprinkler Irrigation,Organic Fertilizers,High
+Black Soil,19.23,1002.3,Rabi,Foundation Seeds,Machine,Tubewell Irrigation,Bioinputs Fertilizers,High
+Laterite Soil,6.99,1077.7,Zaid,Foundation Seeds,Machine,Canal Irrigation,Organic Fertilizers,High
+Black Soil,1.01,62.1,Rabi,Foundation Seeds,Machine,Tubewell Irrigation,Bioinputs Fertilizers,Low
+Laterite Soil,2.51,365.6,Kharif,Hybrid Seeds,Manual,Well Irrigation,Organic Fertilizers,Medium
+Laterite Soil,24.21,1009.4,Zaid,Open-Pollinated Seeds,Machine,Canal Irrigation,Organic Fertilizers,Very High
+Saline and Alkaline Soil,7.74,751.8,Rabi,Hybrid Seeds,Machine,Well Irrigation,Bioinputs Fertilizers,Low
+Alluvial Soil,19.35,57.7,Zaid,Hybrid Seeds,Manual,Tank Irrigation,Bioinputs Fertilizers,High
+Laterite Soil,15.8,1216.5,Zaid,Breeder Seeds,Machine,Tubewell Irrigation,Organic Fertilizers,High
+Red and Yellow Soil,9.86,1170.6,Rabi,Breeder Seeds,Machine,Tank Irrigation,Bioinputs Fertilizers,Medium
+Alluvial Soil,5.54,845.2,Zaid,Breeder Seeds,Machine,Canal Irrigation,Organic Fertilizers,Very High
+Alluvial Soil,3.47,146.4,Rabi,Genetically Modified (GM) Seeds,Manual,Well Irrigation,Bioinputs Fertilizers,Low
+Alluvial Soil,15.57,1161.4,Kharif,Breeder Seeds,Manual,Canal Irrigation,Organic Fertilizers,Very High
+Saline and Alkaline Soil,19.48,896.4,Zaid,Open-Pollinated Seeds,Machine,Tank Irrigation,Organic Fertilizers,Very High
+Laterite Soil,16.28,1183.8,Kharif,Hybrid Seeds,Machine,Canal Irrigation,Organic Fertilizers,Very High
+Saline and Alkaline Soil,13.49,1140.0,Zaid,Open-Pollinated Seeds,Manual,Sprinkler Irrigation,Chemical Fertilizers,Medium
+Laterite Soil,1.53,1214.4,Zaid,Breeder Seeds,Manual,Drip Irrigation,Bioinputs Fertilizers,High
+Saline and Alkaline Soil,24.23,801.1,Zaid,Genetically Modified (GM) Seeds,Manual,Tank Irrigation,Organic Fertilizers,High
+Saline and Alkaline Soil,20.07,253.5,Rabi,Genetically Modified (GM) Seeds,Machine,Canal Irrigation,Chemical Fertilizers,Low
+Red and Yellow Soil,7.67,1023.2,Kharif,Hybrid Seeds,Machine,Well Irrigation,Organic Fertilizers,Very High
+Saline and Alkaline Soil,24.51,949.7,Zaid,Open-Pollinated Seeds,Manual,Canal Irrigation,Chemical Fertilizers,Medium
+Black Soil,15.25,1126.3,Rabi,Foundation Seeds,Machine,Well Irrigation,Organic Fertilizers,High
+Red and Yellow Soil,14.77,296.3,Zaid,Open-Pollinated Seeds,Machine,Drip Irrigation,Organic Fertilizers,Medium
+Saline and Alkaline Soil,18.83,332.7,Rabi,Breeder Seeds,Machine,Canal Irrigation,Chemical Fertilizers,Low
+Alluvial Soil,20.39,1341.1,Zaid,Foundation Seeds,Machine,Drip Irrigation,Chemical Fertilizers,Very High
+Black Soil,16.58,1137.5,Kharif,Genetically Modified (GM) Seeds,Machine,Tank Irrigation,Bioinputs Fertilizers,High
+Black Soil,3.64,1366.9,Kharif,Hybrid Seeds,Machine,Well Irrigation,Bioinputs Fertilizers,Very High
+Black Soil,8.79,1150.1,Zaid,Hybrid Seeds,Machine,Sprinkler Irrigation,Chemical Fertilizers,High
+Red and Yellow Soil,23.24,915.9,Rabi,Genetically Modified (GM) Seeds,Manual,Tank Irrigation,Bioinputs Fertilizers,Medium
+Saline and Alkaline Soil,6.0,998.5,Zaid,Breeder Seeds,Manual,Well Irrigation,Chemical Fertilizers,Medium
+Saline and Alkaline Soil,9.62,1339.2,Rabi,Genetically Modified (GM) Seeds,Manual,Drip Irrigation,Bioinputs Fertilizers,High
+Alluvial Soil,11.09,889.3,Zaid,Breeder Seeds,Manual,Tubewell Irrigation,Organic Fertilizers,Very High
+Alluvial Soil,11.27,967.0,Rabi,Foundation Seeds,Manual,Canal Irrigation,Bioinputs Fertilizers,Very High
+Black Soil,15.52,276.9,Kharif,Genetically Modified (GM) Seeds,Manual,Drip Irrigation,Organic Fertilizers,Very High
+Alluvial Soil,23.61,737.2,Zaid,Breeder Seeds,Manual,Well Irrigation,Organic Fertilizers,High
+Red and Yellow Soil,6.4,1088.8,Kharif,Foundation Seeds,Manual,Well Irrigation,Bioinputs Fertilizers,High
+Saline and Alkaline Soil,3.48,442.9,Kharif,Genetically Modified (GM) Seeds,Manual,Well Irrigation,Chemical Fertilizers,Low
+Black Soil,5.34,343.3,Zaid,Hybrid Seeds,Machine,Well Irrigation,Organic Fertilizers,Low
+Alluvial Soil,22.23,505.0,Zaid,Genetically Modified (GM) Seeds,Machine,Canal Irrigation,Organic Fertilizers,Medium
+Red and Yellow Soil,16.32,400.2,Rabi,Open-Pollinated Seeds,Manual,Tank Irrigation,Bioinputs Fertilizers,Low
+Red and Yellow Soil,7.5,361.6,Rabi,Genetically Modified (GM) Seeds,Machine,Sprinkler Irrigation,Chemical Fertilizers,Low
+Alluvial Soil,20.49,666.0,Kharif,Open-Pollinated Seeds,Machine,Tubewell Irrigation,Chemical Fertilizers,High
+Saline and Alkaline Soil,21.6,1366.4,Rabi,Foundation Seeds,Manual,Canal Irrigation,Bioinputs Fertilizers,Very High
+Alluvial Soil,21.24,785.2,Rabi,Genetically Modified (GM) Seeds,Manual,Well Irrigation,Chemical Fertilizers,Medium
+Black Soil,23.01,322.5,Zaid,Foundation Seeds,Manual,Canal Irrigation,Bioinputs Fertilizers,Low
+Alluvial Soil,6.68,161.6,Rabi,Foundation Seeds,Machine,Drip Irrigation,Bioinputs Fertilizers,Medium
+Red and Yellow Soil,19.0,1059.4,Kharif,Breeder Seeds,Machine,Sprinkler Irrigation,Bioinputs Fertilizers,High
+Alluvial Soil,11.78,605.1,Rabi,Foundation Seeds,Manual,Well Irrigation,Organic Fertilizers,Medium
+Saline and Alkaline Soil,21.13,1241.7,Kharif,Foundation Seeds,Machine,Tubewell Irrigation,Organic Fertilizers,Very High
+Laterite Soil,18.35,1006.3,Zaid,Genetically Modified (GM) Seeds,Machine,Well Irrigation,Organic Fertilizers,Very High
+Alluvial Soil,19.52,1204.6,Kharif,Genetically Modified (GM) Seeds,Machine,Sprinkler Irrigation,Bioinputs Fertilizers,Very High
+Saline and Alkaline Soil,16.58,444.3,Rabi,Hybrid Seeds,Manual,Tubewell Irrigation,Organic Fertilizers,Medium
+Saline and Alkaline Soil,4.85,1053.9,Zaid,Breeder Seeds,Machine,Sprinkler Irrigation,Organic Fertilizers,Very High
+Red and Yellow Soil,13.85,432.9,Rabi,Foundation Seeds,Machine,Tubewell Irrigation,Organic Fertilizers,Medium
+Saline and Alkaline Soil,24.62,1411.6,Zaid,Breeder Seeds,Machine,Tank Irrigation,Bioinputs Fertilizers,Very High
+Saline and Alkaline Soil,23.47,972.7,Zaid,Open-Pollinated Seeds,Machine,Tank Irrigation,Bioinputs Fertilizers,Medium
+Saline and Alkaline Soil,1.56,520.5,Rabi,Foundation Seeds,Machine,Canal Irrigation,Bioinputs Fertilizers,Medium
+Saline and Alkaline Soil,4.54,440.8,Rabi,Breeder Seeds,Machine,Canal Irrigation,Organic Fertilizers,Low
+Black Soil,3.73,326.8,Zaid,Hybrid Seeds,Machine,Tubewell Irrigation,Chemical Fertilizers,Low
+Black Soil,18.29,1057.2,Zaid,Hybrid Seeds,Manual,Well Irrigation,Organic Fertilizers,Very High
+Red and Yellow Soil,20.54,367.1,Rabi,Foundation Seeds,Manual,Drip Irrigation,Organic Fertilizers,High
+Alluvial Soil,5.73,913.2,Kharif,Open-Pollinated Seeds,Machine,Drip Irrigation,Bioinputs Fertilizers,Very High
+Saline and Alkaline Soil,12.89,433.7,Rabi,Hybrid Seeds,Manual,Well Irrigation,Bioinputs Fertilizers,Low
+Alluvial Soil,21.1,1009.9,Zaid,Hybrid Seeds,Machine,Well Irrigation,Organic Fertilizers,Very High
+Alluvial Soil,18.45,1231.7,Rabi,Open-Pollinated Seeds,Machine,Tank Irrigation,Organic Fertilizers,Very High
+Red and Yellow Soil,13.78,1178.1,Kharif,Breeder Seeds,Machine,Drip Irrigation,Chemical Fertilizers,Very High
+Saline and Alkaline Soil,14.96,1153.2,Rabi,Hybrid Seeds,Manual,Tubewell Irrigation,Chemical Fertilizers,Medium
+Saline and Alkaline Soil,12.95,322.2,Zaid,Genetically Modified (GM) Seeds,Machine,Sprinkler Irrigation,Bioinputs Fertilizers,Low
+Laterite Soil,7.79,178.2,Rabi,Hybrid Seeds,Machine,Canal Irrigation,Chemical Fertilizers,Low
+Alluvial Soil,14.34,1063.5,Zaid,Breeder Seeds,Manual,Sprinkler Irrigation,Chemical Fertilizers,Medium
+Alluvial Soil,17.38,584.1,Zaid,Breeder Seeds,Manual,Tank Irrigation,Bioinputs Fertilizers,Medium
+Black Soil,21.9,676.9,Rabi,Foundation Seeds,Machine,Drip Irrigation,Chemical Fertilizers,Medium
+Laterite Soil,16.09,95.2,Zaid,Genetically Modified (GM) Seeds,Manual,Well Irrigation,Organic Fertilizers,Medium
+Black Soil,19.15,426.4,Zaid,Breeder Seeds,Manual,Drip Irrigation,Chemical Fertilizers,High
+Black Soil,4.42,98.8,Kharif,Open-Pollinated Seeds,Machine,Tubewell Irrigation,Bioinputs Fertilizers,Low
+Black Soil,11.81,1324.8,Kharif,Genetically Modified (GM) Seeds,Machine,Tank Irrigation,Organic Fertilizers,High
+Red and Yellow Soil,0.73,402.9,Kharif,Genetically Modified (GM) Seeds,Machine,Well Irrigation,Chemical Fertilizers,Low
+Red and Yellow Soil,6.54,858.1,Kharif,Open-Pollinated Seeds,Manual,Sprinkler Irrigation,Organic Fertilizers,Very High
+Black Soil,18.3,106.5,Zaid,Hybrid Seeds,Manual,Tubewell Irrigation,Organic Fertilizers,High
+Laterite Soil,24.8,1016.9,Rabi,Open-Pollinated Seeds,Manual,Sprinkler Irrigation,Chemical Fertilizers,Medium
+Alluvial Soil,2.93,518.4,Zaid,Open-Pollinated Seeds,Machine,Canal Irrigation,Chemical Fertilizers,Low
+Laterite Soil,10.34,1352.0,Zaid,Hybrid Seeds,Manual,Tank Irrigation,Bioinputs Fertilizers,Medium
+Saline and Alkaline Soil,20.1,1337.8,Zaid,Hybrid Seeds,Manual,Tubewell Irrigation,Bioinputs Fertilizers,Medium
+Red and Yellow Soil,5.5,521.7,Rabi,Hybrid Seeds,Machine,Tubewell Irrigation,Organic Fertilizers,Low
+Alluvial Soil,14.1,1356.4,Kharif,Hybrid Seeds,Machine,Sprinkler Irrigation,Bioinputs Fertilizers,Very High
+Alluvial Soil,18.46,1494.4,Zaid,Hybrid Seeds,Machine,Well Irrigation,Organic Fertilizers,Very High
+Saline and Alkaline Soil,15.59,1246.9,Zaid,Open-Pollinated Seeds,Manual,Canal Irrigation,Organic Fertilizers,Very High
+Saline and Alkaline Soil,5.11,1275.1,Kharif,Foundation Seeds,Machine,Sprinkler Irrigation,Bioinputs Fertilizers,High
+Black Soil,9.21,411.1,Zaid,Foundation Seeds,Manual,Tubewell Irrigation,Bioinputs Fertilizers,Low
+Red and Yellow Soil,19.7,886.2,Rabi,Breeder Seeds,Manual,Tank Irrigation,Bioinputs Fertilizers,Medium
+Red and Yellow Soil,14.08,147.5,Zaid,Foundation Seeds,Machine,Tubewell Irrigation,Chemical Fertilizers,Low
+Laterite Soil,0.63,187.6,Zaid,Foundation Seeds,Machine,Drip Irrigation,Organic Fertilizers,High
+Black Soil,19.14,1498.4,Kharif,Open-Pollinated Seeds,Machine,Tank Irrigation,Organic Fertilizers,Very High
+Black Soil,1.37,523.6,Zaid,Hybrid Seeds,Machine,Tank Irrigation,Organic Fertilizers,Medium
+Black Soil,18.77,1134.9,Zaid,Hybrid Seeds,Machine,Tubewell Irrigation,Bioinputs Fertilizers,Medium
+Black Soil,5.46,1219.7,Rabi,Open-Pollinated Seeds,Manual,Well Irrigation,Bioinputs Fertilizers,Medium
+Red and Yellow Soil,23.97,1294.1,Kharif,Foundation Seeds,Manual,Tank Irrigation,Bioinputs Fertilizers,High
+Red and Yellow Soil,9.51,1496.6,Kharif,Open-Pollinated Seeds,Manual,Drip Irrigation,Bioinputs Fertilizers,Very High
+Black Soil,8.51,400.2,Rabi,Breeder Seeds,Machine,Sprinkler Irrigation,Bioinputs Fertilizers,Low
+Laterite Soil,4.15,108.5,Zaid,Hybrid Seeds,Manual,Well Irrigation,Chemical Fertilizers,Low
+Alluvial Soil,7.99,646.2,Kharif,Genetically Modified (GM) Seeds,Machine,Well Irrigation,Bioinputs Fertilizers,Medium
+Alluvial Soil,21.98,238.6,Kharif,Breeder Seeds,Machine,Well Irrigation,Organic Fertilizers,Very High
+Laterite Soil,24.91,82.5,Zaid,Breeder Seeds,Manual,Tank Irrigation,Bioinputs Fertilizers,Medium
+Black Soil,9.52,572.6,Zaid,Open-Pollinated Seeds,Manual,Well Irrigation,Organic Fertilizers,Medium
+Red and Yellow Soil,11.49,1186.4,Kharif,Foundation Seeds,Machine,Tubewell Irrigation,Bioinputs Fertilizers,Medium
+Alluvial Soil,18.19,871.0,Zaid,Hybrid Seeds,Manual,Well Irrigation,Bioinputs Fertilizers,Very High
+Saline and Alkaline Soil,22.21,503.5,Kharif,Genetically Modified (GM) Seeds,Machine,Drip Irrigation,Organic Fertilizers,Very High
+Saline and Alkaline Soil,15.03,998.8,Zaid,Breeder Seeds,Manual,Canal Irrigation,Organic Fertilizers,Very High
+Laterite Soil,10.09,386.4,Zaid,Genetically Modified (GM) Seeds,Manual,Drip Irrigation,Organic Fertilizers,Medium
+Black Soil,10.61,70.9,Rabi,Foundation Seeds,Manual,Tank Irrigation,Organic Fertilizers,Medium
+Alluvial Soil,17.54,1158.3,Zaid,Foundation Seeds,Manual,Well Irrigation,Chemical Fertilizers,Very High
+Black Soil,0.58,954.4,Rabi,Genetically Modified (GM) Seeds,Manual,Well Irrigation,Organic Fertilizers,Medium
+Alluvial Soil,15.68,1155.3,Zaid,Hybrid Seeds,Machine,Tubewell Irrigation,Bioinputs Fertilizers,Very High
+Laterite Soil,9.21,106.5,Kharif,Foundation Seeds,Manual,Sprinkler Irrigation,Bioinputs Fertilizers,Medium
+Laterite Soil,19.96,1263.8,Kharif,Genetically Modified (GM) Seeds,Manual,Well Irrigation,Chemical Fertilizers,High
+Saline and Alkaline Soil,2.78,948.3,Zaid,Breeder Seeds,Manual,Drip Irrigation,Organic Fertilizers,Very High
+Black Soil,14.91,866.9,Zaid,Genetically Modified (GM) Seeds,Machine,Tank Irrigation,Bioinputs Fertilizers,Medium
+Saline and Alkaline Soil,12.28,955.7,Kharif,Genetically Modified (GM) Seeds,Machine,Canal Irrigation,Chemical Fertilizers,High
+Black Soil,16.24,1303.4,Zaid,Open-Pollinated Seeds,Machine,Well Irrigation,Bioinputs Fertilizers,Low
+Saline and Alkaline Soil,2.09,901.1,Rabi,Foundation Seeds,Machine,Canal Irrigation,Chemical Fertilizers,High
+Red and Yellow Soil,14.71,892.4,Rabi,Hybrid Seeds,Machine,Well Irrigation,Chemical Fertilizers,High
+Red and Yellow Soil,14.26,1486.5,Rabi,Hybrid Seeds,Manual,Tank Irrigation,Organic Fertilizers,High
+Red and Yellow Soil,14.24,1147.3,Rabi,Open-Pollinated Seeds,Manual,Sprinkler Irrigation,Chemical Fertilizers,Low
+Red and Yellow Soil,15.29,691.3,Rabi,Hybrid Seeds,Manual,Drip Irrigation,Bioinputs Fertilizers,Medium
+Alluvial Soil,17.07,1075.7,Zaid,Genetically Modified (GM) Seeds,Machine,Tank Irrigation,Bioinputs Fertilizers,High
+Red and Yellow Soil,20.22,614.4,Zaid,Open-Pollinated Seeds,Machine,Canal Irrigation,Organic Fertilizers,Medium
+Laterite Soil,7.11,381.9,Rabi,Breeder Seeds,Manual,Well Irrigation,Organic Fertilizers,Medium
+Laterite Soil,20.71,915.4,Zaid,Foundation Seeds,Machine,Canal Irrigation,Chemical Fertilizers,Medium
+Alluvial Soil,12.71,1395.9,Zaid,Foundation Seeds,Machine,Drip Irrigation,Organic Fertilizers,Very High
+Red and Yellow Soil,2.39,1397.3,Rabi,Foundation Seeds,Machine,Tank Irrigation,Bioinputs Fertilizers,Medium
+Red and Yellow Soil,1.93,545.8,Zaid,Genetically Modified (GM) Seeds,Manual,Canal Irrigation,Bioinputs Fertilizers,Low
+Red and Yellow Soil,8.69,815.1,Zaid,Breeder Seeds,Manual,Canal Irrigation,Organic Fertilizers,High
+Saline and Alkaline Soil,19.73,356.9,Zaid,Open-Pollinated Seeds,Machine,Drip Irrigation,Organic Fertilizers,Medium
+Black Soil,17.84,1493.7,Rabi,Open-Pollinated Seeds,Machine,Well Irrigation,Organic Fertilizers,Very High
+Saline and Alkaline Soil,19.82,1472.6,Zaid,Foundation Seeds,Machine,Canal Irrigation,Chemical Fertilizers,Medium
+Black Soil,13.17,991.8,Kharif,Breeder Seeds,Machine,Drip Irrigation,Chemical Fertilizers,High
+Red and Yellow Soil,11.28,1216.4,Kharif,Breeder Seeds,Manual,Well Irrigation,Bioinputs Fertilizers,Very High
+Red and Yellow Soil,4.11,1086.9,Rabi,Breeder Seeds,Machine,Sprinkler Irrigation,Chemical Fertilizers,High
+Saline and Alkaline Soil,8.54,910.1,Kharif,Hybrid Seeds,Manual,Well Irrigation,Chemical Fertilizers,High
+Saline and Alkaline Soil,11.13,127.4,Rabi,Hybrid Seeds,Manual,Sprinkler Irrigation,Chemical Fertilizers,Medium
+Black Soil,2.67,709.4,Kharif,Foundation Seeds,Manual,Tank Irrigation,Chemical Fertilizers,Medium
+Laterite Soil,5.9,1028.4,Kharif,Breeder Seeds,Machine,Drip Irrigation,Bioinputs Fertilizers,Very High
+Black Soil,15.16,1032.4,Kharif,Breeder Seeds,Manual,Well Irrigation,Organic Fertilizers,Very High
+Saline and Alkaline Soil,18.52,591.0,Rabi,Open-Pollinated Seeds,Manual,Sprinkler Irrigation,Bioinputs Fertilizers,Medium
+Saline and Alkaline Soil,24.96,1415.5,Rabi,Open-Pollinated Seeds,Machine,Sprinkler Irrigation,Chemical Fertilizers,Medium
+Alluvial Soil,23.36,292.7,Zaid,Foundation Seeds,Machine,Tank Irrigation,Organic Fertilizers,High
+Saline and Alkaline Soil,16.24,775.5,Rabi,Breeder Seeds,Machine,Tubewell Irrigation,Organic Fertilizers,Medium
+Alluvial Soil,10.82,1051.8,Kharif,Foundation Seeds,Manual,Drip Irrigation,Organic Fertilizers,Very High
+Laterite Soil,16.09,1060.8,Kharif,Open-Pollinated Seeds,Machine,Tubewell Irrigation,Bioinputs Fertilizers,Very High
+Black Soil,19.75,990.5,Rabi,Open-Pollinated Seeds,Manual,Well Irrigation,Organic Fertilizers,High
+Black Soil,3.4,449.2,Rabi,Hybrid Seeds,Manual,Drip Irrigation,Bioinputs Fertilizers,Low
+Alluvial Soil,10.54,276.5,Rabi,Foundation Seeds,Machine,Tank Irrigation,Bioinputs Fertilizers,Medium
+Black Soil,21.08,972.1,Zaid,Foundation Seeds,Manual,Well Irrigation,Chemical Fertilizers,High
+Saline and Alkaline Soil,9.9,919.0,Kharif,Breeder Seeds,Manual,Drip Irrigation,Chemical Fertilizers,Very High
+Red and Yellow Soil,14.51,310.1,Zaid,Breeder Seeds,Manual,Drip Irrigation,Organic Fertilizers,Medium
+Alluvial Soil,14.9,1072.5,Zaid,Hybrid Seeds,Manual,Tubewell Irrigation,Organic Fertilizers,Very High
+Black Soil,5.02,710.0,Kharif,Genetically Modified (GM) Seeds,Machine,Well Irrigation,Chemical Fertilizers,Medium
+Alluvial Soil,9.37,1018.3,Kharif,Genetically Modified (GM) Seeds,Manual,Tank Irrigation,Bioinputs Fertilizers,Very High
+Alluvial Soil,8.7,1264.2,Rabi,Genetically Modified (GM) Seeds,Machine,Tank Irrigation,Bioinputs Fertilizers,High
+Red and Yellow Soil,1.14,296.1,Rabi,Foundation Seeds,Manual,Well Irrigation,Chemical Fertilizers,Low
+Saline and Alkaline Soil,1.09,77.8,Zaid,Foundation Seeds,Manual,Well Irrigation,Bioinputs Fertilizers,Low
+Alluvial Soil,20.88,1179.7,Rabi,Open-Pollinated Seeds,Machine,Sprinkler Irrigation,Chemical Fertilizers,High
+Black Soil,7.19,934.1,Rabi,Foundation Seeds,Manual,Canal Irrigation,Chemical Fertilizers,Medium
+Laterite Soil,13.19,1064.5,Kharif,Foundation Seeds,Manual,Tubewell Irrigation,Organic Fertilizers,Very High
+Alluvial Soil,7.82,1265.3,Kharif,Foundation Seeds,Manual,Well Irrigation,Organic Fertilizers,Very High
+Alluvial Soil,23.55,1214.1,Rabi,Hybrid Seeds,Manual,Well Irrigation,Chemical Fertilizers,Very High
+Red and Yellow Soil,6.85,1443.3,Kharif,Foundation Seeds,Manual,Canal Irrigation,Organic Fertilizers,Very High
+Saline and Alkaline Soil,11.03,827.1,Rabi,Breeder Seeds,Manual,Canal Irrigation,Chemical Fertilizers,Medium
+Laterite Soil,21.88,758.3,Kharif,Breeder Seeds,Machine,Drip Irrigation,Bioinputs Fertilizers,High
+Black Soil,21.13,632.7,Kharif,Open-Pollinated Seeds,Machine,Tank Irrigation,Bioinputs Fertilizers,Medium
+Laterite Soil,5.06,272.9,Kharif,Hybrid Seeds,Machine,Tubewell Irrigation,Bioinputs Fertilizers,Medium
+Black Soil,20.16,880.3,Kharif,Breeder Seeds,Manual,Drip Irrigation,Bioinputs Fertilizers,Very High
+Saline and Alkaline Soil,11.73,451.7,Rabi,Hybrid Seeds,Manual,Well Irrigation,Chemical Fertilizers,Low
+Black Soil,12.33,1385.9,Zaid,Hybrid Seeds,Manual,Canal Irrigation,Bioinputs Fertilizers,Medium
+Red and Yellow Soil,3.77,895.6,Kharif,Open-Pollinated Seeds,Machine,Sprinkler Irrigation,Bioinputs Fertilizers,Very High
+Red and Yellow Soil,2.47,909.6,Rabi,Hybrid Seeds,Manual,Tank Irrigation,Bioinputs Fertilizers,Medium
+Red and Yellow Soil,18.33,564.6,Rabi,Foundation Seeds,Machine,Drip Irrigation,Bioinputs Fertilizers,Medium
+Red and Yellow Soil,12.66,125.4,Kharif,Hybrid Seeds,Manual,Sprinkler Irrigation,Chemical Fertilizers,High
+Laterite Soil,11.2,96.0,Zaid,Open-Pollinated Seeds,Manual,Tank Irrigation,Bioinputs Fertilizers,Low
+Saline and Alkaline Soil,18.37,663.8,Kharif,Open-Pollinated Seeds,Manual,Sprinkler Irrigation,Organic Fertilizers,High
+Black Soil,19.26,172.6,Rabi,Open-Pollinated Seeds,Machine,Canal Irrigation,Organic Fertilizers,High
+Black Soil,4.39,929.9,Zaid,Breeder Seeds,Manual,Drip Irrigation,Organic Fertilizers,Very High
+Red and Yellow Soil,15.45,1327.4,Rabi,Foundation Seeds,Machine,Drip Irrigation,Organic Fertilizers,Very High
+Red and Yellow Soil,3.82,1330.2,Kharif,Breeder Seeds,Manual,Tank Irrigation,Organic Fertilizers,Very High
+Alluvial Soil,18.91,1005.6,Zaid,Genetically Modified (GM) Seeds,Manual,Sprinkler Irrigation,Organic Fertilizers,Very High
+Saline and Alkaline Soil,16.6,356.3,Rabi,Foundation Seeds,Machine,Canal Irrigation,Chemical Fertilizers,Low
+Laterite Soil,23.94,1301.3,Rabi,Hybrid Seeds,Manual,Well Irrigation,Organic Fertilizers,Very High
+Black Soil,2.19,1334.8,Rabi,Open-Pollinated Seeds,Manual,Drip Irrigation,Bioinputs Fertilizers,High
+Alluvial Soil,1.9,335.1,Kharif,Genetically Modified (GM) Seeds,Manual,Well Irrigation,Organic Fertilizers,Very High
+Alluvial Soil,7.41,1119.3,Zaid,Foundation Seeds,Manual,Canal Irrigation,Chemical Fertilizers,Very High
+Black Soil,6.91,465.5,Kharif,Breeder Seeds,Machine,Drip Irrigation,Organic Fertilizers,High
+Laterite Soil,6.55,1213.8,Kharif,Open-Pollinated Seeds,Machine,Drip Irrigation,Bioinputs Fertilizers,Very High
+Alluvial Soil,22.7,1496.0,Kharif,Breeder Seeds,Manual,Sprinkler Irrigation,Bioinputs Fertilizers,Very High
+Alluvial Soil,6.61,93.5,Zaid,Foundation Seeds,Manual,Well Irrigation,Chemical Fertilizers,Medium
+Saline and Alkaline Soil,7.16,1351.2,Kharif,Foundation Seeds,Machine,Sprinkler Irrigation,Chemical Fertilizers,High
+Laterite Soil,19.11,952.8,Kharif,Genetically Modified (GM) Seeds,Manual,Tubewell Irrigation,Chemical Fertilizers,High
+Alluvial Soil,11.52,1461.4,Kharif,Hybrid Seeds,Machine,Well Irrigation,Chemical Fertilizers,Very High
+Laterite Soil,19.53,724.3,Kharif,Breeder Seeds,Manual,Well Irrigation,Organic Fertilizers,Very High
+Black Soil,2.1,1278.7,Rabi,Genetically Modified (GM) Seeds,Machine,Tubewell Irrigation,Organic Fertilizers,High
+Red and Yellow Soil,12.45,140.5,Kharif,Open-Pollinated Seeds,Machine,Canal Irrigation,Bioinputs Fertilizers,Low
+Alluvial Soil,1.32,536.2,Rabi,Hybrid Seeds,Machine,Canal Irrigation,Chemical Fertilizers,High
+Saline and Alkaline Soil,2.04,147.2,Kharif,Genetically Modified (GM) Seeds,Machine,Drip Irrigation,Chemical Fertilizers,High
+Black Soil,22.71,1464.2,Zaid,Breeder Seeds,Manual,Tank Irrigation,Organic Fertilizers,Medium
+Laterite Soil,3.91,1234.6,Rabi,Foundation Seeds,Manual,Sprinkler Irrigation,Chemical Fertilizers,Medium
+Black Soil,13.54,1286.2,Rabi,Open-Pollinated Seeds,Machine,Tank Irrigation,Bioinputs Fertilizers,Low
+Alluvial Soil,10.57,1410.0,Rabi,Breeder Seeds,Machine,Drip Irrigation,Bioinputs Fertilizers,Very High
+Laterite Soil,9.01,173.4,Rabi,Hybrid Seeds,Machine,Tank Irrigation,Chemical Fertilizers,Low
+Red and Yellow Soil,22.55,609.1,Zaid,Hybrid Seeds,Machine,Well Irrigation,Bioinputs Fertilizers,Low
+Black Soil,1.03,153.0,Kharif,Foundation Seeds,Manual,Well Irrigation,Bioinputs Fertilizers,Low
+Alluvial Soil,16.76,355.6,Rabi,Foundation Seeds,Machine,Tubewell Irrigation,Organic Fertilizers,High
+Saline and Alkaline Soil,24.1,382.6,Zaid,Open-Pollinated Seeds,Machine,Tubewell Irrigation,Bioinputs Fertilizers,Low
+Laterite Soil,14.22,730.2,Rabi,Open-Pollinated Seeds,Machine,Drip Irrigation,Chemical Fertilizers,Medium
+Black Soil,23.45,439.4,Kharif,Foundation Seeds,Machine,Drip Irrigation,Chemical Fertilizers,High
+Black Soil,1.78,196.4,Rabi,Foundation Seeds,Machine,Drip Irrigation,Bioinputs Fertilizers,Medium
+Red and Yellow Soil,10.76,292.9,Zaid,Hybrid Seeds,Machine,Well Irrigation,Chemical Fertilizers,Low
+Red and Yellow Soil,6.87,263.5,Kharif,Foundation Seeds,Machine,Tank Irrigation,Organic Fertilizers,High
+Saline and Alkaline Soil,18.41,1461.0,Zaid,Genetically Modified (GM) Seeds,Manual,Sprinkler Irrigation,Bioinputs Fertilizers,Medium
+Saline and Alkaline Soil,24.54,1151.0,Kharif,Breeder Seeds,Machine,Drip Irrigation,Bioinputs Fertilizers,Very High
+Alluvial Soil,6.78,1453.3,Kharif,Foundation Seeds,Machine,Drip Irrigation,Bioinputs Fertilizers,Very High
+Alluvial Soil,16.53,687.6,Kharif,Open-Pollinated Seeds,Machine,Well Irrigation,Chemical Fertilizers,Medium
+Saline and Alkaline Soil,5.35,453.6,Rabi,Genetically Modified (GM) Seeds,Manual,Sprinkler Irrigation,Chemical Fertilizers,Low
+Saline and Alkaline Soil,14.35,1207.5,Zaid,Open-Pollinated Seeds,Manual,Well Irrigation,Bioinputs Fertilizers,High
+Laterite Soil,11.87,523.1,Zaid,Genetically Modified (GM) Seeds,Manual,Sprinkler Irrigation,Chemical Fertilizers,Low
+Red and Yellow Soil,24.31,484.1,Zaid,Foundation Seeds,Machine,Well Irrigation,Chemical Fertilizers,Low
+Alluvial Soil,15.41,387.1,Kharif,Breeder Seeds,Machine,Tank Irrigation,Bioinputs Fertilizers,Medium
+Red and Yellow Soil,9.06,238.0,Rabi,Open-Pollinated Seeds,Machine,Drip Irrigation,Bioinputs Fertilizers,Medium
+Red and Yellow Soil,3.3,421.9,Kharif,Genetically Modified (GM) Seeds,Manual,Canal Irrigation,Chemical Fertilizers,Medium
+Saline and Alkaline Soil,4.21,565.2,Zaid,Hybrid Seeds,Machine,Canal Irrigation,Bioinputs Fertilizers,Low
+Laterite Soil,6.02,1027.3,Rabi,Foundation Seeds,Manual,Drip Irrigation,Bioinputs Fertilizers,High
+Black Soil,6.65,140.7,Rabi,Breeder Seeds,Manual,Drip Irrigation,Bioinputs Fertilizers,Low
+Laterite Soil,21.34,355.2,Rabi,Foundation Seeds,Manual,Drip Irrigation,Bioinputs Fertilizers,Low
+Laterite Soil,14.25,1223.1,Zaid,Hybrid Seeds,Manual,Drip Irrigation,Chemical Fertilizers,High
+Red and Yellow Soil,13.32,263.0,Rabi,Breeder Seeds,Manual,Sprinkler Irrigation,Bioinputs Fertilizers,Low
+Laterite Soil,3.31,546.8,Rabi,Hybrid Seeds,Machine,Tank Irrigation,Organic Fertilizers,Low
+Alluvial Soil,21.57,1303.8,Kharif,Foundation Seeds,Machine,Canal Irrigation,Bioinputs Fertilizers,Very High
+Red and Yellow Soil,18.21,274.6,Kharif,Genetically Modified (GM) Seeds,Manual,Tubewell Irrigation,Organic Fertilizers,High
+Alluvial Soil,2.16,170.0,Rabi,Foundation Seeds,Machine,Canal Irrigation,Bioinputs Fertilizers,Low
+Black Soil,17.84,752.6,Rabi,Foundation Seeds,Machine,Canal Irrigation,Organic Fertilizers,Medium
+Red and Yellow Soil,13.82,488.5,Kharif,Foundation Seeds,Manual,Well Irrigation,Organic Fertilizers,High
+Black Soil,2.5,866.9,Kharif,Open-Pollinated Seeds,Manual,Drip Irrigation,Bioinputs Fertilizers,Very High
+Red and Yellow Soil,11.73,1215.5,Kharif,Hybrid Seeds,Machine,Drip Irrigation,Bioinputs Fertilizers,Very High
+Saline and Alkaline Soil,12.38,248.9,Zaid,Hybrid Seeds,Machine,Drip Irrigation,Bioinputs Fertilizers,Low
+Laterite Soil,4.56,892.0,Zaid,Hybrid Seeds,Machine,Well Irrigation,Organic Fertilizers,High
+Saline and Alkaline Soil,23.67,783.0,Kharif,Open-Pollinated Seeds,Machine,Tank Irrigation,Chemical Fertilizers,Medium
+Black Soil,21.32,258.9,Rabi,Genetically Modified (GM) Seeds,Manual,Tank Irrigation,Chemical Fertilizers,Low
+Laterite Soil,16.89,954.8,Kharif,Foundation Seeds,Machine,Tubewell Irrigation,Bioinputs Fertilizers,Very High
+Red and Yellow Soil,11.83,446.8,Zaid,Genetically Modified (GM) Seeds,Manual,Tank Irrigation,Chemical Fertilizers,Low
+Laterite Soil,10.59,757.4,Rabi,Open-Pollinated Seeds,Manual,Tank Irrigation,Chemical Fertilizers,Low
+Alluvial Soil,16.45,169.3,Zaid,Hybrid Seeds,Machine,Drip Irrigation,Bioinputs Fertilizers,Very High
+Laterite Soil,13.86,716.4,Rabi,Foundation Seeds,Machine,Sprinkler Irrigation,Organic Fertilizers,Medium
+Alluvial Soil,2.03,494.4,Zaid,Breeder Seeds,Machine,Canal Irrigation,Bioinputs Fertilizers,Medium
+Laterite Soil,13.06,1242.5,Rabi,Breeder Seeds,Manual,Tank Irrigation,Chemical Fertilizers,Medium
+Alluvial Soil,20.26,132.6,Rabi,Genetically Modified (GM) Seeds,Manual,Tank Irrigation,Organic Fertilizers,High
+Black Soil,11.75,657.0,Rabi,Hybrid Seeds,Manual,Well Irrigation,Chemical Fertilizers,Low
+Saline and Alkaline Soil,1.77,714.7,Rabi,Breeder Seeds,Manual,Tubewell Irrigation,Organic Fertilizers,Low
+Red and Yellow Soil,19.76,1101.3,Zaid,Genetically Modified (GM) Seeds,Machine,Sprinkler Irrigation,Chemical Fertilizers,Medium
+Laterite Soil,5.43,882.7,Zaid,Open-Pollinated Seeds,Manual,Well Irrigation,Bioinputs Fertilizers,Low
+Saline and Alkaline Soil,6.84,1017.5,Rabi,Genetically Modified (GM) Seeds,Manual,Drip Irrigation,Chemical Fertilizers,High
+Red and Yellow Soil,4.54,1176.7,Rabi,Genetically Modified (GM) Seeds,Machine,Canal Irrigation,Chemical Fertilizers,Medium
+Red and Yellow Soil,8.59,1300.2,Zaid,Genetically Modified (GM) Seeds,Manual,Tubewell Irrigation,Organic Fertilizers,Very High
+Alluvial Soil,19.04,505.1,Rabi,Foundation Seeds,Manual,Well Irrigation,Chemical Fertilizers,Medium
+Black Soil,13.22,830.1,Rabi,Genetically Modified (GM) Seeds,Machine,Tank Irrigation,Bioinputs Fertilizers,High
+Black Soil,5.52,1268.2,Rabi,Genetically Modified (GM) Seeds,Manual,Tank Irrigation,Bioinputs Fertilizers,Medium
+Saline and Alkaline Soil,22.01,1484.7,Kharif,Foundation Seeds,Manual,Tubewell Irrigation,Bioinputs Fertilizers,Very High
+Black Soil,22.05,1339.8,Rabi,Foundation Seeds,Manual,Tank Irrigation,Organic Fertilizers,High
+Laterite Soil,21.83,588.6,Kharif,Open-Pollinated Seeds,Manual,Well Irrigation,Organic Fertilizers,High
+Black Soil,6.35,333.0,Rabi,Hybrid Seeds,Machine,Well Irrigation,Chemical Fertilizers,Low
+Saline and Alkaline Soil,11.56,759.6,Zaid,Breeder Seeds,Manual,Tank Irrigation,Chemical Fertilizers,Low
+Black Soil,24.63,1125.4,Kharif,Breeder Seeds,Machine,Tank Irrigation,Chemical Fertilizers,High
+Laterite Soil,19.41,764.2,Kharif,Genetically Modified (GM) Seeds,Manual,Drip Irrigation,Organic Fertilizers,Very High
+Alluvial Soil,1.17,750.6,Rabi,Open-Pollinated Seeds,Machine,Canal Irrigation,Organic Fertilizers,High
+Saline and Alkaline Soil,2.1,1265.4,Rabi,Genetically Modified (GM) Seeds,Machine,Tubewell Irrigation,Chemical Fertilizers,Medium
+Alluvial Soil,11.87,574.0,Kharif,Breeder Seeds,Machine,Well Irrigation,Organic Fertilizers,High
+Alluvial Soil,22.78,1296.7,Zaid,Foundation Seeds,Manual,Tubewell Irrigation,Organic Fertilizers,Very High
+Alluvial Soil,13.7,639.9,Zaid,Hybrid Seeds,Manual,Drip Irrigation,Bioinputs Fertilizers,Medium
+Red and Yellow Soil,12.7,525.9,Rabi,Open-Pollinated Seeds,Manual,Well Irrigation,Bioinputs Fertilizers,Low
+Red and Yellow Soil,3.08,708.3,Zaid,Foundation Seeds,Machine,Drip Irrigation,Chemical Fertilizers,Medium
+Alluvial Soil,16.59,1155.5,Zaid,Hybrid Seeds,Manual,Drip Irrigation,Chemical Fertilizers,Very High
+Saline and Alkaline Soil,20.64,232.7,Rabi,Open-Pollinated Seeds,Manual,Sprinkler Irrigation,Bioinputs Fertilizers,Medium
+Laterite Soil,9.82,334.8,Zaid,Open-Pollinated Seeds,Manual,Tank Irrigation,Organic Fertilizers,Medium
+Laterite Soil,19.5,1429.6,Rabi,Breeder Seeds,Manual,Sprinkler Irrigation,Chemical Fertilizers,High
+Black Soil,24.13,304.5,Kharif,Foundation Seeds,Machine,Tubewell Irrigation,Chemical Fertilizers,Medium
+Saline and Alkaline Soil,5.49,873.2,Rabi,Open-Pollinated Seeds,Machine,Tubewell Irrigation,Chemical Fertilizers,Low
+Red and Yellow Soil,13.32,890.0,Kharif,Open-Pollinated Seeds,Manual,Tank Irrigation,Organic Fertilizers,Very High
+Alluvial Soil,7.53,760.0,Kharif,Hybrid Seeds,Manual,Sprinkler Irrigation,Bioinputs Fertilizers,Medium
+Black Soil,19.92,984.9,Zaid,Breeder Seeds,Manual,Tubewell Irrigation,Chemical Fertilizers,Medium
+Laterite Soil,14.65,383.2,Zaid,Genetically Modified (GM) Seeds,Machine,Sprinkler Irrigation,Bioinputs Fertilizers,Low
+Red and Yellow Soil,16.05,851.4,Zaid,Breeder Seeds,Manual,Tank Irrigation,Bioinputs Fertilizers,Medium
+Red and Yellow Soil,20.05,589.7,Rabi,Genetically Modified (GM) Seeds,Machine,Well Irrigation,Organic Fertilizers,Medium
+Alluvial Soil,10.2,1009.4,Zaid,Foundation Seeds,Machine,Drip Irrigation,Organic Fertilizers,Very High
+Laterite Soil,22.92,254.8,Kharif,Foundation Seeds,Manual,Drip Irrigation,Organic Fertilizers,Very High
+Saline and Alkaline Soil,13.56,877.8,Zaid,Open-Pollinated Seeds,Manual,Sprinkler Irrigation,Organic Fertilizers,High
+Red and Yellow Soil,4.37,318.6,Zaid,Foundation Seeds,Manual,Tubewell Irrigation,Organic Fertilizers,Low
+Alluvial Soil,17.55,454.0,Rabi,Open-Pollinated Seeds,Machine,Sprinkler Irrigation,Organic Fertilizers,Medium
+Saline and Alkaline Soil,19.93,367.1,Rabi,Breeder Seeds,Machine,Sprinkler Irrigation,Chemical Fertilizers,Low
+Laterite Soil,8.26,315.1,Kharif,Foundation Seeds,Manual,Canal Irrigation,Bioinputs Fertilizers,Low
+Red and Yellow Soil,21.5,1247.3,Rabi,Breeder Seeds,Machine,Drip Irrigation,Organic Fertilizers,Very High
+Saline and Alkaline Soil,22.7,464.3,Zaid,Breeder Seeds,Manual,Tank Irrigation,Chemical Fertilizers,Low
+Saline and Alkaline Soil,7.28,1394.3,Rabi,Foundation Seeds,Manual,Sprinkler Irrigation,Bioinputs Fertilizers,Low
+Saline and Alkaline Soil,24.6,1456.4,Kharif,Breeder Seeds,Machine,Canal Irrigation,Organic Fertilizers,Very High
+Red and Yellow Soil,3.95,878.3,Zaid,Foundation Seeds,Machine,Canal Irrigation,Organic Fertilizers,High
+Red and Yellow Soil,5.45,257.4,Kharif,Foundation Seeds,Machine,Drip Irrigation,Chemical Fertilizers,High
+Black Soil,5.01,593.1,Rabi,Foundation Seeds,Machine,Drip Irrigation,Bioinputs Fertilizers,Medium
+Laterite Soil,22.4,1206.7,Rabi,Genetically Modified (GM) Seeds,Manual,Drip Irrigation,Organic Fertilizers,Very High
+Alluvial Soil,16.53,582.7,Kharif,Breeder Seeds,Manual,Tank Irrigation,Bioinputs Fertilizers,High
+Saline and Alkaline Soil,4.23,176.2,Zaid,Hybrid Seeds,Manual,Canal Irrigation,Chemical Fertilizers,Low
+Black Soil,11.29,857.3,Rabi,Foundation Seeds,Machine,Tubewell Irrigation,Organic Fertilizers,High
+Alluvial Soil,15.57,1275.4,Rabi,Breeder Seeds,Manual,Tank Irrigation,Bioinputs Fertilizers,Very High
+Black Soil,2.54,1204.1,Zaid,Open-Pollinated Seeds,Machine,Well Irrigation,Chemical Fertilizers,Medium
+Red and Yellow Soil,22.12,303.9,Rabi,Foundation Seeds,Machine,Sprinkler Irrigation,Chemical Fertilizers,Low
+Saline and Alkaline Soil,20.19,1025.5,Kharif,Foundation Seeds,Machine,Drip Irrigation,Organic Fertilizers,Very High
+Alluvial Soil,12.88,369.7,Rabi,Hybrid Seeds,Manual,Canal Irrigation,Bioinputs Fertilizers,Medium
+Alluvial Soil,24.19,366.4,Rabi,Genetically Modified (GM) Seeds,Machine,Sprinkler Irrigation,Organic Fertilizers,High
+Alluvial Soil,10.74,1317.4,Zaid,Genetically Modified (GM) Seeds,Machine,Tank Irrigation,Organic Fertilizers,Very High
+Alluvial Soil,24.61,412.0,Kharif,Foundation Seeds,Machine,Well Irrigation,Bioinputs Fertilizers,High
+Alluvial Soil,16.86,431.7,Zaid,Breeder Seeds,Machine,Tank Irrigation,Bioinputs Fertilizers,High
+Black Soil,16.05,50.9,Rabi,Open-Pollinated Seeds,Machine,Tank Irrigation,Bioinputs Fertilizers,Low
+Saline and Alkaline Soil,4.57,1312.5,Rabi,Open-Pollinated Seeds,Machine,Tubewell Irrigation,Chemical Fertilizers,Medium
+Red and Yellow Soil,22.11,1199.3,Zaid,Breeder Seeds,Machine,Sprinkler Irrigation,Chemical Fertilizers,Medium
+Red and Yellow Soil,10.97,959.6,Zaid,Foundation Seeds,Machine,Tubewell Irrigation,Bioinputs Fertilizers,Medium
+Red and Yellow Soil,4.47,1137.9,Zaid,Open-Pollinated Seeds,Machine,Tank Irrigation,Chemical Fertilizers,Low
+Red and Yellow Soil,0.81,270.5,Kharif,Genetically Modified (GM) Seeds,Machine,Well Irrigation,Organic Fertilizers,High
+Black Soil,14.21,714.6,Rabi,Breeder Seeds,Machine,Canal Irrigation,Bioinputs Fertilizers,Low
+Laterite Soil,13.42,559.3,Zaid,Hybrid Seeds,Machine,Canal Irrigation,Organic Fertilizers,Low
+Saline and Alkaline Soil,18.12,186.0,Rabi,Foundation Seeds,Manual,Sprinkler Irrigation,Bioinputs Fertilizers,Low
+Alluvial Soil,22.31,754.9,Kharif,Breeder Seeds,Manual,Drip Irrigation,Organic Fertilizers,Very High
+Laterite Soil,2.45,1385.1,Kharif,Open-Pollinated Seeds,Machine,Drip Irrigation,Bioinputs Fertilizers,Very High
+Red and Yellow Soil,18.42,108.1,Kharif,Foundation Seeds,Machine,Canal Irrigation,Organic Fertilizers,High
+Laterite Soil,5.09,472.6,Kharif,Genetically Modified (GM) Seeds,Machine,Tank Irrigation,Bioinputs Fertilizers,Medium
+Saline and Alkaline Soil,21.53,350.9,Rabi,Foundation Seeds,Manual,Tank Irrigation,Bioinputs Fertilizers,Medium
+Alluvial Soil,20.57,395.3,Kharif,Foundation Seeds,Manual,Tubewell Irrigation,Chemical Fertilizers,High
+Alluvial Soil,13.75,1367.2,Kharif,Genetically Modified (GM) Seeds,Manual,Sprinkler Irrigation,Organic Fertilizers,Very High
+Saline and Alkaline Soil,17.9,728.7,Zaid,Genetically Modified (GM) Seeds,Machine,Tubewell Irrigation,Chemical Fertilizers,Low
+Saline and Alkaline Soil,8.2,726.1,Kharif,Foundation Seeds,Machine,Drip Irrigation,Organic Fertilizers,High
+Red and Yellow Soil,12.04,1152.8,Zaid,Genetically Modified (GM) Seeds,Machine,Canal Irrigation,Chemical Fertilizers,Medium
+Alluvial Soil,20.63,274.0,Kharif,Breeder Seeds,Machine,Tank Irrigation,Bioinputs Fertilizers,Medium
+Laterite Soil,11.75,756.5,Kharif,Genetically Modified (GM) Seeds,Manual,Canal Irrigation,Chemical Fertilizers,Medium
+Black Soil,9.27,673.5,Zaid,Genetically Modified (GM) Seeds,Machine,Well Irrigation,Chemical Fertilizers,Low
+Black Soil,12.61,915.5,Kharif,Foundation Seeds,Manual,Canal Irrigation,Bioinputs Fertilizers,High
+Saline and Alkaline Soil,20.79,1499.4,Rabi,Breeder Seeds,Manual,Well Irrigation,Chemical Fertilizers,Medium
+Red and Yellow Soil,8.71,1165.7,Rabi,Hybrid Seeds,Machine,Tubewell Irrigation,Bioinputs Fertilizers,Medium
+Black Soil,4.76,626.9,Kharif,Hybrid Seeds,Manual,Tubewell Irrigation,Organic Fertilizers,Medium
+Alluvial Soil,17.94,1250.0,Rabi,Open-Pollinated Seeds,Manual,Drip Irrigation,Chemical Fertilizers,Very High
+Saline and Alkaline Soil,20.74,297.5,Zaid,Genetically Modified (GM) Seeds,Manual,Canal Irrigation,Bioinputs Fertilizers,Low
+Laterite Soil,2.97,94.2,Kharif,Genetically Modified (GM) Seeds,Manual,Canal Irrigation,Bioinputs Fertilizers,Medium
+Saline and Alkaline Soil,6.38,346.5,Kharif,Breeder Seeds,Machine,Well Irrigation,Chemical Fertilizers,Low
+Laterite Soil,3.98,543.6,Zaid,Hybrid Seeds,Machine,Tubewell Irrigation,Organic Fertilizers,Low
+Saline and Alkaline Soil,9.02,790.3,Zaid,Open-Pollinated Seeds,Manual,Well Irrigation,Chemical Fertilizers,Medium
+Saline and Alkaline Soil,11.53,941.9,Zaid,Breeder Seeds,Machine,Tubewell Irrigation,Bioinputs Fertilizers,High
+Saline and Alkaline Soil,18.85,1370.4,Kharif,Genetically Modified (GM) Seeds,Manual,Well Irrigation,Organic Fertilizers,Very High
+Laterite Soil,16.45,789.3,Zaid,Hybrid Seeds,Machine,Tubewell Irrigation,Chemical Fertilizers,Low
+Laterite Soil,15.71,776.8,Zaid,Open-Pollinated Seeds,Machine,Well Irrigation,Bioinputs Fertilizers,Low
+Saline and Alkaline Soil,9.13,122.9,Rabi,Foundation Seeds,Machine,Tubewell Irrigation,Chemical Fertilizers,Low
+Black Soil,21.12,100.6,Rabi,Hybrid Seeds,Machine,Sprinkler Irrigation,Organic Fertilizers,High
+Red and Yellow Soil,12.05,849.2,Kharif,Open-Pollinated Seeds,Machine,Well Irrigation,Organic Fertilizers,Very High
+Red and Yellow Soil,24.49,685.4,Rabi,Breeder Seeds,Manual,Canal Irrigation,Organic Fertilizers,Medium
+Red and Yellow Soil,16.04,1266.8,Rabi,Foundation Seeds,Machine,Drip Irrigation,Organic Fertilizers,Very High
+Laterite Soil,3.59,283.0,Zaid,Open-Pollinated Seeds,Manual,Sprinkler Irrigation,Organic Fertilizers,Medium
+Laterite Soil,17.07,86.2,Zaid,Open-Pollinated Seeds,Manual,Sprinkler Irrigation,Chemical Fertilizers,Medium
+Black Soil,8.47,701.1,Rabi,Genetically Modified (GM) Seeds,Machine,Well Irrigation,Organic Fertilizers,Medium
+Red and Yellow Soil,17.32,394.3,Rabi,Hybrid Seeds,Manual,Drip Irrigation,Organic Fertilizers,High
+Red and Yellow Soil,2.21,121.9,Rabi,Genetically Modified (GM) Seeds,Machine,Canal Irrigation,Bioinputs Fertilizers,Low
+Saline and Alkaline Soil,4.78,1100.7,Kharif,Foundation Seeds,Manual,Sprinkler Irrigation,Organic Fertilizers,Medium
+Laterite Soil,21.47,211.8,Kharif,Open-Pollinated Seeds,Manual,Canal Irrigation,Bioinputs Fertilizers,Medium
+Red and Yellow Soil,6.07,932.1,Kharif,Genetically Modified (GM) Seeds,Machine,Tubewell Irrigation,Bioinputs Fertilizers,High
+Black Soil,21.01,457.5,Rabi,Hybrid Seeds,Machine,Drip Irrigation,Bioinputs Fertilizers,Medium
+Black Soil,7.34,301.6,Rabi,Foundation Seeds,Machine,Tank Irrigation,Chemical Fertilizers,Low
+Red and Yellow Soil,16.25,600.6,Kharif,Breeder Seeds,Machine,Tubewell Irrigation,Chemical Fertilizers,Low
+Laterite Soil,17.51,1212.1,Kharif,Genetically Modified (GM) Seeds,Manual,Drip Irrigation,Bioinputs Fertilizers,Very High
+Black Soil,13.06,618.5,Rabi,Foundation Seeds,Machine,Well Irrigation,Chemical Fertilizers,Low
+Saline and Alkaline Soil,7.98,1138.6,Zaid,Breeder Seeds,Manual,Well Irrigation,Organic Fertilizers,High
+Black Soil,5.71,232.0,Kharif,Genetically Modified (GM) Seeds,Manual,Canal Irrigation,Chemical Fertilizers,Medium
+Alluvial Soil,1.31,1170.5,Rabi,Foundation Seeds,Manual,Sprinkler Irrigation,Organic Fertilizers,Very High
+Alluvial Soil,7.95,393.6,Rabi,Foundation Seeds,Manual,Tank Irrigation,Organic Fertilizers,Medium
+Laterite Soil,16.5,1032.2,Zaid,Genetically Modified (GM) Seeds,Manual,Well Irrigation,Chemical Fertilizers,Medium
+Red and Yellow Soil,23.49,870.4,Rabi,Foundation Seeds,Manual,Drip Irrigation,Chemical Fertilizers,Very High
+Laterite Soil,21.84,1397.3,Rabi,Open-Pollinated Seeds,Machine,Sprinkler Irrigation,Bioinputs Fertilizers,High
+Laterite Soil,19.27,611.6,Kharif,Genetically Modified (GM) Seeds,Manual,Sprinkler Irrigation,Chemical Fertilizers,Medium
+Laterite Soil,19.82,145.9,Kharif,Foundation Seeds,Manual,Drip Irrigation,Chemical Fertilizers,High
+Laterite Soil,16.79,77.8,Zaid,Breeder Seeds,Manual,Sprinkler Irrigation,Chemical Fertilizers,Medium
+Saline and Alkaline Soil,6.88,1248.9,Zaid,Breeder Seeds,Machine,Well Irrigation,Organic Fertilizers,Very High
+Saline and Alkaline Soil,22.73,810.9,Rabi,Open-Pollinated Seeds,Machine,Drip Irrigation,Organic Fertilizers,Very High
+Black Soil,16.93,1174.1,Kharif,Genetically Modified (GM) Seeds,Manual,Drip Irrigation,Organic Fertilizers,Very High
+Alluvial Soil,14.23,389.9,Zaid,Foundation Seeds,Machine,Canal Irrigation,Bioinputs Fertilizers,Medium
+Laterite Soil,3.22,550.4,Zaid,Foundation Seeds,Manual,Tank Irrigation,Bioinputs Fertilizers,Low
+Black Soil,11.45,93.7,Zaid,Breeder Seeds,Machine,Canal Irrigation,Bioinputs Fertilizers,Low
+Alluvial Soil,11.78,1444.2,Rabi,Open-Pollinated Seeds,Manual,Tank Irrigation,Organic Fertilizers,Very High
+Red and Yellow Soil,21.68,1018.4,Kharif,Breeder Seeds,Machine,Drip Irrigation,Chemical Fertilizers,Very High
+Saline and Alkaline Soil,13.89,1403.1,Zaid,Breeder Seeds,Machine,Sprinkler Irrigation,Bioinputs Fertilizers,Medium
+Alluvial Soil,9.82,435.0,Kharif,Open-Pollinated Seeds,Machine,Tank Irrigation,Bioinputs Fertilizers,Medium
+Red and Yellow Soil,24.43,936.6,Zaid,Genetically Modified (GM) Seeds,Manual,Drip Irrigation,Organic Fertilizers,Very High
+Alluvial Soil,3.21,1033.8,Zaid,Foundation Seeds,Manual,Drip Irrigation,Bioinputs Fertilizers,Very High
+Saline and Alkaline Soil,10.85,510.4,Kharif,Genetically Modified (GM) Seeds,Manual,Canal Irrigation,Chemical Fertilizers,Medium
+Saline and Alkaline Soil,1.53,1279.8,Kharif,Hybrid Seeds,Machine,Canal Irrigation,Organic Fertilizers,Very High
+Black Soil,18.63,1423.4,Kharif,Hybrid Seeds,Machine,Sprinkler Irrigation,Organic Fertilizers,Very High
+Laterite Soil,22.99,1333.0,Rabi,Hybrid Seeds,Manual,Tubewell Irrigation,Chemical Fertilizers,Medium
+Alluvial Soil,7.36,1121.6,Zaid,Open-Pollinated Seeds,Machine,Well Irrigation,Chemical Fertilizers,High
+Alluvial Soil,21.53,452.3,Rabi,Breeder Seeds,Manual,Tubewell Irrigation,Chemical Fertilizers,Medium
+Red and Yellow Soil,7.66,458.3,Kharif,Genetically Modified (GM) Seeds,Manual,Tubewell Irrigation,Bioinputs Fertilizers,Medium
+Saline and Alkaline Soil,22.81,1446.9,Zaid,Foundation Seeds,Manual,Sprinkler Irrigation,Chemical Fertilizers,Low
+Alluvial Soil,18.97,64.9,Rabi,Hybrid Seeds,Manual,Tank Irrigation,Organic Fertilizers,High
+Saline and Alkaline Soil,20.22,1088.3,Zaid,Genetically Modified (GM) Seeds,Machine,Sprinkler Irrigation,Chemical Fertilizers,Medium
+Alluvial Soil,0.94,1074.1,Rabi,Hybrid Seeds,Machine,Sprinkler Irrigation,Organic Fertilizers,High
+Black Soil,24.09,952.9,Kharif,Hybrid Seeds,Machine,Drip Irrigation,Organic Fertilizers,Very High
+Laterite Soil,18.3,1485.7,Rabi,Foundation Seeds,Manual,Drip Irrigation,Bioinputs Fertilizers,Very High
+Alluvial Soil,7.97,502.2,Zaid,Open-Pollinated Seeds,Machine,Drip Irrigation,Chemical Fertilizers,High
+Saline and Alkaline Soil,20.82,543.0,Zaid,Breeder Seeds,Manual,Well Irrigation,Bioinputs Fertilizers,Low
+Black Soil,7.4,164.5,Zaid,Open-Pollinated Seeds,Manual,Tank Irrigation,Chemical Fertilizers,Low
+Alluvial Soil,21.88,692.1,Zaid,Genetically Modified (GM) Seeds,Manual,Tank Irrigation,Chemical Fertilizers,Medium
+Red and Yellow Soil,3.26,428.5,Kharif,Open-Pollinated Seeds,Manual,Drip Irrigation,Chemical Fertilizers,Very High
+Laterite Soil,17.74,547.9,Rabi,Genetically Modified (GM) Seeds,Manual,Tubewell Irrigation,Chemical Fertilizers,Low
+Alluvial Soil,13.75,1260.1,Kharif,Genetically Modified (GM) Seeds,Manual,Well Irrigation,Chemical Fertilizers,Very High
+Black Soil,2.87,1406.5,Kharif,Breeder Seeds,Machine,Tubewell Irrigation,Organic Fertilizers,Very High
+Red and Yellow Soil,6.43,319.3,Kharif,Foundation Seeds,Machine,Canal Irrigation,Organic Fertilizers,Medium
+Black Soil,0.8,590.1,Zaid,Breeder Seeds,Machine,Tank Irrigation,Chemical Fertilizers,Low
+Black Soil,11.98,1396.5,Zaid,Open-Pollinated Seeds,Machine,Tank Irrigation,Organic Fertilizers,High
+Red and Yellow Soil,7.88,139.6,Zaid,Genetically Modified (GM) Seeds,Manual,Tubewell Irrigation,Bioinputs Fertilizers,Low
+Black Soil,15.16,183.9,Rabi,Hybrid Seeds,Manual,Well Irrigation,Bioinputs Fertilizers,Low
+Red and Yellow Soil,7.78,286.0,Zaid,Hybrid Seeds,Machine,Tank Irrigation,Bioinputs Fertilizers,Low
+Alluvial Soil,7.85,913.1,Rabi,Genetically Modified (GM) Seeds,Machine,Tubewell Irrigation,Chemical Fertilizers,High
+Red and Yellow Soil,18.71,268.2,Zaid,Breeder Seeds,Machine,Sprinkler Irrigation,Chemical Fertilizers,Medium
+Red and Yellow Soil,1.68,1453.7,Zaid,Foundation Seeds,Machine,Sprinkler Irrigation,Organic Fertilizers,High
+Laterite Soil,22.62,697.7,Kharif,Breeder Seeds,Machine,Well Irrigation,Organic Fertilizers,High
+Red and Yellow Soil,21.38,777.2,Kharif,Genetically Modified (GM) Seeds,Machine,Tubewell Irrigation,Organic Fertilizers,High
+Red and Yellow Soil,16.86,407.7,Kharif,Genetically Modified (GM) Seeds,Machine,Sprinkler Irrigation,Bioinputs Fertilizers,Medium
+Alluvial Soil,15.03,732.9,Rabi,Foundation Seeds,Machine,Well Irrigation,Bioinputs Fertilizers,High
+Laterite Soil,22.36,1009.8,Rabi,Open-Pollinated Seeds,Manual,Drip Irrigation,Bioinputs Fertilizers,High
+Saline and Alkaline Soil,5.04,1139.2,Zaid,Open-Pollinated Seeds,Manual,Well Irrigation,Bioinputs Fertilizers,Low
+Alluvial Soil,2.43,1143.1,Rabi,Foundation Seeds,Manual,Canal Irrigation,Organic Fertilizers,Very High
+Alluvial Soil,6.37,887.9,Zaid,Open-Pollinated Seeds,Manual,Drip Irrigation,Chemical Fertilizers,Very High
+Saline and Alkaline Soil,19.97,1361.3,Rabi,Hybrid Seeds,Machine,Tubewell Irrigation,Chemical Fertilizers,Very High
+Red and Yellow Soil,1.35,1235.2,Rabi,Open-Pollinated Seeds,Manual,Drip Irrigation,Bioinputs Fertilizers,High
+Black Soil,14.78,1147.7,Rabi,Open-Pollinated Seeds,Machine,Drip Irrigation,Chemical Fertilizers,High
+Laterite Soil,24.89,130.6,Kharif,Open-Pollinated Seeds,Manual,Tubewell Irrigation,Chemical Fertilizers,Low
+Black Soil,21.46,60.0,Rabi,Hybrid Seeds,Machine,Tubewell Irrigation,Chemical Fertilizers,Low
+Saline and Alkaline Soil,13.28,358.0,Kharif,Open-Pollinated Seeds,Machine,Sprinkler Irrigation,Bioinputs Fertilizers,Low
+Alluvial Soil,2.06,1012.1,Kharif,Hybrid Seeds,Manual,Canal Irrigation,Organic Fertilizers,Very High
+Alluvial Soil,20.87,646.2,Rabi,Foundation Seeds,Manual,Tubewell Irrigation,Organic Fertilizers,Very High
+Laterite Soil,15.17,633.5,Zaid,Breeder Seeds,Machine,Tank Irrigation,Chemical Fertilizers,Medium
+Alluvial Soil,3.32,1332.7,Zaid,Foundation Seeds,Machine,Tank Irrigation,Organic Fertilizers,Very High
+Alluvial Soil,2.8,1348.6,Zaid,Breeder Seeds,Machine,Canal Irrigation,Organic Fertilizers,Very High
+Laterite Soil,22.79,1368.3,Rabi,Foundation Seeds,Manual,Well Irrigation,Bioinputs Fertilizers,High
+Laterite Soil,16.9,505.1,Zaid,Breeder Seeds,Manual,Well Irrigation,Bioinputs Fertilizers,Low
+Saline and Alkaline Soil,20.82,1052.0,Kharif,Breeder Seeds,Machine,Tank Irrigation,Chemical Fertilizers,Very High
+Alluvial Soil,22.03,443.9,Zaid,Genetically Modified (GM) Seeds,Manual,Tubewell Irrigation,Chemical Fertilizers,Medium
+Alluvial Soil,14.51,326.4,Rabi,Breeder Seeds,Machine,Canal Irrigation,Chemical Fertilizers,Low
+Saline and Alkaline Soil,13.18,317.7,Zaid,Breeder Seeds,Manual,Well Irrigation,Bioinputs Fertilizers,Low
+Red and Yellow Soil,11.05,546.1,Kharif,Genetically Modified (GM) Seeds,Manual,Well Irrigation,Organic Fertilizers,Medium
+Red and Yellow Soil,8.27,673.4,Rabi,Open-Pollinated Seeds,Manual,Drip Irrigation,Bioinputs Fertilizers,Medium
+Red and Yellow Soil,11.15,1254.9,Zaid,Open-Pollinated Seeds,Manual,Tank Irrigation,Bioinputs Fertilizers,Low
+Saline and Alkaline Soil,19.46,223.8,Rabi,Genetically Modified (GM) Seeds,Manual,Tubewell Irrigation,Organic Fertilizers,Medium
+Alluvial Soil,15.25,1115.6,Rabi,Hybrid Seeds,Machine,Canal Irrigation,Organic Fertilizers,Very High
+Saline and Alkaline Soil,22.37,820.6,Rabi,Breeder Seeds,Machine,Well Irrigation,Chemical Fertilizers,Medium
+Saline and Alkaline Soil,11.36,467.5,Zaid,Breeder Seeds,Manual,Drip Irrigation,Organic Fertilizers,High
+Red and Yellow Soil,15.37,764.6,Rabi,Genetically Modified (GM) Seeds,Machine,Tank Irrigation,Organic Fertilizers,Medium
+Black Soil,15.97,484.9,Zaid,Genetically Modified (GM) Seeds,Machine,Tank Irrigation,Organic Fertilizers,Medium
+Alluvial Soil,15.0,914.3,Kharif,Hybrid Seeds,Manual,Canal Irrigation,Organic Fertilizers,Very High
+Red and Yellow Soil,17.71,679.1,Zaid,Open-Pollinated Seeds,Machine,Well Irrigation,Chemical Fertilizers,Low
+Black Soil,6.32,288.4,Kharif,Foundation Seeds,Manual,Canal Irrigation,Chemical Fertilizers,High
+Black Soil,13.05,219.0,Zaid,Open-Pollinated Seeds,Machine,Canal Irrigation,Organic Fertilizers,Medium
+Laterite Soil,3.05,842.7,Rabi,Breeder Seeds,Machine,Sprinkler Irrigation,Organic Fertilizers,High
+Alluvial Soil,9.92,1358.5,Zaid,Genetically Modified (GM) Seeds,Machine,Drip Irrigation,Chemical Fertilizers,Very High
+Black Soil,12.45,548.7,Rabi,Hybrid Seeds,Machine,Tank Irrigation,Chemical Fertilizers,Low
+Red and Yellow Soil,16.48,1112.9,Kharif,Open-Pollinated Seeds,Machine,Sprinkler Irrigation,Organic Fertilizers,Very High
+Laterite Soil,23.79,1005.1,Zaid,Hybrid Seeds,Machine,Tubewell Irrigation,Bioinputs Fertilizers,High
+Alluvial Soil,15.22,1400.8,Rabi,Open-Pollinated Seeds,Machine,Tank Irrigation,Chemical Fertilizers,Medium
+Saline and Alkaline Soil,18.72,1240.4,Kharif,Breeder Seeds,Manual,Tank Irrigation,Chemical Fertilizers,High
+Red and Yellow Soil,12.9,871.6,Kharif,Foundation Seeds,Manual,Drip Irrigation,Chemical Fertilizers,Very High
+Black Soil,16.04,1002.7,Zaid,Hybrid Seeds,Manual,Tubewell Irrigation,Organic Fertilizers,Very High
+Black Soil,2.24,1352.7,Kharif,Hybrid Seeds,Manual,Well Irrigation,Organic Fertilizers,High
+Red and Yellow Soil,6.73,629.3,Rabi,Foundation Seeds,Machine,Tubewell Irrigation,Chemical Fertilizers,Low
+Black Soil,9.37,523.9,Kharif,Hybrid Seeds,Machine,Well Irrigation,Organic Fertilizers,Medium
+Laterite Soil,12.08,65.7,Kharif,Hybrid Seeds,Machine,Tubewell Irrigation,Organic Fertilizers,Medium
+Alluvial Soil,1.62,1248.5,Rabi,Open-Pollinated Seeds,Manual,Canal Irrigation,Chemical Fertilizers,Very High
+Laterite Soil,3.93,1211.4,Kharif,Open-Pollinated Seeds,Manual,Tubewell Irrigation,Organic Fertilizers,Very High
+Black Soil,7.28,201.5,Kharif,Foundation Seeds,Manual,Sprinkler Irrigation,Bioinputs Fertilizers,High
+Saline and Alkaline Soil,24.3,886.4,Kharif,Breeder Seeds,Machine,Sprinkler Irrigation,Organic Fertilizers,Very High
+Alluvial Soil,8.62,722.8,Kharif,Hybrid Seeds,Manual,Drip Irrigation,Organic Fertilizers,Very High
+Alluvial Soil,12.31,222.1,Rabi,Breeder Seeds,Machine,Well Irrigation,Chemical Fertilizers,Medium
+Red and Yellow Soil,5.3,1471.8,Kharif,Foundation Seeds,Manual,Tank Irrigation,Chemical Fertilizers,High
+Red and Yellow Soil,15.46,361.3,Rabi,Foundation Seeds,Machine,Drip Irrigation,Bioinputs Fertilizers,Medium
+Saline and Alkaline Soil,7.38,147.5,Kharif,Open-Pollinated Seeds,Manual,Sprinkler Irrigation,Organic Fertilizers,High
+Alluvial Soil,5.57,912.5,Kharif,Hybrid Seeds,Machine,Sprinkler Irrigation,Bioinputs Fertilizers,Very High
+Saline and Alkaline Soil,13.16,1121.4,Kharif,Genetically Modified (GM) Seeds,Manual,Well Irrigation,Bioinputs Fertilizers,High
+Red and Yellow Soil,0.63,97.0,Kharif,Foundation Seeds,Manual,Sprinkler Irrigation,Chemical Fertilizers,Low
+Red and Yellow Soil,0.69,1005.1,Rabi,Hybrid Seeds,Machine,Sprinkler Irrigation,Organic Fertilizers,High
+Alluvial Soil,5.87,821.8,Rabi,Breeder Seeds,Machine,Well Irrigation,Chemical Fertilizers,High
+Laterite Soil,1.4,199.7,Rabi,Open-Pollinated Seeds,Manual,Sprinkler Irrigation,Bioinputs Fertilizers,Low
+Black Soil,3.15,300.2,Zaid,Breeder Seeds,Machine,Tank Irrigation,Bioinputs Fertilizers,Low
+Red and Yellow Soil,8.8,873.6,Kharif,Foundation Seeds,Manual,Canal Irrigation,Chemical Fertilizers,Very High
+Red and Yellow Soil,20.16,479.7,Kharif,Foundation Seeds,Machine,Drip Irrigation,Chemical Fertilizers,High
+Laterite Soil,14.52,1410.6,Rabi,Breeder Seeds,Manual,Tank Irrigation,Chemical Fertilizers,Medium
+Laterite Soil,13.06,1237.2,Zaid,Foundation Seeds,Machine,Tank Irrigation,Chemical Fertilizers,Medium
+Saline and Alkaline Soil,7.69,1476.2,Kharif,Hybrid Seeds,Manual,Canal Irrigation,Chemical Fertilizers,Very High
+Saline and Alkaline Soil,23.33,426.5,Rabi,Foundation Seeds,Manual,Drip Irrigation,Bioinputs Fertilizers,Medium
+Black Soil,10.23,1456.1,Kharif,Open-Pollinated Seeds,Manual,Tank Irrigation,Chemical Fertilizers,High
+Black Soil,2.63,675.3,Kharif,Hybrid Seeds,Machine,Sprinkler Irrigation,Organic Fertilizers,High
+Alluvial Soil,15.62,553.9,Rabi,Genetically Modified (GM) Seeds,Manual,Canal Irrigation,Bioinputs Fertilizers,Medium
+Saline and Alkaline Soil,3.29,123.0,Rabi,Foundation Seeds,Machine,Drip Irrigation,Bioinputs Fertilizers,Low
+Red and Yellow Soil,8.96,126.5,Kharif,Foundation Seeds,Machine,Tubewell Irrigation,Organic Fertilizers,High
+Saline and Alkaline Soil,12.93,1053.4,Kharif,Open-Pollinated Seeds,Machine,Well Irrigation,Organic Fertilizers,Very High
+Red and Yellow Soil,21.92,714.0,Rabi,Open-Pollinated Seeds,Manual,Sprinkler Irrigation,Bioinputs Fertilizers,Low
+Laterite Soil,12.59,378.5,Kharif,Breeder Seeds,Machine,Canal Irrigation,Chemical Fertilizers,Low
+Saline and Alkaline Soil,17.71,940.3,Kharif,Breeder Seeds,Machine,Well Irrigation,Bioinputs Fertilizers,High
+Laterite Soil,24.82,416.6,Rabi,Breeder Seeds,Machine,Tubewell Irrigation,Bioinputs Fertilizers,Medium
+Black Soil,3.72,887.6,Kharif,Open-Pollinated Seeds,Manual,Tank Irrigation,Organic Fertilizers,Very High
+Black Soil,7.23,570.9,Kharif,Breeder Seeds,Machine,Tank Irrigation,Bioinputs Fertilizers,Medium
+Alluvial Soil,10.17,1244.2,Zaid,Breeder Seeds,Machine,Drip Irrigation,Chemical Fertilizers,Very High
+Saline and Alkaline Soil,10.83,1240.0,Rabi,Genetically Modified (GM) Seeds,Machine,Canal Irrigation,Organic Fertilizers,High
+Laterite Soil,10.57,742.2,Zaid,Breeder Seeds,Machine,Canal Irrigation,Bioinputs Fertilizers,Low
+Red and Yellow Soil,22.74,558.7,Zaid,Foundation Seeds,Manual,Drip Irrigation,Bioinputs Fertilizers,Medium
+Black Soil,17.99,575.7,Zaid,Open-Pollinated Seeds,Manual,Well Irrigation,Chemical Fertilizers,Low
+Black Soil,15.39,1218.3,Kharif,Hybrid Seeds,Machine,Tank Irrigation,Bioinputs Fertilizers,High
+Red and Yellow Soil,8.08,525.9,Kharif,Genetically Modified (GM) Seeds,Machine,Tank Irrigation,Bioinputs Fertilizers,Medium
+Laterite Soil,20.68,353.1,Zaid,Open-Pollinated Seeds,Machine,Canal Irrigation,Bioinputs Fertilizers,Low
+Laterite Soil,23.9,172.8,Zaid,Open-Pollinated Seeds,Machine,Canal Irrigation,Bioinputs Fertilizers,Low
+Saline and Alkaline Soil,20.62,726.7,Zaid,Foundation Seeds,Manual,Drip Irrigation,Chemical Fertilizers,High
+Saline and Alkaline Soil,0.54,749.1,Kharif,Breeder Seeds,Manual,Tubewell Irrigation,Bioinputs Fertilizers,Medium
+Alluvial Soil,16.09,1269.3,Zaid,Foundation Seeds,Manual,Well Irrigation,Bioinputs Fertilizers,High
+Black Soil,1.75,370.8,Zaid,Breeder Seeds,Manual,Sprinkler Irrigation,Bioinputs Fertilizers,Low
+Saline and Alkaline Soil,6.81,602.4,Rabi,Breeder Seeds,Machine,Tubewell Irrigation,Organic Fertilizers,Medium
+Laterite Soil,1.96,1222.2,Rabi,Open-Pollinated Seeds,Machine,Tubewell Irrigation,Chemical Fertilizers,Medium
+Red and Yellow Soil,15.29,1244.3,Kharif,Breeder Seeds,Manual,Canal Irrigation,Organic Fertilizers,Very High
+Laterite Soil,17.32,607.7,Rabi,Genetically Modified (GM) Seeds,Manual,Canal Irrigation,Organic Fertilizers,Medium
+Black Soil,3.3,715.7,Rabi,Genetically Modified (GM) Seeds,Machine,Canal Irrigation,Chemical Fertilizers,Medium
+Laterite Soil,9.9,489.8,Rabi,Genetically Modified (GM) Seeds,Machine,Tubewell Irrigation,Organic Fertilizers,Low
+Alluvial Soil,11.68,1402.2,Kharif,Open-Pollinated Seeds,Machine,Well Irrigation,Organic Fertilizers,Very High
+Black Soil,9.54,222.0,Rabi,Foundation Seeds,Machine,Canal Irrigation,Organic Fertilizers,Medium
+Red and Yellow Soil,3.47,1403.9,Kharif,Hybrid Seeds,Machine,Tank Irrigation,Chemical Fertilizers,High
+Alluvial Soil,10.76,1041.6,Zaid,Breeder Seeds,Manual,Well Irrigation,Bioinputs Fertilizers,High
+Black Soil,18.9,820.8,Rabi,Hybrid Seeds,Manual,Tank Irrigation,Chemical Fertilizers,High
+Red and Yellow Soil,2.24,97.4,Kharif,Foundation Seeds,Machine,Well Irrigation,Chemical Fertilizers,Medium
+Alluvial Soil,2.46,739.6,Rabi,Foundation Seeds,Machine,Canal Irrigation,Chemical Fertilizers,Low
+Alluvial Soil,9.19,641.2,Zaid,Open-Pollinated Seeds,Manual,Sprinkler Irrigation,Organic Fertilizers,Medium
+Black Soil,23.57,283.8,Kharif,Genetically Modified (GM) Seeds,Machine,Drip Irrigation,Bioinputs Fertilizers,High
+Saline and Alkaline Soil,16.88,1001.8,Kharif,Genetically Modified (GM) Seeds,Manual,Canal Irrigation,Chemical Fertilizers,Very High
+Alluvial Soil,17.13,1458.2,Kharif,Foundation Seeds,Manual,Tubewell Irrigation,Chemical Fertilizers,Very High
+Alluvial Soil,9.37,865.2,Zaid,Open-Pollinated Seeds,Manual,Sprinkler Irrigation,Bioinputs Fertilizers,High
+Red and Yellow Soil,15.04,1086.4,Zaid,Open-Pollinated Seeds,Manual,Tubewell Irrigation,Bioinputs Fertilizers,Medium
+Laterite Soil,0.75,149.3,Zaid,Breeder Seeds,Machine,Well Irrigation,Bioinputs Fertilizers,Low
+Black Soil,16.08,655.6,Kharif,Genetically Modified (GM) Seeds,Machine,Tubewell Irrigation,Organic Fertilizers,High
+Black Soil,22.88,218.7,Zaid,Foundation Seeds,Manual,Sprinkler Irrigation,Bioinputs Fertilizers,Low
+Saline and Alkaline Soil,15.51,938.6,Rabi,Hybrid Seeds,Machine,Sprinkler Irrigation,Organic Fertilizers,Very High
+Saline and Alkaline Soil,21.91,1410.8,Zaid,Genetically Modified (GM) Seeds,Machine,Canal Irrigation,Chemical Fertilizers,High
+Black Soil,18.24,1009.6,Kharif,Breeder Seeds,Machine,Tank Irrigation,Organic Fertilizers,Very High
+Saline and Alkaline Soil,3.45,161.4,Rabi,Open-Pollinated Seeds,Machine,Canal Irrigation,Bioinputs Fertilizers,Low
+Red and Yellow Soil,22.61,564.3,Zaid,Foundation Seeds,Manual,Well Irrigation,Organic Fertilizers,Medium
+Black Soil,2.13,848.5,Rabi,Genetically Modified (GM) Seeds,Machine,Tubewell Irrigation,Bioinputs Fertilizers,Medium
+Saline and Alkaline Soil,13.58,634.7,Rabi,Hybrid Seeds,Manual,Tank Irrigation,Organic Fertilizers,Medium
+Black Soil,3.98,1258.8,Kharif,Breeder Seeds,Manual,Drip Irrigation,Chemical Fertilizers,Very High
+Laterite Soil,0.79,1231.3,Rabi,Breeder Seeds,Machine,Sprinkler Irrigation,Organic Fertilizers,Very High
+Alluvial Soil,10.84,937.2,Rabi,Genetically Modified (GM) Seeds,Manual,Tank Irrigation,Chemical Fertilizers,High
+Black Soil,7.73,591.5,Kharif,Hybrid Seeds,Machine,Tank Irrigation,Bioinputs Fertilizers,Low
+Alluvial Soil,12.41,420.2,Kharif,Breeder Seeds,Machine,Canal Irrigation,Chemical Fertilizers,Medium
+Saline and Alkaline Soil,14.64,203.5,Kharif,Foundation Seeds,Manual,Drip Irrigation,Bioinputs Fertilizers,High
+Alluvial Soil,1.57,564.6,Rabi,Breeder Seeds,Machine,Sprinkler Irrigation,Bioinputs Fertilizers,Low
+Black Soil,3.51,649.1,Rabi,Hybrid Seeds,Manual,Well Irrigation,Chemical Fertilizers,Low
+Laterite Soil,14.19,1029.9,Rabi,Open-Pollinated Seeds,Manual,Well Irrigation,Chemical Fertilizers,Medium
+Saline and Alkaline Soil,8.91,1004.3,Kharif,Open-Pollinated Seeds,Machine,Tank Irrigation,Organic Fertilizers,High
+Black Soil,18.36,151.7,Zaid,Genetically Modified (GM) Seeds,Machine,Tank Irrigation,Organic Fertilizers,Medium
+Saline and Alkaline Soil,16.48,623.1,Rabi,Hybrid Seeds,Machine,Tubewell Irrigation,Chemical Fertilizers,Low
+Red and Yellow Soil,21.22,313.6,Zaid,Breeder Seeds,Manual,Drip Irrigation,Chemical Fertilizers,Medium
+Alluvial Soil,17.47,277.4,Kharif,Breeder Seeds,Machine,Sprinkler Irrigation,Chemical Fertilizers,High
+Red and Yellow Soil,11.03,1249.6,Rabi,Open-Pollinated Seeds,Manual,Tank Irrigation,Chemical Fertilizers,Medium
+Black Soil,16.99,110.8,Zaid,Open-Pollinated Seeds,Manual,Tubewell Irrigation,Bioinputs Fertilizers,Low
+Laterite Soil,7.25,657.8,Rabi,Foundation Seeds,Machine,Drip Irrigation,Chemical Fertilizers,Medium
+Saline and Alkaline Soil,8.0,293.9,Rabi,Open-Pollinated Seeds,Machine,Sprinkler Irrigation,Chemical Fertilizers,Low
+Alluvial Soil,19.83,1325.0,Rabi,Foundation Seeds,Machine,Well Irrigation,Chemical Fertilizers,High
+Saline and Alkaline Soil,11.44,857.7,Zaid,Breeder Seeds,Manual,Tubewell Irrigation,Chemical Fertilizers,High
+Black Soil,20.06,385.5,Kharif,Foundation Seeds,Machine,Drip Irrigation,Bioinputs Fertilizers,High
+Saline and Alkaline Soil,20.65,778.5,Rabi,Foundation Seeds,Manual,Tubewell Irrigation,Organic Fertilizers,Medium
+Alluvial Soil,21.51,1110.7,Kharif,Genetically Modified (GM) Seeds,Machine,Tank Irrigation,Organic Fertilizers,Very High
+Black Soil,22.96,1439.3,Kharif,Open-Pollinated Seeds,Machine,Canal Irrigation,Organic Fertilizers,Very High
+Saline and Alkaline Soil,11.06,369.6,Zaid,Foundation Seeds,Manual,Well Irrigation,Organic Fertilizers,Low
+Laterite Soil,8.31,1335.0,Zaid,Breeder Seeds,Manual,Tank Irrigation,Organic Fertilizers,Very High
+Black Soil,14.76,1404.7,Kharif,Hybrid Seeds,Machine,Tank Irrigation,Bioinputs Fertilizers,High
+Black Soil,9.59,1378.8,Rabi,Foundation Seeds,Machine,Drip Irrigation,Organic Fertilizers,Very High
+Laterite Soil,15.23,971.4,Zaid,Open-Pollinated Seeds,Machine,Tubewell Irrigation,Bioinputs Fertilizers,High
+Red and Yellow Soil,17.79,963.2,Rabi,Genetically Modified (GM) Seeds,Machine,Well Irrigation,Bioinputs Fertilizers,High
+Alluvial Soil,17.37,634.7,Rabi,Breeder Seeds,Machine,Tank Irrigation,Organic Fertilizers,High
+Red and Yellow Soil,9.68,1141.0,Rabi,Genetically Modified (GM) Seeds,Manual,Drip Irrigation,Organic Fertilizers,Very High
+Saline and Alkaline Soil,4.59,820.4,Kharif,Hybrid Seeds,Manual,Well Irrigation,Organic Fertilizers,Very High
+Laterite Soil,11.05,1032.3,Rabi,Foundation Seeds,Manual,Tubewell Irrigation,Chemical Fertilizers,Medium
+Red and Yellow Soil,3.99,671.3,Kharif,Foundation Seeds,Manual,Tank Irrigation,Bioinputs Fertilizers,Medium
+Black Soil,22.31,1110.7,Kharif,Open-Pollinated Seeds,Machine,Sprinkler Irrigation,Organic Fertilizers,Very High
+Saline and Alkaline Soil,8.97,1245.5,Rabi,Foundation Seeds,Manual,Tank Irrigation,Chemical Fertilizers,Medium
+Saline and Alkaline Soil,4.28,262.3,Rabi,Breeder Seeds,Manual,Tank Irrigation,Bioinputs Fertilizers,Low
+Red and Yellow Soil,1.12,1257.7,Rabi,Hybrid Seeds,Manual,Well Irrigation,Chemical Fertilizers,Low
+Red and Yellow Soil,16.32,833.4,Rabi,Genetically Modified (GM) Seeds,Machine,Well Irrigation,Chemical Fertilizers,Very High
+Laterite Soil,16.1,1274.8,Kharif,Hybrid Seeds,Manual,Well Irrigation,Organic Fertilizers,Very High
+Alluvial Soil,8.84,675.4,Rabi,Foundation Seeds,Machine,Well Irrigation,Bioinputs Fertilizers,Low
+Red and Yellow Soil,2.26,599.6,Rabi,Genetically Modified (GM) Seeds,Manual,Drip Irrigation,Chemical Fertilizers,Low
+Red and Yellow Soil,10.54,1376.8,Kharif,Open-Pollinated Seeds,Machine,Canal Irrigation,Bioinputs Fertilizers,High
+Black Soil,8.12,414.2,Zaid,Hybrid Seeds,Manual,Drip Irrigation,Organic Fertilizers,High
+Saline and Alkaline Soil,17.09,1274.1,Zaid,Genetically Modified (GM) Seeds,Machine,Tank Irrigation,Bioinputs Fertilizers,Medium
+Alluvial Soil,15.34,751.8,Kharif,Genetically Modified (GM) Seeds,Manual,Drip Irrigation,Chemical Fertilizers,Very High
+Black Soil,9.43,795.4,Zaid,Genetically Modified (GM) Seeds,Machine,Tubewell Irrigation,Chemical Fertilizers,Low
+Laterite Soil,5.84,497.3,Kharif,Breeder Seeds,Machine,Sprinkler Irrigation,Bioinputs Fertilizers,Medium
+Laterite Soil,24.71,880.9,Rabi,Hybrid Seeds,Manual,Well Irrigation,Chemical Fertilizers,Medium
+Red and Yellow Soil,11.62,521.6,Rabi,Genetically Modified (GM) Seeds,Machine,Tubewell Irrigation,Chemical Fertilizers,Low
+Red and Yellow Soil,17.36,106.9,Zaid,Hybrid Seeds,Machine,Sprinkler Irrigation,Chemical Fertilizers,Low
+Laterite Soil,3.94,444.4,Rabi,Genetically Modified (GM) Seeds,Manual,Tubewell Irrigation,Organic Fertilizers,Low
+Red and Yellow Soil,12.4,59.2,Zaid,Open-Pollinated Seeds,Manual,Tank Irrigation,Organic Fertilizers,Medium
+Alluvial Soil,1.17,1468.6,Zaid,Open-Pollinated Seeds,Machine,Well Irrigation,Chemical Fertilizers,High
+Red and Yellow Soil,12.88,1450.3,Rabi,Open-Pollinated Seeds,Manual,Tubewell Irrigation,Bioinputs Fertilizers,Medium
+Saline and Alkaline Soil,24.12,623.0,Rabi,Foundation Seeds,Manual,Tank Irrigation,Organic Fertilizers,Medium
+Red and Yellow Soil,9.91,1106.1,Zaid,Genetically Modified (GM) Seeds,Manual,Well Irrigation,Bioinputs Fertilizers,Medium
+Black Soil,1.46,551.4,Rabi,Foundation Seeds,Machine,Canal Irrigation,Chemical Fertilizers,Low
+Alluvial Soil,1.26,1023.1,Kharif,Hybrid Seeds,Machine,Tank Irrigation,Chemical Fertilizers,Very High
+Black Soil,10.01,1217.9,Rabi,Foundation Seeds,Machine,Drip Irrigation,Bioinputs Fertilizers,High
+Black Soil,4.42,1422.8,Rabi,Hybrid Seeds,Machine,Well Irrigation,Organic Fertilizers,Medium
+Saline and Alkaline Soil,1.07,630.3,Kharif,Hybrid Seeds,Machine,Tubewell Irrigation,Bioinputs Fertilizers,Low
+Alluvial Soil,19.03,1185.8,Rabi,Hybrid Seeds,Machine,Sprinkler Irrigation,Bioinputs Fertilizers,High
+Alluvial Soil,11.73,435.6,Rabi,Foundation Seeds,Machine,Tubewell Irrigation,Chemical Fertilizers,Low
+Alluvial Soil,7.59,1486.0,Zaid,Genetically Modified (GM) Seeds,Manual,Drip Irrigation,Organic Fertilizers,Very High
+Alluvial Soil,22.55,87.4,Rabi,Foundation Seeds,Machine,Drip Irrigation,Bioinputs Fertilizers,High
+Alluvial Soil,3.35,925.1,Rabi,Genetically Modified (GM) Seeds,Machine,Tubewell Irrigation,Organic Fertilizers,Very High
+Saline and Alkaline Soil,23.92,1006.3,Kharif,Genetically Modified (GM) Seeds,Manual,Sprinkler Irrigation,Chemical Fertilizers,Very High
+Red and Yellow Soil,8.19,1047.7,Zaid,Hybrid Seeds,Manual,Well Irrigation,Organic Fertilizers,High
+Black Soil,22.27,224.6,Zaid,Foundation Seeds,Manual,Tank Irrigation,Chemical Fertilizers,Low
+Alluvial Soil,15.27,1410.9,Zaid,Genetically Modified (GM) Seeds,Machine,Drip Irrigation,Organic Fertilizers,Very High
+Red and Yellow Soil,20.75,312.7,Rabi,Open-Pollinated Seeds,Manual,Drip Irrigation,Bioinputs Fertilizers,Medium
+Red and Yellow Soil,24.61,953.0,Zaid,Genetically Modified (GM) Seeds,Machine,Drip Irrigation,Chemical Fertilizers,High
+Black Soil,7.57,372.9,Kharif,Open-Pollinated Seeds,Machine,Sprinkler Irrigation,Bioinputs Fertilizers,Medium
+Saline and Alkaline Soil,24.05,495.5,Zaid,Foundation Seeds,Machine,Canal Irrigation,Chemical Fertilizers,Low
+Laterite Soil,10.04,842.4,Kharif,Foundation Seeds,Manual,Sprinkler Irrigation,Organic Fertilizers,High
+Laterite Soil,9.95,654.9,Zaid,Foundation Seeds,Manual,Well Irrigation,Organic Fertilizers,Medium
+Red and Yellow Soil,8.84,282.3,Zaid,Genetically Modified (GM) Seeds,Machine,Well Irrigation,Chemical Fertilizers,Low
+Black Soil,13.76,297.9,Kharif,Breeder Seeds,Machine,Well Irrigation,Chemical Fertilizers,Medium
+Laterite Soil,4.28,656.3,Zaid,Genetically Modified (GM) Seeds,Machine,Well Irrigation,Chemical Fertilizers,Medium
+Red and Yellow Soil,14.07,1148.1,Zaid,Genetically Modified (GM) Seeds,Manual,Well Irrigation,Organic Fertilizers,High
+Saline and Alkaline Soil,13.77,1352.0,Zaid,Hybrid Seeds,Machine,Tubewell Irrigation,Chemical Fertilizers,Medium
+Laterite Soil,19.17,172.0,Rabi,Hybrid Seeds,Manual,Drip Irrigation,Chemical Fertilizers,Low
+Red and Yellow Soil,20.92,620.0,Kharif,Genetically Modified (GM) Seeds,Machine,Sprinkler Irrigation,Bioinputs Fertilizers,Medium
+Red and Yellow Soil,11.29,195.4,Zaid,Open-Pollinated Seeds,Manual,Tubewell Irrigation,Chemical Fertilizers,Low
+Alluvial Soil,7.91,74.1,Kharif,Hybrid Seeds,Machine,Sprinkler Irrigation,Bioinputs Fertilizers,Medium
+Saline and Alkaline Soil,6.85,1009.5,Kharif,Genetically Modified (GM) Seeds,Manual,Canal Irrigation,Bioinputs Fertilizers,Medium
+Alluvial Soil,5.27,923.6,Kharif,Breeder Seeds,Manual,Tank Irrigation,Bioinputs Fertilizers,Very High
+Black Soil,1.91,286.4,Zaid,Open-Pollinated Seeds,Manual,Drip Irrigation,Organic Fertilizers,High
+Alluvial Soil,8.89,389.0,Zaid,Foundation Seeds,Manual,Canal Irrigation,Bioinputs Fertilizers,Medium
+Alluvial Soil,7.12,84.4,Kharif,Genetically Modified (GM) Seeds,Manual,Tubewell Irrigation,Chemical Fertilizers,Medium
+Laterite Soil,24.18,1260.7,Rabi,Genetically Modified (GM) Seeds,Manual,Tank Irrigation,Organic Fertilizers,Very High
+Red and Yellow Soil,14.16,1463.3,Kharif,Open-Pollinated Seeds,Machine,Canal Irrigation,Organic Fertilizers,Very High
+Saline and Alkaline Soil,9.01,246.4,Rabi,Hybrid Seeds,Machine,Sprinkler Irrigation,Organic Fertilizers,Low
+Alluvial Soil,14.72,385.6,Kharif,Hybrid Seeds,Machine,Tank Irrigation,Organic Fertilizers,Very High
+Saline and Alkaline Soil,3.91,1309.2,Kharif,Hybrid Seeds,Machine,Sprinkler Irrigation,Organic Fertilizers,High
+Alluvial Soil,11.38,1393.4,Kharif,Foundation Seeds,Manual,Canal Irrigation,Organic Fertilizers,Very High
+Black Soil,15.84,658.5,Zaid,Open-Pollinated Seeds,Machine,Tubewell Irrigation,Organic Fertilizers,Medium
+Alluvial Soil,12.48,123.4,Rabi,Open-Pollinated Seeds,Manual,Sprinkler Irrigation,Bioinputs Fertilizers,Medium
+Laterite Soil,10.34,107.1,Rabi,Hybrid Seeds,Manual,Tank Irrigation,Chemical Fertilizers,Low
+Red and Yellow Soil,24.85,882.2,Kharif,Hybrid Seeds,Manual,Canal Irrigation,Chemical Fertilizers,High
+Black Soil,22.07,619.7,Zaid,Breeder Seeds,Machine,Sprinkler Irrigation,Bioinputs Fertilizers,Low
+Alluvial Soil,15.77,91.5,Zaid,Breeder Seeds,Manual,Tubewell Irrigation,Bioinputs Fertilizers,Medium
+Saline and Alkaline Soil,14.45,895.7,Rabi,Genetically Modified (GM) Seeds,Machine,Drip Irrigation,Organic Fertilizers,Very High
+Black Soil,15.71,66.4,Zaid,Genetically Modified (GM) Seeds,Machine,Tubewell Irrigation,Organic Fertilizers,Medium
+Black Soil,5.43,1191.7,Rabi,Open-Pollinated Seeds,Machine,Tubewell Irrigation,Bioinputs Fertilizers,Medium
+Alluvial Soil,10.18,494.3,Rabi,Open-Pollinated Seeds,Machine,Drip Irrigation,Organic Fertilizers,Very High
+Black Soil,1.47,108.4,Rabi,Foundation Seeds,Machine,Tubewell Irrigation,Chemical Fertilizers,Low
+Saline and Alkaline Soil,12.15,903.1,Zaid,Foundation Seeds,Manual,Drip Irrigation,Chemical Fertilizers,High
+Black Soil,13.8,626.6,Rabi,Breeder Seeds,Manual,Drip Irrigation,Organic Fertilizers,Medium
+Saline and Alkaline Soil,6.08,1462.0,Rabi,Genetically Modified (GM) Seeds,Machine,Sprinkler Irrigation,Organic Fertilizers,Very High
+Alluvial Soil,24.12,839.1,Kharif,Breeder Seeds,Manual,Sprinkler Irrigation,Organic Fertilizers,Very High
+Red and Yellow Soil,22.78,449.1,Rabi,Breeder Seeds,Machine,Drip Irrigation,Chemical Fertilizers,Medium
+Black Soil,18.19,1078.7,Rabi,Genetically Modified (GM) Seeds,Manual,Canal Irrigation,Organic Fertilizers,High
+Red and Yellow Soil,13.57,443.7,Kharif,Foundation Seeds,Manual,Tank Irrigation,Bioinputs Fertilizers,Medium
+Saline and Alkaline Soil,21.81,1361.2,Kharif,Genetically Modified (GM) Seeds,Manual,Canal Irrigation,Organic Fertilizers,Very High
+Black Soil,3.7,593.3,Zaid,Hybrid Seeds,Manual,Drip Irrigation,Bioinputs Fertilizers,Medium
+Laterite Soil,19.87,847.3,Rabi,Hybrid Seeds,Manual,Tank Irrigation,Organic Fertilizers,Very High
+Red and Yellow Soil,3.56,123.3,Zaid,Hybrid Seeds,Manual,Sprinkler Irrigation,Organic Fertilizers,Medium
+Black Soil,19.96,667.9,Zaid,Open-Pollinated Seeds,Manual,Tank Irrigation,Chemical Fertilizers,Low
+Red and Yellow Soil,7.26,1256.9,Kharif,Foundation Seeds,Manual,Drip Irrigation,Bioinputs Fertilizers,Very High
+Black Soil,21.99,1218.2,Zaid,Foundation Seeds,Manual,Sprinkler Irrigation,Bioinputs Fertilizers,Medium
+Alluvial Soil,23.63,375.3,Rabi,Open-Pollinated Seeds,Manual,Tank Irrigation,Bioinputs Fertilizers,High
+Red and Yellow Soil,4.15,377.8,Kharif,Breeder Seeds,Manual,Tank Irrigation,Chemical Fertilizers,Low
+Laterite Soil,11.84,1235.1,Rabi,Hybrid Seeds,Manual,Canal Irrigation,Bioinputs Fertilizers,Medium
+Laterite Soil,24.53,1399.1,Rabi,Hybrid Seeds,Manual,Tank Irrigation,Chemical Fertilizers,Medium
+Saline and Alkaline Soil,12.34,188.3,Kharif,Breeder Seeds,Machine,Drip Irrigation,Organic Fertilizers,High
+Black Soil,21.66,702.6,Rabi,Genetically Modified (GM) Seeds,Manual,Well Irrigation,Organic Fertilizers,Medium
+Red and Yellow Soil,14.92,539.3,Kharif,Genetically Modified (GM) Seeds,Manual,Well Irrigation,Bioinputs Fertilizers,Medium
+Saline and Alkaline Soil,9.7,1312.5,Rabi,Foundation Seeds,Manual,Well Irrigation,Organic Fertilizers,Very High
+Red and Yellow Soil,7.5,171.1,Kharif,Open-Pollinated Seeds,Manual,Drip Irrigation,Organic Fertilizers,High
+Black Soil,5.48,356.1,Zaid,Foundation Seeds,Manual,Well Irrigation,Bioinputs Fertilizers,Low
+Laterite Soil,19.16,1141.1,Rabi,Genetically Modified (GM) Seeds,Manual,Canal Irrigation,Organic Fertilizers,Very High
+Alluvial Soil,9.97,124.4,Kharif,Breeder Seeds,Machine,Drip Irrigation,Bioinputs Fertilizers,High
+Laterite Soil,13.03,764.2,Rabi,Foundation Seeds,Machine,Sprinkler Irrigation,Bioinputs Fertilizers,Low
+Saline and Alkaline Soil,12.56,691.1,Rabi,Hybrid Seeds,Machine,Drip Irrigation,Organic Fertilizers,Medium
+Alluvial Soil,14.64,534.9,Rabi,Hybrid Seeds,Manual,Drip Irrigation,Organic Fertilizers,High
+Saline and Alkaline Soil,21.71,622.1,Kharif,Breeder Seeds,Manual,Tank Irrigation,Organic Fertilizers,High
+Black Soil,24.53,818.4,Zaid,Genetically Modified (GM) Seeds,Manual,Tank Irrigation,Organic Fertilizers,Very High
+Alluvial Soil,10.49,284.0,Zaid,Hybrid Seeds,Machine,Tank Irrigation,Organic Fertilizers,Medium
+Saline and Alkaline Soil,20.77,879.4,Zaid,Hybrid Seeds,Manual,Tubewell Irrigation,Chemical Fertilizers,Medium
+Black Soil,19.23,1217.9,Kharif,Open-Pollinated Seeds,Manual,Canal Irrigation,Organic Fertilizers,Very High
+Laterite Soil,14.55,1152.2,Zaid,Foundation Seeds,Machine,Drip Irrigation,Chemical Fertilizers,High
+Black Soil,23.92,273.2,Kharif,Genetically Modified (GM) Seeds,Machine,Drip Irrigation,Bioinputs Fertilizers,High
+Red and Yellow Soil,5.41,266.4,Rabi,Foundation Seeds,Manual,Tank Irrigation,Organic Fertilizers,Medium
+Black Soil,3.18,438.9,Rabi,Genetically Modified (GM) Seeds,Manual,Drip Irrigation,Organic Fertilizers,High
+Black Soil,21.42,573.6,Zaid,Hybrid Seeds,Manual,Sprinkler Irrigation,Organic Fertilizers,Medium
+Red and Yellow Soil,11.26,642.3,Kharif,Open-Pollinated Seeds,Manual,Drip Irrigation,Bioinputs Fertilizers,High
+Saline and Alkaline Soil,21.25,1035.6,Rabi,Foundation Seeds,Machine,Well Irrigation,Chemical Fertilizers,Medium
+Saline and Alkaline Soil,22.38,132.2,Kharif,Hybrid Seeds,Manual,Sprinkler Irrigation,Chemical Fertilizers,High
+Black Soil,2.03,100.3,Kharif,Genetically Modified (GM) Seeds,Manual,Sprinkler Irrigation,Organic Fertilizers,Medium
+Red and Yellow Soil,22.14,618.3,Rabi,Foundation Seeds,Machine,Drip Irrigation,Organic Fertilizers,Very High
+Red and Yellow Soil,11.48,1060.9,Kharif,Foundation Seeds,Manual,Tubewell Irrigation,Organic Fertilizers,Very High
+Laterite Soil,13.01,330.5,Rabi,Hybrid Seeds,Manual,Tank Irrigation,Organic Fertilizers,Medium
+Saline and Alkaline Soil,15.85,980.2,Rabi,Foundation Seeds,Machine,Canal Irrigation,Bioinputs Fertilizers,Medium
+Alluvial Soil,23.2,426.8,Rabi,Open-Pollinated Seeds,Machine,Canal Irrigation,Organic Fertilizers,Medium
+Saline and Alkaline Soil,0.97,1334.8,Kharif,Open-Pollinated Seeds,Manual,Well Irrigation,Bioinputs Fertilizers,Medium
+Saline and Alkaline Soil,12.18,1348.8,Rabi,Hybrid Seeds,Machine,Canal Irrigation,Organic Fertilizers,Medium
+Laterite Soil,17.35,481.1,Kharif,Genetically Modified (GM) Seeds,Machine,Canal Irrigation,Chemical Fertilizers,Medium
+Alluvial Soil,18.21,383.5,Rabi,Hybrid Seeds,Manual,Tank Irrigation,Chemical Fertilizers,Medium
+Laterite Soil,17.47,646.4,Rabi,Open-Pollinated Seeds,Machine,Tank Irrigation,Organic Fertilizers,High
+Alluvial Soil,3.79,398.8,Zaid,Breeder Seeds,Manual,Tubewell Irrigation,Organic Fertilizers,Medium
+Black Soil,7.84,1025.0,Zaid,Breeder Seeds,Manual,Well Irrigation,Bioinputs Fertilizers,Medium
+Alluvial Soil,9.29,1247.8,Zaid,Foundation Seeds,Manual,Canal Irrigation,Organic Fertilizers,High
+Laterite Soil,20.21,1026.0,Kharif,Foundation Seeds,Manual,Tubewell Irrigation,Organic Fertilizers,Very High
+Saline and Alkaline Soil,7.33,1245.3,Kharif,Breeder Seeds,Machine,Well Irrigation,Organic Fertilizers,Very High
+Alluvial Soil,5.66,625.6,Rabi,Open-Pollinated Seeds,Manual,Sprinkler Irrigation,Chemical Fertilizers,Medium
+Alluvial Soil,23.96,276.7,Rabi,Foundation Seeds,Manual,Canal Irrigation,Bioinputs Fertilizers,Medium
+Red and Yellow Soil,0.72,1120.0,Rabi,Hybrid Seeds,Manual,Canal Irrigation,Chemical Fertilizers,Medium
+Saline and Alkaline Soil,24.95,572.7,Rabi,Hybrid Seeds,Manual,Tank Irrigation,Bioinputs Fertilizers,Medium
+Black Soil,17.08,1023.3,Kharif,Open-Pollinated Seeds,Machine,Drip Irrigation,Chemical Fertilizers,Very High
+Laterite Soil,20.8,442.4,Rabi,Foundation Seeds,Machine,Well Irrigation,Organic Fertilizers,Medium
+Black Soil,7.72,167.8,Rabi,Hybrid Seeds,Machine,Canal Irrigation,Chemical Fertilizers,Low
+Saline and Alkaline Soil,0.85,1489.2,Zaid,Foundation Seeds,Manual,Well Irrigation,Chemical Fertilizers,Low
+Alluvial Soil,18.58,276.5,Rabi,Foundation Seeds,Machine,Tubewell Irrigation,Bioinputs Fertilizers,Medium
+Alluvial Soil,20.94,1483.2,Rabi,Hybrid Seeds,Machine,Tubewell Irrigation,Bioinputs Fertilizers,High
+Saline and Alkaline Soil,18.64,1467.1,Rabi,Breeder Seeds,Manual,Drip Irrigation,Chemical Fertilizers,Very High
+Alluvial Soil,4.0,1201.0,Kharif,Hybrid Seeds,Machine,Canal Irrigation,Bioinputs Fertilizers,Very High
+Alluvial Soil,18.96,1006.2,Zaid,Open-Pollinated Seeds,Manual,Tank Irrigation,Bioinputs Fertilizers,Very High
+Alluvial Soil,19.34,887.8,Rabi,Genetically Modified (GM) Seeds,Machine,Canal Irrigation,Bioinputs Fertilizers,Very High
+Laterite Soil,16.63,1305.8,Rabi,Hybrid Seeds,Machine,Well Irrigation,Bioinputs Fertilizers,Medium
+Laterite Soil,19.27,469.7,Zaid,Foundation Seeds,Machine,Sprinkler Irrigation,Bioinputs Fertilizers,Low
+Red and Yellow Soil,21.23,728.1,Rabi,Foundation Seeds,Machine,Tubewell Irrigation,Chemical Fertilizers,Low
+Black Soil,15.53,948.1,Kharif,Hybrid Seeds,Manual,Well Irrigation,Bioinputs Fertilizers,High
+Saline and Alkaline Soil,2.67,646.2,Rabi,Genetically Modified (GM) Seeds,Manual,Drip Irrigation,Organic Fertilizers,High
+Saline and Alkaline Soil,12.45,669.9,Kharif,Hybrid Seeds,Machine,Tubewell Irrigation,Chemical Fertilizers,Medium
+Saline and Alkaline Soil,2.4,528.9,Kharif,Genetically Modified (GM) Seeds,Manual,Tank Irrigation,Chemical Fertilizers,Medium
+Red and Yellow Soil,10.48,868.1,Rabi,Genetically Modified (GM) Seeds,Machine,Tubewell Irrigation,Chemical Fertilizers,Medium
+Laterite Soil,10.47,1283.3,Zaid,Open-Pollinated Seeds,Machine,Sprinkler Irrigation,Bioinputs Fertilizers,Medium
+Red and Yellow Soil,2.12,342.2,Kharif,Foundation Seeds,Machine,Canal Irrigation,Organic Fertilizers,Very High
+Saline and Alkaline Soil,9.05,1404.9,Zaid,Foundation Seeds,Machine,Sprinkler Irrigation,Bioinputs Fertilizers,Medium
+Black Soil,3.22,1049.2,Rabi,Genetically Modified (GM) Seeds,Machine,Sprinkler Irrigation,Chemical Fertilizers,High
+Alluvial Soil,20.3,1243.7,Kharif,Foundation Seeds,Machine,Canal Irrigation,Chemical Fertilizers,Very High
+Laterite Soil,23.72,856.5,Rabi,Breeder Seeds,Manual,Tubewell Irrigation,Chemical Fertilizers,High
+Laterite Soil,2.27,1180.3,Zaid,Genetically Modified (GM) Seeds,Manual,Drip Irrigation,Chemical Fertilizers,High
+Red and Yellow Soil,23.9,73.5,Rabi,Foundation Seeds,Machine,Canal Irrigation,Bioinputs Fertilizers,Low
+Laterite Soil,13.3,1236.7,Rabi,Breeder Seeds,Manual,Canal Irrigation,Organic Fertilizers,Medium
+Saline and Alkaline Soil,7.84,108.2,Kharif,Open-Pollinated Seeds,Machine,Tank Irrigation,Organic Fertilizers,High
+Saline and Alkaline Soil,2.38,1340.4,Rabi,Foundation Seeds,Manual,Tubewell Irrigation,Chemical Fertilizers,High
+Red and Yellow Soil,12.77,1488.3,Rabi,Breeder Seeds,Manual,Canal Irrigation,Organic Fertilizers,High
+Saline and Alkaline Soil,19.97,476.4,Rabi,Hybrid Seeds,Manual,Drip Irrigation,Chemical Fertilizers,Medium
+Black Soil,17.82,355.0,Kharif,Hybrid Seeds,Machine,Well Irrigation,Chemical Fertilizers,Low
+Red and Yellow Soil,1.73,1159.8,Zaid,Breeder Seeds,Manual,Tubewell Irrigation,Organic Fertilizers,High
+Black Soil,2.29,416.9,Zaid,Genetically Modified (GM) Seeds,Machine,Tank Irrigation,Chemical Fertilizers,Low
+Alluvial Soil,10.37,1305.1,Rabi,Genetically Modified (GM) Seeds,Machine,Sprinkler Irrigation,Organic Fertilizers,Very High
+Black Soil,7.73,199.1,Kharif,Foundation Seeds,Machine,Canal Irrigation,Chemical Fertilizers,Medium
+Alluvial Soil,6.19,232.6,Rabi,Hybrid Seeds,Manual,Drip Irrigation,Organic Fertilizers,High
+Alluvial Soil,7.38,1469.8,Zaid,Genetically Modified (GM) Seeds,Manual,Tubewell Irrigation,Chemical Fertilizers,High
+Black Soil,20.19,1027.1,Kharif,Genetically Modified (GM) Seeds,Manual,Drip Irrigation,Organic Fertilizers,Very High
+Red and Yellow Soil,23.27,1278.0,Zaid,Hybrid Seeds,Machine,Drip Irrigation,Chemical Fertilizers,High
+Saline and Alkaline Soil,10.43,520.3,Zaid,Open-Pollinated Seeds,Machine,Sprinkler Irrigation,Chemical Fertilizers,Low
+Saline and Alkaline Soil,22.7,1030.9,Kharif,Genetically Modified (GM) Seeds,Manual,Tank Irrigation,Chemical Fertilizers,Very High
+Alluvial Soil,8.38,911.7,Kharif,Breeder Seeds,Machine,Tubewell Irrigation,Organic Fertilizers,Very High
+Alluvial Soil,12.17,924.6,Rabi,Foundation Seeds,Manual,Canal Irrigation,Bioinputs Fertilizers,High
+Red and Yellow Soil,6.04,1039.7,Rabi,Genetically Modified (GM) Seeds,Manual,Tank Irrigation,Chemical Fertilizers,Low
+Laterite Soil,16.19,884.3,Zaid,Genetically Modified (GM) Seeds,Manual,Canal Irrigation,Chemical Fertilizers,High
+Black Soil,24.49,672.1,Kharif,Open-Pollinated Seeds,Manual,Well Irrigation,Organic Fertilizers,High
+Alluvial Soil,15.29,450.1,Kharif,Breeder Seeds,Machine,Drip Irrigation,Chemical Fertilizers,Very High
+Saline and Alkaline Soil,9.27,1164.4,Rabi,Foundation Seeds,Manual,Well Irrigation,Chemical Fertilizers,High
+Red and Yellow Soil,16.37,378.1,Zaid,Genetically Modified (GM) Seeds,Manual,Drip Irrigation,Chemical Fertilizers,Low
+Black Soil,3.51,1053.9,Zaid,Foundation Seeds,Manual,Sprinkler Irrigation,Chemical Fertilizers,Medium
+Red and Yellow Soil,22.27,388.3,Rabi,Hybrid Seeds,Manual,Tank Irrigation,Bioinputs Fertilizers,Low
+Black Soil,12.83,956.7,Kharif,Genetically Modified (GM) Seeds,Manual,Canal Irrigation,Bioinputs Fertilizers,Very High
+Black Soil,11.51,1133.3,Rabi,Genetically Modified (GM) Seeds,Manual,Sprinkler Irrigation,Chemical Fertilizers,Low
+Alluvial Soil,14.85,367.1,Rabi,Hybrid Seeds,Manual,Canal Irrigation,Chemical Fertilizers,Medium
+Red and Yellow Soil,15.81,136.9,Rabi,Open-Pollinated Seeds,Machine,Tank Irrigation,Chemical Fertilizers,Low
+Red and Yellow Soil,2.26,239.9,Rabi,Genetically Modified (GM) Seeds,Machine,Tubewell Irrigation,Bioinputs Fertilizers,Low
+Saline and Alkaline Soil,17.22,928.7,Kharif,Foundation Seeds,Machine,Well Irrigation,Bioinputs Fertilizers,High
+Saline and Alkaline Soil,6.43,1281.7,Rabi,Breeder Seeds,Machine,Well Irrigation,Organic Fertilizers,High
+Alluvial Soil,17.99,115.2,Kharif,Foundation Seeds,Manual,Canal Irrigation,Organic Fertilizers,Very High
+Alluvial Soil,20.65,1114.5,Rabi,Open-Pollinated Seeds,Machine,Canal Irrigation,Chemical Fertilizers,High
+Laterite Soil,20.2,544.9,Zaid,Breeder Seeds,Machine,Canal Irrigation,Chemical Fertilizers,Low
+Saline and Alkaline Soil,14.04,743.9,Kharif,Foundation Seeds,Machine,Tank Irrigation,Bioinputs Fertilizers,Low
+Black Soil,13.24,1396.8,Zaid,Foundation Seeds,Manual,Tubewell Irrigation,Chemical Fertilizers,Medium
+Red and Yellow Soil,4.0,531.4,Rabi,Hybrid Seeds,Machine,Well Irrigation,Chemical Fertilizers,Medium
+Alluvial Soil,19.5,724.7,Rabi,Open-Pollinated Seeds,Machine,Sprinkler Irrigation,Bioinputs Fertilizers,Medium
+Red and Yellow Soil,7.15,69.8,Rabi,Hybrid Seeds,Manual,Drip Irrigation,Bioinputs Fertilizers,Medium
+Red and Yellow Soil,12.67,168.3,Kharif,Breeder Seeds,Machine,Tank Irrigation,Bioinputs Fertilizers,Medium
+Laterite Soil,7.46,425.0,Zaid,Hybrid Seeds,Manual,Well Irrigation,Bioinputs Fertilizers,Low
+Saline and Alkaline Soil,3.78,90.4,Kharif,Open-Pollinated Seeds,Machine,Tubewell Irrigation,Organic Fertilizers,High
+Alluvial Soil,15.92,965.5,Kharif,Genetically Modified (GM) Seeds,Manual,Tank Irrigation,Bioinputs Fertilizers,High
+Red and Yellow Soil,1.83,668.3,Rabi,Genetically Modified (GM) Seeds,Machine,Sprinkler Irrigation,Bioinputs Fertilizers,Low
+Alluvial Soil,18.84,844.8,Zaid,Breeder Seeds,Machine,Well Irrigation,Chemical Fertilizers,High
+Black Soil,8.28,303.2,Rabi,Genetically Modified (GM) Seeds,Machine,Tank Irrigation,Chemical Fertilizers,Low
+Laterite Soil,0.5,479.1,Kharif,Hybrid Seeds,Manual,Well Irrigation,Chemical Fertilizers,Medium
+Black Soil,13.02,1012.5,Rabi,Breeder Seeds,Machine,Well Irrigation,Organic Fertilizers,High
+Alluvial Soil,1.65,1449.7,Zaid,Open-Pollinated Seeds,Manual,Tubewell Irrigation,Bioinputs Fertilizers,High
+Alluvial Soil,7.27,123.1,Rabi,Breeder Seeds,Manual,Drip Irrigation,Bioinputs Fertilizers,Medium
+Saline and Alkaline Soil,17.82,1341.1,Zaid,Breeder Seeds,Manual,Tubewell Irrigation,Organic Fertilizers,High
+Red and Yellow Soil,2.04,886.5,Zaid,Foundation Seeds,Manual,Well Irrigation,Bioinputs Fertilizers,Medium
+Red and Yellow Soil,21.06,867.7,Rabi,Foundation Seeds,Machine,Tank Irrigation,Chemical Fertilizers,High
+Black Soil,0.59,775.4,Kharif,Breeder Seeds,Machine,Sprinkler Irrigation,Organic Fertilizers,High
+Laterite Soil,6.55,150.6,Rabi,Genetically Modified (GM) Seeds,Machine,Tubewell Irrigation,Bioinputs Fertilizers,Low
+Red and Yellow Soil,18.65,180.3,Kharif,Foundation Seeds,Manual,Drip Irrigation,Organic Fertilizers,Very High
+Saline and Alkaline Soil,8.25,921.3,Kharif,Open-Pollinated Seeds,Machine,Well Irrigation,Organic Fertilizers,Very High
+Black Soil,3.0,544.4,Rabi,Hybrid Seeds,Manual,Sprinkler Irrigation,Bioinputs Fertilizers,Low
+Black Soil,9.33,1380.0,Kharif,Foundation Seeds,Manual,Tubewell Irrigation,Chemical Fertilizers,Very High
+Saline and Alkaline Soil,7.12,639.6,Kharif,Breeder Seeds,Manual,Tubewell Irrigation,Bioinputs Fertilizers,Medium
+Laterite Soil,21.15,257.8,Rabi,Genetically Modified (GM) Seeds,Machine,Tubewell Irrigation,Bioinputs Fertilizers,Low
+Saline and Alkaline Soil,8.18,1086.3,Rabi,Hybrid Seeds,Machine,Tubewell Irrigation,Chemical Fertilizers,Medium
+Laterite Soil,19.83,475.4,Rabi,Foundation Seeds,Manual,Sprinkler Irrigation,Bioinputs Fertilizers,Low
+Saline and Alkaline Soil,22.35,811.9,Kharif,Genetically Modified (GM) Seeds,Machine,Tank Irrigation,Bioinputs Fertilizers,High
+Saline and Alkaline Soil,11.13,1061.9,Zaid,Genetically Modified (GM) Seeds,Machine,Drip Irrigation,Bioinputs Fertilizers,Medium
+Alluvial Soil,22.79,1355.4,Kharif,Genetically Modified (GM) Seeds,Manual,Drip Irrigation,Organic Fertilizers,Very High
+Black Soil,9.74,1198.7,Zaid,Breeder Seeds,Manual,Well Irrigation,Organic Fertilizers,Very High
+Saline and Alkaline Soil,24.12,1030.7,Rabi,Open-Pollinated Seeds,Machine,Canal Irrigation,Organic Fertilizers,Very High
+Saline and Alkaline Soil,2.69,1035.5,Zaid,Genetically Modified (GM) Seeds,Manual,Tank Irrigation,Bioinputs Fertilizers,Low
+Red and Yellow Soil,17.33,1421.6,Rabi,Hybrid Seeds,Manual,Well Irrigation,Chemical Fertilizers,Medium
+Black Soil,12.6,478.9,Rabi,Foundation Seeds,Machine,Well Irrigation,Organic Fertilizers,Medium
+Red and Yellow Soil,10.0,51.6,Zaid,Hybrid Seeds,Machine,Tubewell Irrigation,Chemical Fertilizers,Low
+Black Soil,16.0,444.3,Rabi,Breeder Seeds,Manual,Canal Irrigation,Bioinputs Fertilizers,Low
+Red and Yellow Soil,17.74,365.9,Zaid,Breeder Seeds,Machine,Canal Irrigation,Organic Fertilizers,Medium
+Saline and Alkaline Soil,0.61,1009.7,Rabi,Hybrid Seeds,Manual,Tank Irrigation,Bioinputs Fertilizers,High
+Saline and Alkaline Soil,4.59,968.9,Kharif,Open-Pollinated Seeds,Manual,Canal Irrigation,Chemical Fertilizers,High
+Alluvial Soil,17.97,910.5,Kharif,Breeder Seeds,Machine,Well Irrigation,Organic Fertilizers,Very High
+Red and Yellow Soil,16.83,73.6,Rabi,Breeder Seeds,Manual,Canal Irrigation,Organic Fertilizers,Medium
+Laterite Soil,24.17,1106.7,Rabi,Hybrid Seeds,Manual,Canal Irrigation,Organic Fertilizers,Very High
+Alluvial Soil,19.15,519.1,Zaid,Breeder Seeds,Manual,Drip Irrigation,Organic Fertilizers,High
+Red and Yellow Soil,23.79,1014.3,Kharif,Open-Pollinated Seeds,Machine,Well Irrigation,Chemical Fertilizers,Medium
+Red and Yellow Soil,17.71,857.0,Zaid,Open-Pollinated Seeds,Machine,Sprinkler Irrigation,Organic Fertilizers,High
+Alluvial Soil,7.8,547.0,Rabi,Open-Pollinated Seeds,Machine,Canal Irrigation,Bioinputs Fertilizers,Medium
+Saline and Alkaline Soil,3.08,245.1,Rabi,Foundation Seeds,Manual,Canal Irrigation,Organic Fertilizers,Low
+Red and Yellow Soil,19.65,186.9,Zaid,Open-Pollinated Seeds,Manual,Tubewell Irrigation,Chemical Fertilizers,Low
+Saline and Alkaline Soil,16.28,1255.7,Rabi,Open-Pollinated Seeds,Machine,Canal Irrigation,Organic Fertilizers,Very High
+Alluvial Soil,1.68,1381.7,Kharif,Foundation Seeds,Machine,Canal Irrigation,Chemical Fertilizers,Very High
+Saline and Alkaline Soil,9.32,992.2,Zaid,Genetically Modified (GM) Seeds,Machine,Drip Irrigation,Chemical Fertilizers,High
+Black Soil,23.94,200.0,Kharif,Breeder Seeds,Manual,Well Irrigation,Bioinputs Fertilizers,Medium
+Laterite Soil,12.76,632.9,Kharif,Open-Pollinated Seeds,Machine,Tank Irrigation,Organic Fertilizers,Medium
+Red and Yellow Soil,11.1,1107.0,Kharif,Breeder Seeds,Manual,Well Irrigation,Organic Fertilizers,Very High
+Laterite Soil,11.71,1180.7,Zaid,Hybrid Seeds,Machine,Tubewell Irrigation,Organic Fertilizers,Very High
+Saline and Alkaline Soil,5.62,221.4,Rabi,Breeder Seeds,Manual,Well Irrigation,Bioinputs Fertilizers,Low
+Red and Yellow Soil,9.53,50.0,Kharif,Foundation Seeds,Manual,Canal Irrigation,Bioinputs Fertilizers,Medium
+Saline and Alkaline Soil,9.56,1082.6,Kharif,Breeder Seeds,Machine,Tubewell Irrigation,Chemical Fertilizers,Very High
+Black Soil,1.78,567.1,Kharif,Breeder Seeds,Manual,Well Irrigation,Chemical Fertilizers,Low
+Alluvial Soil,19.31,419.0,Rabi,Breeder Seeds,Machine,Tubewell Irrigation,Chemical Fertilizers,Medium
+Red and Yellow Soil,10.7,68.7,Rabi,Genetically Modified (GM) Seeds,Manual,Tank Irrigation,Bioinputs Fertilizers,Low
+Black Soil,20.64,833.4,Zaid,Genetically Modified (GM) Seeds,Manual,Well Irrigation,Bioinputs Fertilizers,Medium
+Black Soil,21.33,1284.2,Rabi,Hybrid Seeds,Machine,Sprinkler Irrigation,Bioinputs Fertilizers,High
+Red and Yellow Soil,5.69,1438.6,Zaid,Foundation Seeds,Manual,Canal Irrigation,Chemical Fertilizers,Medium
+Saline and Alkaline Soil,16.61,870.3,Zaid,Breeder Seeds,Machine,Tubewell Irrigation,Bioinputs Fertilizers,Medium
+Black Soil,12.07,796.0,Zaid,Breeder Seeds,Machine,Sprinkler Irrigation,Chemical Fertilizers,Low
+Laterite Soil,22.06,173.3,Zaid,Breeder Seeds,Machine,Sprinkler Irrigation,Chemical Fertilizers,Low
+Black Soil,5.79,845.9,Zaid,Breeder Seeds,Manual,Drip Irrigation,Organic Fertilizers,Very High
+Saline and Alkaline Soil,17.11,601.0,Kharif,Genetically Modified (GM) Seeds,Manual,Tubewell Irrigation,Organic Fertilizers,Very High
+Saline and Alkaline Soil,15.39,930.3,Rabi,Hybrid Seeds,Manual,Sprinkler Irrigation,Organic Fertilizers,High
+Laterite Soil,7.73,613.7,Kharif,Open-Pollinated Seeds,Machine,Drip Irrigation,Chemical Fertilizers,High
+Black Soil,3.85,398.4,Zaid,Foundation Seeds,Machine,Sprinkler Irrigation,Organic Fertilizers,Low
+Saline and Alkaline Soil,16.47,187.7,Rabi,Breeder Seeds,Manual,Canal Irrigation,Organic Fertilizers,Medium
+Red and Yellow Soil,18.6,506.6,Kharif,Hybrid Seeds,Manual,Tank Irrigation,Organic Fertilizers,High
+Alluvial Soil,8.23,190.1,Kharif,Open-Pollinated Seeds,Machine,Drip Irrigation,Bioinputs Fertilizers,Very High
+Alluvial Soil,16.3,306.5,Zaid,Hybrid Seeds,Manual,Tank Irrigation,Chemical Fertilizers,Medium
+Alluvial Soil,10.18,1481.6,Kharif,Genetically Modified (GM) Seeds,Machine,Tubewell Irrigation,Organic Fertilizers,Very High
+Black Soil,17.97,694.0,Kharif,Open-Pollinated Seeds,Manual,Canal Irrigation,Bioinputs Fertilizers,Low
+Laterite Soil,5.38,821.2,Kharif,Hybrid Seeds,Machine,Drip Irrigation,Bioinputs Fertilizers,Very High
+Saline and Alkaline Soil,22.31,1316.7,Kharif,Genetically Modified (GM) Seeds,Manual,Tubewell Irrigation,Bioinputs Fertilizers,High
+Red and Yellow Soil,7.54,1493.6,Kharif,Hybrid Seeds,Manual,Sprinkler Irrigation,Organic Fertilizers,Very High
+Red and Yellow Soil,9.51,894.9,Zaid,Hybrid Seeds,Machine,Well Irrigation,Bioinputs Fertilizers,Medium
+Black Soil,1.92,1228.1,Zaid,Open-Pollinated Seeds,Machine,Tubewell Irrigation,Chemical Fertilizers,Medium
+Alluvial Soil,3.23,524.1,Kharif,Genetically Modified (GM) Seeds,Machine,Tank Irrigation,Bioinputs Fertilizers,Medium
+Black Soil,13.14,493.3,Zaid,Breeder Seeds,Manual,Canal Irrigation,Bioinputs Fertilizers,Low
+Laterite Soil,7.06,633.9,Zaid,Foundation Seeds,Machine,Canal Irrigation,Bioinputs Fertilizers,Medium
+Laterite Soil,20.97,1025.1,Rabi,Open-Pollinated Seeds,Machine,Tubewell Irrigation,Bioinputs Fertilizers,High
+Saline and Alkaline Soil,0.86,1039.2,Kharif,Genetically Modified (GM) Seeds,Manual,Sprinkler Irrigation,Chemical Fertilizers,High
+Saline and Alkaline Soil,9.79,507.1,Zaid,Hybrid Seeds,Machine,Well Irrigation,Organic Fertilizers,Medium
+Laterite Soil,8.76,243.2,Zaid,Genetically Modified (GM) Seeds,Machine,Tank Irrigation,Chemical Fertilizers,Low
+Laterite Soil,0.97,967.0,Kharif,Foundation Seeds,Machine,Tubewell Irrigation,Chemical Fertilizers,High

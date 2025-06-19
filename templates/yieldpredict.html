@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Farmer Details</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Poppins', sans-serif;
+    }
+
+    body {
+      background: url('https://satataagrofarm.com/wp-content/uploads/2024/01/9.jpg') no-repeat center center/cover;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      padding: 20px;
+      position: relative;
+    }
+
+    body::before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: rgba(0, 0, 0, 0.5); 
+      z-index: 0;
+    }
+
+    .form-container {
+      background-color: white;
+      width: 100%;
+      max-width: 700px;
+      padding: 30px;
+      border-radius: 8px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      position: relative;
+      z-index: 1;
+      max-height: 80vh; 
+      overflow-y: auto;
+    }
+
+    .input-box {
+      margin-bottom: 15px;
+    }
+
+    .input-box span.details {
+      display: block;
+      font-weight: 500;
+      margin-bottom: 5px;
+    }
+
+    .input-box input, .input-box select {
+      width: 100%;
+      height: 45px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      padding-left: 15px;
+      font-size: 16px;
+      outline: none;
+    }
+
+    .button input {
+      width: 100%;
+      height: 45px;
+      border: none;
+      border-radius: 5px;
+      background-color: #59b675;
+      color: white;
+      font-size: 18px;
+      font-weight: 500;
+      cursor: pointer;
+      transition: background 0.3s ease;
+    }
+
+    .button input:hover {
+      background-color: #4d9e60;
+    }
+
+    /* Back Button */
+    .back-btn {
+      display: inline-block;
+      padding: 10px 20px;
+      background-color: #59b675;
+      color: white;
+      text-align: center;
+      text-decoration: none;
+      border-radius: 5px;
+      margin-top: 20px;
+      cursor: pointer;
+    }
+
+    .back-btn:hover {
+      background-color: #4d9e60;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="form-container">
+    <h1>Yield Prediction</h1>
+    <form action="/submit_yield" method="post">
+      <div class="input-box">
+        <span class="details">Area Ploughed</span>
+        <input type="number" id="area" name="area" placeholder="Enter the area ploughed" required step="0.25" min="0" value="1">
+      </div>      
+      <div class="input-box">
+        <span class="details">Type of Soil</span>
+        <select name="soil" id="soil" required>
+          <option value="">Selct the Soil Type</option>
+          <option value="Alluvial Soil">Alluvial Soil</option>
+          <option value="Black Soil">Black Soil </option>
+          <option value="Red and Yellow Soil">Red and Yellow Soil</option>
+          <option value="Laterite Soil">Laterite Soil</option>
+          <option value="Saline and Alkaline Soil">Saline and Alkaline Soil</option>
+        </select>
+      </div>
+      <div class="input-box">
+        <span class="details">Average Rainfall (in mm)</span>
+        <input type="number" name="rain" id="rain" placeholder="Enter the Average Rainfall" required step="0.2" value="25.4">
+      </div>
+      <div class="input-box">
+        <span class="details">Season</span>
+        <select name="season" id="season" required>
+          <option value="">Select a season</option>
+          <option value="Kharif">Kharif (July - October)</option>
+          <option value="Rabi">Rabi (November - March)</option>
+          <option value="Zaid">Zaid (March - June)</option>
+        </select>
+      </div>      
+      <div class="input-box">
+        <span class="details">Type of Seeds</span>
+        <select name="seed" id="seed" required>
+          <option value="">Selct the type of Seeds Used</option>
+          <option value="Breeder Seeds">Breeder Seeds</option>
+          <option value="Foundation Seeds">Foundation Seeds</option>
+          <option value="Genetically Modified (GM) Seeds">Genetically Modified (GM) Seeds</option>
+          <option value="Hybrid Seeds">Hybrid Seeds</option>
+          <option value="Open-Pollinated Seeds">Open-Pollinated Seeds</option>
+        </select>
+      </div> 
+      <div class="input-box">
+        <span class="details">Type of Transplanting Method </span>
+        <select name="transplant" id="transplant" required>
+          <option value="">Selct the Transplanting Method Used</option>
+          <option value="Manual">Manual</option>
+          <option value="Machine">Machine</option>
+        </select>
+      </div>
+      <div class="input-box">
+        <span class="details">Type of Irrigation Method</span>
+        <select name="irrigation" id="irrigation" required>
+          <option value="">Selct the Irrigation Method Used</option>
+          <option value="Well Irrigation">Well Irrigation</option>
+          <option value="Canal Irrigation">Canal Irrigation</option>
+          <option value="Tank Irrigation">Tank Irrigation</option>
+          <option value="Tubewell Irrigation">Tubewell Irrigation</option>
+          <option value="Drip Irrigation">Drip Irrigation</option>
+          <option value="Sprinkler Irrigation">Sprinkler Irrigation</option>
+        </select>
+      </div>
+      <div class="input-box">
+        <span class="details">Type of Fertilizers Used </span>
+        <select name="fertilizer" id="fertilizer" required>
+          <option value="">Selct the type of Fertilizers Used</option>
+          <option value="Organic Fertilizers">Organic Fertilizers</option>
+          <option value="Chemical Fertilizers">Chemical Fertilizers</option>
+          <option value="Bioinputs Fertilizers">Bioinputs Fertilizers</option>
+        </select>
+      </div>
+      <div class="button">
+        <input type="submit" value="Submit Details" onclick="redirectToYieldPage()">
+    </div>
+    
+    <script>
+        function redirectToYieldPage() {
+            window.location.href = '/yieldout';
+        }
+    </script>    
+    
+    </form>
+
+    <a href="/main" class="back-btn" style="display: block; text-align: center;">Back to Homepage</a>
+
+  </div>
+
+</body>
+</html>
